@@ -5,19 +5,19 @@ A contamination free code dataset for the evaluation and investigation of LLM be
 
 ## Layout
 We give the code to reproduce the dataset in the code folder.
+
 In the repositories folder, we give a list of all repositories we used to generate the dataset.
 ## Running the code
-
 ### Code Collection
 1. We start by scraping repositories from GitHub based on their creation date, license, and amount of stars, using _repo_extract.js_.
 2. We extract all files corresponding to the selected language from each repository, using _extract_files.py_.
 
 ### Exact Deduplication
 To run the exact deduplication we make use of unix (ubuntu) tools, the naming/availability may differ depending on the OS.
-1. First we run ... To calculate and save to a text file all hashes belonging to our and other datasets.
-2. We generate unique hsahes of our dataset, and the other dataset using ...
-3. We merge two sets of hashes and record the duplicates using ...
-4. We flag duplicates in our dataset with respect to other datasets using ...
+1. First we run _hash_entries.py_ To calculate and save to a text file all hashes belonging to our and other datasets.
+2. We generate lists of unique hashes of our dataset, and the other dataset using _exact_dedup_hashes_self.py_.
+3. We merge two sets of hashes and record the duplicates using _exact_dedup_hashes_other.py_.
+4. We flag duplicates in our dataset with respect to other datasets using _exact_dedup_dataset.py_.
 
 ### Near Deduplication
 1. We generate and save the LSH object containing all the minhashes of our exact deduplicated dataset, using _lsh_creation.py_.
