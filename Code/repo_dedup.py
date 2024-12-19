@@ -70,6 +70,6 @@ if __name__ == "__main__":
     # directory_path = 'any_license'
     # files_in_directory = list_files_in_directory(directory_path)
     remove_and_check_duplicates(
-        ["./bigdataset_correct_dedup/WebAssemblyCopyLeft.json"],
+        ["./bigdataset_dedup/WebAssemblyCopyLeft.json"],
         "webassembly",
     )
