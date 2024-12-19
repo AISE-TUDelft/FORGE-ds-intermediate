@@ -1,5 +1,6 @@
 # The Heap
-A contamination free code dataset for the evaluation and investigation of LLM behavior.
+A contamination free code dataset for the evaluation and investigation of LLM behavior. 
+[HuggingFace](https://huggingface.co/datasets/WizzF/Heap-Forge)
 
 ## Layout
 We give the code to reproduce the dataset in the code folder.
@@ -33,7 +34,7 @@ dataset_name = 'RedPajama'
 language = 'Java'
 
 ds = load_dataset(
-    "/The_Heap",
+    "WizzF/Heap-Forge",
     f"{language}Near",
     split="train",
     num_proc=16
