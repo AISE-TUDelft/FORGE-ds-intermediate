@@ -32,11 +32,11 @@ Using the Datasets API, our dataset can be used as follows:
 from datasets import load_dataset
 
 dataset_name = 'redpajama'
-language = 'Java'
+language = 'Python'
 
 ds = load_dataset(
     "WizzF/Heap-Forge",
-    f"{language}Near",
+    f"{language}",
     split="train",
     num_proc=16
 )
