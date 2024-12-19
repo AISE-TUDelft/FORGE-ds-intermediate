@@ -3,17 +3,17 @@ from datasketch import MinHash
 from datasets import load_dataset
 import hashlib
 import struct
-from huggingface_hub import login
+from huggingface_hub import login, hf_hub_download
 import ast
 import json
 import regex as re
+from tqdm import tqdm
 
 login("HUGGINGFACE KEY")
 
 """Load your LSH object globally to avoid sharing it across processes"""
-with open("/lshFolder/lsh_haskell.pkl", "rb") as file:
+with open("/lshFolder/lsh_php.pkl", "rb") as file:
     LSH = pickle.load(file)
-
 
 def remove_comments_java(content):
     content = re.sub(r"\/\*[\S\s]*?\*\/", "", content)
@@ -352,7 +352,7 @@ def jaccard_similarity(set1, set2):
     return intersection / union
 
 
-def near_dedup(elements, near_dict):
+def near_dedup(elements):
     """Performs near-deduplication between Java-Stack v2 and LSH object containg the hashes of our custom dataset.
 
     Args:
@@ -362,6 +362,7 @@ def near_dedup(elements, near_dict):
         dict: Returns dictionary with the IDs of files from our dataset which are near-duplicates to files in Java-Stack v2.
     """
     paths = elements["path"]
+    duplicate_ids = []
     for idx, doc in enumerate(elements["content"]):
         minhash = MinHash(num_perm=128, hashfunc=sha256_hash128)
         # text = doc.lower().replace(" ", "")
@@ -374,40 +375,48 @@ def near_dedup(elements, near_dict):
             minhash.update(shingle.encode("utf-8"))
         results = LSH.query(minhash)
         if len(results) > 0:
-            for id in results:
-                near_dict[id] = True
-
+            duplicate_ids.append(results)
+        else:
+            duplicate_ids.append([-1])
+    return {"duplicates": duplicate_ids}
 
 if __name__ == "__main__":
 
     stackv2 = load_dataset(
         "<Anonymized>/the-stack-v2",
-        "HaskellFiles",
+        "PHPFiles",
         split="train",
+        num_proc=32,
         cache_dir="/huggingfaceCache",
     )
 
     own_dataset = load_dataset(
         "<Anonymized>/The_Heap",
-        "HaskellFiles",
+        "PHPNear",
         split="train",
+        num_proc=32,
         cache_dir="/huggingfaceCache",
     )
 
-    near_files = {i: False for i in range(len(own_dataset["content"]))}
-
-    stackv2_m = stackv2.map(lambda batch:
-        near_dedup(elements=batch, near_dict=near_files),
+    stackv2_m = stackv2.map(
+        near_dedup,
         batched=True,
-        num_proc=64,
-        keep_in_memory=False,
-        cache_file_name="/huggingfaceCache/cache_near.arrow",
+        num_proc=10,
+        batch_size=150,
     )
 
-    values_array = list(near_files.values())
-    near_ds = own_dataset.add_column("near_dups_stkv2", values_array)
+    reverse_ids = {i: False for i in range(len(own_dataset))}
+
+    for idx in tqdm(range(len(stackv2_m))):
+        if len(stackv2_m[idx]["duplicates"]) > 0 and stackv2_m[idx]["duplicates"][0] != -1:
+            for our_id in stackv2_m[idx]["duplicates"]:
+                if reverse_ids[our_id] is False:
+                    reverse_ids[our_id] = True
+
+    values_array = list(reverse_ids.values())
+    near_ds = own_dataset.add_column("near_duplicates_stackv2", values_array)
     near_ds.push_to_hub(
         "<Anonymized>/newRepo",
-        "HaskellNear",
-        data_dir="data/Haskell_Near",
+        "PHPNear",
+        data_dir="data/PHP_Near",
     )
