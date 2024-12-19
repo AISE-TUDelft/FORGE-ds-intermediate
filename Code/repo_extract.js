@@ -123,7 +123,7 @@ async function* searchReposByLicense(language, totalCount) {
         console.log(`Reset at: ${reset}`);
 
         if (remaining <= 0) await waitForRateLimitReset();
-// `license:gpl-3.0 license:gpl-2.0 license:agpl-3.0 language:${language} stars:>=900`,
+
         let response = [];
         if (up === 900) {
           response = await octokit.request("GET /search/repositories", {
