@@ -5,6 +5,9 @@ A contamination free code dataset for the evaluation and investigation of LLM be
 We give the code to reproduce the dataset in the code folder.
 In the repositories folder, we give a list of all repositories we used to generate the dataset.
 ## Running the code
+
+### Collecting Code
+
 ### Exact Dedup
 To run the exact deduplication we make use of unix (ubuntu) tools, the naming/availability may differ depending on the OS.
 1. First we run ... To calculate and save to a text file all hashes belonging to our and other datasets.
@@ -35,3 +38,7 @@ ds = load_dataset(
 
 ds = ds.filter(lambda x: not x[f'exact_dupe_{dataset_name}'] and not x[f'near_dups_{dataset_name}'])
 ```
+
+## acknowledgements
+We extended the collection of file endings and programming languages from ... in the file ...
+We added the languages ...
