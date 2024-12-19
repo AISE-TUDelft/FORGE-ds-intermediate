@@ -28,7 +28,7 @@ In order to have the most data available for each dataset, we do not filter dupl
 
 Using the Datasets API, our dataset can be used as follows:
 
-```
+```python
 from datasets import load_dataset
 
 dataset_name = 'redpajama'
