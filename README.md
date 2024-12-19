@@ -31,7 +31,7 @@ Using the Datasets API, our dataset can be used as follows:
 ```
 from datasets import load_dataset
 
-dataset_name = 'RedPajama'
+dataset_name = 'redpajama'
 language = 'Java'
 
 ds = load_dataset(
@@ -41,7 +41,7 @@ ds = load_dataset(
     num_proc=16
 )
 
-ds = ds.filter(lambda x: not x[f'exact_dupe_{dataset_name}'] and not x[f'near_dups_{dataset_name}'])
+ds = ds.filter(lambda x: not x[f'exact_duplicates_{dataset_name}'] and not x[f'near_duplicates_{dataset_name}'])
 ```
 
 ## Acknowledgements
