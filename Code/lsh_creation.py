@@ -10,7 +10,7 @@ import ast
 import regex as re
 
 disable_caching()
-login("key")
+login("HUGGINGFACE KEY")
 
 def remove_comments_java(content):
     content = re.sub(r"\/\*[\S\s]*?\*\/", "", content)
@@ -349,7 +349,7 @@ if __name__ == "__main__":
     """
 
     ds = load_dataset(
-        "AISE-TUDelft/Stackless_Dedup",
+        "HUGGINGFACE DATASET",
         "HaskellExact",
         split="train",
         cache_dir="/huggingfaceCache",
@@ -364,5 +364,5 @@ if __name__ == "__main__":
         )
         lsh.insert(idx, minhash, check_duplication=False)
 
-    with open("/lshFolder/lsh_haskell_fin.pkl", "wb") as file:
+    with open("/lshFolder/lsh_haskell.pkl", "wb") as file:
         pickle.dump(lsh, file)
