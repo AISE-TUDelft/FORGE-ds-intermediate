@@ -1,0 +1,4442 @@
+[
+  {
+    "id": 5855479,
+    "full_name": "larsbrinkhoff/lbForth",
+    "html_url": "https://github.com/larsbrinkhoff/lbForth",
+    "stargazers_count": 421,
+    "forks_count": 112,
+    "watchers_count": 421,
+    "open_issues_count": 41,
+    "language": "Forth",
+    "created_at": "2012-09-18T11:45:37Z",
+    "pushed_at": "2023-02-13T06:56:57Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:16:03 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 13000451,
+    "full_name": "forthy42/gforth",
+    "html_url": "https://github.com/forthy42/gforth",
+    "stargazers_count": 147,
+    "forks_count": 27,
+    "watchers_count": 147,
+    "open_issues_count": 17,
+    "language": "Forth",
+    "created_at": "2013-09-21T18:54:28Z",
+    "pushed_at": "2024-09-17T18:21:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:16:12 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 2742435,
+    "full_name": "davazp/eulex",
+    "html_url": "https://github.com/davazp/eulex",
+    "stargazers_count": 127,
+    "forks_count": 18,
+    "watchers_count": 127,
+    "open_issues_count": 3,
+    "language": "Forth",
+    "created_at": "2011-11-09T15:34:25Z",
+    "pushed_at": "2024-05-24T07:43:18Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:16:12 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 67776951,
+    "full_name": "larsbrinkhoff/fmacs",
+    "html_url": "https://github.com/larsbrinkhoff/fmacs",
+    "stargazers_count": 108,
+    "forks_count": 11,
+    "watchers_count": 108,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-09-09T07:30:49Z",
+    "pushed_at": "2020-05-25T11:59:51Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:16:12 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 275175118,
+    "full_name": "chmykh/apl-life",
+    "html_url": "https://github.com/chmykh/apl-life",
+    "stargazers_count": 86,
+    "forks_count": 3,
+    "watchers_count": 86,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2020-06-26T14:27:52Z",
+    "pushed_at": "2020-07-04T17:47:03Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:16:19 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 8309393,
+    "full_name": "M2IHP13-admin/JonesForth-arm",
+    "html_url": "https://github.com/M2IHP13-admin/JonesForth-arm",
+    "stargazers_count": 79,
+    "forks_count": 51,
+    "watchers_count": 79,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2013-02-20T08:54:34Z",
+    "pushed_at": "2015-12-03T16:56:29Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/19/2024, 12:16:26 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 128162243,
+    "full_name": "uho/preForth",
+    "html_url": "https://github.com/uho/preForth",
+    "stargazers_count": 74,
+    "forks_count": 8,
+    "watchers_count": 74,
+    "open_issues_count": 16,
+    "language": "Forth",
+    "created_at": "2018-04-05T05:15:39Z",
+    "pushed_at": "2022-05-01T00:30:04Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:16:26 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 98861886,
+    "full_name": "larsbrinkhoff/xForth",
+    "html_url": "https://github.com/larsbrinkhoff/xForth",
+    "stargazers_count": 61,
+    "forks_count": 14,
+    "watchers_count": 61,
+    "open_issues_count": 32,
+    "language": "Forth",
+    "created_at": "2017-07-31T07:40:09Z",
+    "pushed_at": "2021-04-30T22:15:30Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:16:33 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 78567718,
+    "full_name": "albertvanderhorst/ciforth",
+    "html_url": "https://github.com/albertvanderhorst/ciforth",
+    "stargazers_count": 59,
+    "forks_count": 7,
+    "watchers_count": 59,
+    "open_issues_count": 1,
+    "language": "Forth",
+    "created_at": "2017-01-10T19:44:20Z",
+    "pushed_at": "2024-04-24T11:55:17Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:16:40 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 495408612,
+    "full_name": "schierlm/collapseos-uxn",
+    "html_url": "https://github.com/schierlm/collapseos-uxn",
+    "stargazers_count": 51,
+    "forks_count": 3,
+    "watchers_count": 51,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2022-05-23T12:49:49Z",
+    "pushed_at": "2022-06-07T20:30:16Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:16:40 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 589153182,
+    "full_name": "lennart-benschop/agon-forth",
+    "html_url": "https://github.com/lennart-benschop/agon-forth",
+    "stargazers_count": 47,
+    "forks_count": 8,
+    "watchers_count": 47,
+    "open_issues_count": 2,
+    "language": "Forth",
+    "created_at": "2023-01-15T08:39:18Z",
+    "pushed_at": "2024-08-18T00:50:49Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:16:47 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 3170555,
+    "full_name": "JorthVM/JorthVM",
+    "html_url": "https://github.com/JorthVM/JorthVM",
+    "stargazers_count": 39,
+    "forks_count": 4,
+    "watchers_count": 39,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2012-01-13T12:18:28Z",
+    "pushed_at": "2012-04-27T12:59:10Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:05 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 36768285,
+    "full_name": "forthy42/bigforth",
+    "html_url": "https://github.com/forthy42/bigforth",
+    "stargazers_count": 33,
+    "forks_count": 7,
+    "watchers_count": 33,
+    "open_issues_count": 1,
+    "language": "Forth",
+    "created_at": "2015-06-02T23:42:09Z",
+    "pushed_at": "2023-03-30T19:07:51Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:05 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 49740418,
+    "full_name": "openbios/fcode-utils",
+    "html_url": "https://github.com/openbios/fcode-utils",
+    "stargazers_count": 29,
+    "forks_count": 12,
+    "watchers_count": 29,
+    "open_issues_count": 6,
+    "language": "Forth",
+    "created_at": "2016-01-15T19:30:44Z",
+    "pushed_at": "2024-07-13T19:48:45Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:17:12 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 146062711,
+    "full_name": "mschuldt/raillisp",
+    "html_url": "https://github.com/mschuldt/raillisp",
+    "stargazers_count": 27,
+    "forks_count": 1,
+    "watchers_count": 27,
+    "open_issues_count": 4,
+    "language": "Forth",
+    "created_at": "2018-08-25T03:50:03Z",
+    "pushed_at": "2021-07-13T22:16:31Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:12 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 31770980,
+    "full_name": "andrewtholt/minforth",
+    "html_url": "https://github.com/andrewtholt/minforth",
+    "stargazers_count": 25,
+    "forks_count": 5,
+    "watchers_count": 25,
+    "open_issues_count": 1,
+    "language": "Forth",
+    "created_at": "2015-03-06T13:43:47Z",
+    "pushed_at": "2015-03-09T12:35:56Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:17:12 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 93779664,
+    "full_name": "frno7/forthmath",
+    "html_url": "https://github.com/frno7/forthmath",
+    "stargazers_count": 24,
+    "forks_count": 4,
+    "watchers_count": 24,
+    "open_issues_count": 6,
+    "language": "Forth",
+    "created_at": "2017-06-08T18:26:47Z",
+    "pushed_at": "2017-06-14T17:53:01Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:12 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 195801944,
+    "full_name": "mynenik/kForth-64",
+    "html_url": "https://github.com/mynenik/kForth-64",
+    "stargazers_count": 21,
+    "forks_count": 5,
+    "watchers_count": 21,
+    "open_issues_count": 1,
+    "language": "Forth",
+    "created_at": "2019-07-08T11:51:55Z",
+    "pushed_at": "2024-09-09T02:56:40Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 12:17:12 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 29368929,
+    "full_name": "oco2000/m3forth",
+    "html_url": "https://github.com/oco2000/m3forth",
+    "stargazers_count": 20,
+    "forks_count": 9,
+    "watchers_count": 20,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2015-01-16T21:37:18Z",
+    "pushed_at": "2021-09-23T21:33:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:12 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 299572017,
+    "full_name": "frenchie68/Z79Forth",
+    "html_url": "https://github.com/frenchie68/Z79Forth",
+    "stargazers_count": 19,
+    "forks_count": 3,
+    "watchers_count": 19,
+    "open_issues_count": 2,
+    "language": "Forth",
+    "created_at": "2020-09-29T09:44:30Z",
+    "pushed_at": "2024-09-10T15:22:03Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:20 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 146197004,
+    "full_name": "mynenik/kForth-32",
+    "html_url": "https://github.com/mynenik/kForth-32",
+    "stargazers_count": 19,
+    "forks_count": 2,
+    "watchers_count": 19,
+    "open_issues_count": 1,
+    "language": "Forth",
+    "created_at": "2018-08-26T16:25:35Z",
+    "pushed_at": "2024-09-09T02:59:04Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 12:17:20 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 98090150,
+    "full_name": "frno7/frth",
+    "html_url": "https://github.com/frno7/frth",
+    "stargazers_count": 19,
+    "forks_count": 3,
+    "watchers_count": 19,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2017-07-23T10:21:09Z",
+    "pushed_at": "2017-07-23T10:28:01Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:20 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 49742264,
+    "full_name": "larsbrinkhoff/forth-compiler",
+    "html_url": "https://github.com/larsbrinkhoff/forth-compiler",
+    "stargazers_count": 18,
+    "forks_count": 1,
+    "watchers_count": 18,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-01-15T20:08:45Z",
+    "pushed_at": "2016-01-19T11:16:48Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:20 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 110052,
+    "full_name": "earl/gforth-mirror",
+    "html_url": "https://github.com/earl/gforth-mirror",
+    "stargazers_count": 18,
+    "forks_count": 2,
+    "watchers_count": 18,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2009-01-18T21:56:08Z",
+    "pushed_at": "2023-03-23T16:49:03Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:20 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 314786436,
+    "full_name": "dimitrit/figforth",
+    "html_url": "https://github.com/dimitrit/figforth",
+    "stargazers_count": 16,
+    "forks_count": 6,
+    "watchers_count": 16,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2020-11-21T10:31:36Z",
+    "pushed_at": "2023-12-17T10:08:18Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:20 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 159414331,
+    "full_name": "janaite/msx-forth83",
+    "html_url": "https://github.com/janaite/msx-forth83",
+    "stargazers_count": 15,
+    "forks_count": 3,
+    "watchers_count": 15,
+    "open_issues_count": 1,
+    "language": "Forth",
+    "created_at": "2018-11-27T23:23:43Z",
+    "pushed_at": "2021-12-05T22:38:34Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:20 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 332493798,
+    "full_name": "AntonErtl/fforth",
+    "html_url": "https://github.com/AntonErtl/fforth",
+    "stargazers_count": 15,
+    "forks_count": 0,
+    "watchers_count": 15,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-01-24T16:11:52Z",
+    "pushed_at": "2021-09-18T08:57:58Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:20 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 61871990,
+    "full_name": "Anding/Minimal_IP",
+    "html_url": "https://github.com/Anding/Minimal_IP",
+    "stargazers_count": 13,
+    "forks_count": 2,
+    "watchers_count": 13,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-06-24T09:05:29Z",
+    "pushed_at": "2018-06-25T09:39:37Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:20 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 45710029,
+    "full_name": "GeraldWodni/f",
+    "html_url": "https://github.com/GeraldWodni/f",
+    "stargazers_count": 12,
+    "forks_count": 2,
+    "watchers_count": 12,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2015-11-06T21:56:47Z",
+    "pushed_at": "2018-04-04T12:41:26Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:20 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 36266187,
+    "full_name": "scotws/crude65816",
+    "html_url": "https://github.com/scotws/crude65816",
+    "stargazers_count": 11,
+    "forks_count": 0,
+    "watchers_count": 11,
+    "open_issues_count": 1,
+    "language": "Forth",
+    "created_at": "2015-05-26T02:13:17Z",
+    "pushed_at": "2017-01-29T15:30:33Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:20 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 207360216,
+    "full_name": "sam-falvo/unsuitable",
+    "html_url": "https://github.com/sam-falvo/unsuitable",
+    "stargazers_count": 11,
+    "forks_count": 0,
+    "watchers_count": 11,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2019-09-09T16:59:39Z",
+    "pushed_at": "2023-01-18T21:16:07Z",
+    "license": {
+      "key": "mpl-2.0",
+      "name": "Mozilla Public License 2.0",
+      "spdx_id": "MPL-2.0",
+      "url": "https://api.github.com/licenses/mpl-2.0",
+      "node_id": "MDc6TGljZW5zZTE0"
+    },
+    "retrieval_date": "9/19/2024, 12:17:20 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 55668895,
+    "full_name": "scotws/Fed",
+    "html_url": "https://github.com/scotws/Fed",
+    "stargazers_count": 9,
+    "forks_count": 0,
+    "watchers_count": 9,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-04-07T06:20:34Z",
+    "pushed_at": "2016-04-07T08:26:20Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 75115926,
+    "full_name": "uho/flk",
+    "html_url": "https://github.com/uho/flk",
+    "stargazers_count": 9,
+    "forks_count": 2,
+    "watchers_count": 9,
+    "open_issues_count": 1,
+    "language": "Forth",
+    "created_at": "2016-11-29T19:45:20Z",
+    "pushed_at": "2016-12-11T21:53:19Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:17:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 109177468,
+    "full_name": "cstrotm/tile-forth",
+    "html_url": "https://github.com/cstrotm/tile-forth",
+    "stargazers_count": 8,
+    "forks_count": 1,
+    "watchers_count": 8,
+    "open_issues_count": 1,
+    "language": "Forth",
+    "created_at": "2017-11-01T19:57:23Z",
+    "pushed_at": "2017-11-02T20:29:33Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:17:34 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 67389440,
+    "full_name": "thwbecker/interact",
+    "html_url": "https://github.com/thwbecker/interact",
+    "stargazers_count": 8,
+    "forks_count": 3,
+    "watchers_count": 8,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-09-05T05:02:57Z",
+    "pushed_at": "2024-09-05T15:48:30Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:17:34 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 7770829,
+    "full_name": "harrypower/gforth_webserver",
+    "html_url": "https://github.com/harrypower/gforth_webserver",
+    "stargazers_count": 8,
+    "forks_count": 1,
+    "watchers_count": 8,
+    "open_issues_count": 3,
+    "language": "Forth",
+    "created_at": "2013-01-23T08:36:57Z",
+    "pushed_at": "2017-12-01T06:50:55Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:34 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 3472781,
+    "full_name": "uho/ffl",
+    "html_url": "https://github.com/uho/ffl",
+    "stargazers_count": 8,
+    "forks_count": 3,
+    "watchers_count": 8,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2012-02-17T18:47:22Z",
+    "pushed_at": "2011-08-04T07:02:27Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:17:34 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 27519832,
+    "full_name": "tuffnatty/suddenly",
+    "html_url": "https://github.com/tuffnatty/suddenly",
+    "stargazers_count": 8,
+    "forks_count": 0,
+    "watchers_count": 8,
+    "open_issues_count": 27,
+    "language": "Forth",
+    "created_at": "2014-12-04T02:47:46Z",
+    "pushed_at": "2022-10-03T21:31:18Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:17:34 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 76170645,
+    "full_name": "assad-ebrahim/Turtle-Logo-Forth",
+    "html_url": "https://github.com/assad-ebrahim/Turtle-Logo-Forth",
+    "stargazers_count": 7,
+    "forks_count": 0,
+    "watchers_count": 7,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-12-11T11:39:56Z",
+    "pushed_at": "2016-12-11T11:52:03Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/19/2024, 12:17:41 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 466580069,
+    "full_name": "elineberry/torshavn",
+    "html_url": "https://github.com/elineberry/torshavn",
+    "stargazers_count": 7,
+    "forks_count": 0,
+    "watchers_count": 7,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2022-03-05T22:18:43Z",
+    "pushed_at": "2022-03-12T20:10:48Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:41 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 28573228,
+    "full_name": "GeraldWodni/bitkanone",
+    "html_url": "https://github.com/GeraldWodni/bitkanone",
+    "stargazers_count": 7,
+    "forks_count": 4,
+    "watchers_count": 7,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2014-12-28T22:38:11Z",
+    "pushed_at": "2016-12-29T17:09:03Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:41 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 33341549,
+    "full_name": "bshepherdson/fortz",
+    "html_url": "https://github.com/bshepherdson/fortz",
+    "stargazers_count": 7,
+    "forks_count": 0,
+    "watchers_count": 7,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2015-04-03T02:08:58Z",
+    "pushed_at": "2017-06-01T23:27:54Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:17:41 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 6114447,
+    "full_name": "bewest/amforth",
+    "html_url": "https://github.com/bewest/amforth",
+    "stargazers_count": 7,
+    "forks_count": 2,
+    "watchers_count": 7,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2012-10-07T17:27:18Z",
+    "pushed_at": "2012-10-07T17:27:59Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:17:41 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 119215959,
+    "full_name": "mobluse/semigraphics",
+    "html_url": "https://github.com/mobluse/semigraphics",
+    "stargazers_count": 6,
+    "forks_count": 1,
+    "watchers_count": 6,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-01-28T00:58:11Z",
+    "pushed_at": "2023-08-27T13:18:57Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 12:17:48 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 250909902,
+    "full_name": "programandala-net/fendo",
+    "html_url": "https://github.com/programandala-net/fendo",
+    "stargazers_count": 6,
+    "forks_count": 1,
+    "watchers_count": 6,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2020-03-28T22:54:13Z",
+    "pushed_at": "2024-09-03T11:07:28Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:17:48 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 42475766,
+    "full_name": "MoleskiCoder/forth-sudoku",
+    "html_url": "https://github.com/MoleskiCoder/forth-sudoku",
+    "stargazers_count": 6,
+    "forks_count": 4,
+    "watchers_count": 6,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2015-09-14T20:40:18Z",
+    "pushed_at": "2016-12-16T19:35:52Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:17:48 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 626128889,
+    "full_name": "adumont/emu6809",
+    "html_url": "https://github.com/adumont/emu6809",
+    "stargazers_count": 6,
+    "forks_count": 1,
+    "watchers_count": 6,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-04-10T21:23:30Z",
+    "pushed_at": "2023-09-02T16:21:22Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:48 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 52975185,
+    "full_name": "programandala-net/tron-0xf",
+    "html_url": "https://github.com/programandala-net/tron-0xf",
+    "stargazers_count": 5,
+    "forks_count": 0,
+    "watchers_count": 5,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-03-02T15:47:50Z",
+    "pushed_at": "2020-03-26T15:34:41Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 162636569,
+    "full_name": "euhmeuh/rilouwos",
+    "html_url": "https://github.com/euhmeuh/rilouwos",
+    "stargazers_count": 5,
+    "forks_count": 1,
+    "watchers_count": 5,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-12-20T22:13:08Z",
+    "pushed_at": "2021-10-05T09:48:41Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 2626013,
+    "full_name": "llasram/zmforth",
+    "html_url": "https://github.com/llasram/zmforth",
+    "stargazers_count": 5,
+    "forks_count": 0,
+    "watchers_count": 5,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2011-10-22T13:05:50Z",
+    "pushed_at": "2011-10-22T13:11:38Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 199740365,
+    "full_name": "minmus-9/MRForth",
+    "html_url": "https://github.com/minmus-9/MRForth",
+    "stargazers_count": 5,
+    "forks_count": 0,
+    "watchers_count": 5,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2019-07-30T23:08:35Z",
+    "pushed_at": "2019-07-30T23:11:12Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 15494577,
+    "full_name": "lowfatcomputing/amforth",
+    "html_url": "https://github.com/lowfatcomputing/amforth",
+    "stargazers_count": 5,
+    "forks_count": 0,
+    "watchers_count": 5,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2013-12-28T15:41:28Z",
+    "pushed_at": "2013-12-30T17:44:03Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:17:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 68647936,
+    "full_name": "twisted-pear/gfsh",
+    "html_url": "https://github.com/twisted-pear/gfsh",
+    "stargazers_count": 5,
+    "forks_count": 0,
+    "watchers_count": 5,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-09-19T21:23:40Z",
+    "pushed_at": "2017-10-19T16:09:24Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 230005488,
+    "full_name": "robertostling/cpu7",
+    "html_url": "https://github.com/robertostling/cpu7",
+    "stargazers_count": 5,
+    "forks_count": 0,
+    "watchers_count": 5,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2019-12-24T21:31:28Z",
+    "pushed_at": "2019-12-26T23:13:56Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 97631165,
+    "full_name": "forthy42/b16-small",
+    "html_url": "https://github.com/forthy42/b16-small",
+    "stargazers_count": 5,
+    "forks_count": 0,
+    "watchers_count": 5,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2017-07-18T18:31:51Z",
+    "pushed_at": "2019-12-29T23:21:59Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:17:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 271606765,
+    "full_name": "mynenik/kForth-Win32",
+    "html_url": "https://github.com/mynenik/kForth-Win32",
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "watchers_count": 4,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2020-06-11T17:26:36Z",
+    "pushed_at": "2024-09-09T03:00:32Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 12:18:02 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 537615217,
+    "full_name": "seanpm2001/Learn-Forth",
+    "html_url": "https://github.com/seanpm2001/Learn-Forth",
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "watchers_count": 4,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2022-09-16T20:48:21Z",
+    "pushed_at": "2022-09-17T02:13:46Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:02 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 22813643,
+    "full_name": "lowfatcomputing/teensy-anc",
+    "html_url": "https://github.com/lowfatcomputing/teensy-anc",
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "watchers_count": 4,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2014-08-10T16:47:40Z",
+    "pushed_at": "2014-08-10T17:09:28Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 12:18:02 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 149898344,
+    "full_name": "AntonErtl/garbage-collection",
+    "html_url": "https://github.com/AntonErtl/garbage-collection",
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "watchers_count": 4,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-09-22T17:07:23Z",
+    "pushed_at": "2018-09-22T17:09:05Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:18:02 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 41488685,
+    "full_name": "beretta42/legsforth",
+    "html_url": "https://github.com/beretta42/legsforth",
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "watchers_count": 4,
+    "open_issues_count": 1,
+    "language": "Forth",
+    "created_at": "2015-08-27T13:37:45Z",
+    "pushed_at": "2020-07-21T03:02:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:02 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 208648822,
+    "full_name": "euhmeuh/primal-rites",
+    "html_url": "https://github.com/euhmeuh/primal-rites",
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "watchers_count": 4,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2019-09-15T19:51:30Z",
+    "pushed_at": "2019-09-24T20:14:57Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:02 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 38120176,
+    "full_name": "scotws/tdis65816",
+    "html_url": "https://github.com/scotws/tdis65816",
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "watchers_count": 4,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2015-06-26T16:00:40Z",
+    "pushed_at": "2015-09-17T11:27:12Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:02 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 195862955,
+    "full_name": "ekkehard-morgenstern/forthbasic",
+    "html_url": "https://github.com/ekkehard-morgenstern/forthbasic",
+    "stargazers_count": 4,
+    "forks_count": 2,
+    "watchers_count": 4,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2019-07-08T18:08:00Z",
+    "pushed_at": "2019-07-14T05:12:52Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:02 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 243586922,
+    "full_name": "jean-michel-thoorens/FastForth-for-MSP430FRxxxx",
+    "html_url": "https://github.com/jean-michel-thoorens/FastForth-for-MSP430FRxxxx",
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "watchers_count": 4,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2020-02-27T18:23:57Z",
+    "pushed_at": "2022-11-10T19:27:15Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:02 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 21312516,
+    "full_name": "forthy42/net2o-ec",
+    "html_url": "https://github.com/forthy42/net2o-ec",
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "watchers_count": 4,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2014-06-28T22:53:35Z",
+    "pushed_at": "2014-11-15T19:55:41Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:02 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 50786644,
+    "full_name": "harrypower/Gforth-Objects",
+    "html_url": "https://github.com/harrypower/Gforth-Objects",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-01-31T17:44:32Z",
+    "pushed_at": "2018-06-15T22:49:00Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 1150566,
+    "full_name": "AndyA/gforth-tap",
+    "html_url": "https://github.com/AndyA/gforth-tap",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2010-12-08T18:50:28Z",
+    "pushed_at": "2017-07-21T17:40:48Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 96016253,
+    "full_name": "Anding/Prime_Factor_Analysis",
+    "html_url": "https://github.com/Anding/Prime_Factor_Analysis",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2017-07-02T10:29:29Z",
+    "pushed_at": "2018-03-17T00:43:39Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 110741484,
+    "full_name": "albertvanderhorst/primecounting",
+    "html_url": "https://github.com/albertvanderhorst/primecounting",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2017-11-14T20:33:05Z",
+    "pushed_at": "2024-03-26T12:14:47Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 37336089,
+    "full_name": "scotws/tasm65816",
+    "html_url": "https://github.com/scotws/tasm65816",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 1,
+    "language": "Forth",
+    "created_at": "2015-06-12T17:49:02Z",
+    "pushed_at": "2015-10-27T19:51:08Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 67653841,
+    "full_name": "RogerLevy/bubble-saturn-cycle-OLD",
+    "html_url": "https://github.com/RogerLevy/bubble-saturn-cycle-OLD",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 1,
+    "language": "Forth",
+    "created_at": "2016-09-08T00:31:05Z",
+    "pushed_at": "2016-09-08T03:01:31Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 102075800,
+    "full_name": "AntonErtl/vectors",
+    "html_url": "https://github.com/AntonErtl/vectors",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2017-09-01T05:08:08Z",
+    "pushed_at": "2018-08-17T17:04:09Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 352003897,
+    "full_name": "jxc4583/sdcbench",
+    "html_url": "https://github.com/jxc4583/sdcbench",
+    "stargazers_count": 3,
+    "forks_count": 6,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-03-27T06:52:58Z",
+    "pushed_at": "2021-05-31T11:56:44Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 142656877,
+    "full_name": "nomennescio/coderunner-forth",
+    "html_url": "https://github.com/nomennescio/coderunner-forth",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-07-28T07:30:51Z",
+    "pushed_at": "2018-07-28T21:20:21Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 235678582,
+    "full_name": "Lecrapouille/SimForth",
+    "html_url": "https://github.com/Lecrapouille/SimForth",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 1,
+    "language": "Forth",
+    "created_at": "2020-01-22T22:17:12Z",
+    "pushed_at": "2023-02-23T22:08:35Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 114638292,
+    "full_name": "simoninireland/attila",
+    "html_url": "https://github.com/simoninireland/attila",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2017-12-18T12:26:02Z",
+    "pushed_at": "2017-12-19T09:17:16Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 146378189,
+    "full_name": "mynenik/XYPLOT-32",
+    "html_url": "https://github.com/mynenik/XYPLOT-32",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-08-28T02:03:06Z",
+    "pushed_at": "2024-06-17T02:39:45Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 13351472,
+    "full_name": "harrypower/Gforth-Tools",
+    "html_url": "https://github.com/harrypower/Gforth-Tools",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 1,
+    "language": "Forth",
+    "created_at": "2013-10-05T19:58:23Z",
+    "pushed_at": "2017-01-28T19:53:24Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 214500068,
+    "full_name": "euhmeuh/rilouwshell",
+    "html_url": "https://github.com/euhmeuh/rilouwshell",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2019-10-11T18:01:25Z",
+    "pushed_at": "2021-10-05T09:52:14Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 475548493,
+    "full_name": "lennart-benschop/cerberus-z80-forth",
+    "html_url": "https://github.com/lennart-benschop/cerberus-z80-forth",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2022-03-29T17:25:06Z",
+    "pushed_at": "2024-03-10T15:55:57Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 373979128,
+    "full_name": "seanpm2001/SNU_2D_ProgrammingTools_IDE_Forth",
+    "html_url": "https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Forth",
+    "stargazers_count": 3,
+    "forks_count": 2,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-06-04T23:17:42Z",
+    "pushed_at": "2022-09-16T23:42:58Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 80953486,
+    "full_name": "jake-b/NetTime",
+    "html_url": "https://github.com/jake-b/NetTime",
+    "stargazers_count": 3,
+    "forks_count": 2,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2017-02-04T22:41:29Z",
+    "pushed_at": "2017-02-04T22:50:31Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 39843887,
+    "full_name": "cservan/lib_distance",
+    "html_url": "https://github.com/cservan/lib_distance",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2015-07-28T15:59:41Z",
+    "pushed_at": "2015-12-09T10:09:25Z",
+    "license": {
+      "key": "lgpl-2.1",
+      "name": "GNU Lesser General Public License v2.1",
+      "spdx_id": "LGPL-2.1",
+      "url": "https://api.github.com/licenses/lgpl-2.1",
+      "node_id": "MDc6TGljZW5zZTEx"
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 17729195,
+    "full_name": "lowfatcomputing/amforth-nRF24L01",
+    "html_url": "https://github.com/lowfatcomputing/amforth-nRF24L01",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2014-03-13T23:14:23Z",
+    "pushed_at": "2014-03-13T23:15:35Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 507993305,
+    "full_name": "jakiki6/tfos",
+    "html_url": "https://github.com/jakiki6/tfos",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2022-06-27T17:00:04Z",
+    "pushed_at": "2022-10-17T17:16:41Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 6584233,
+    "full_name": "bradn123/gforth",
+    "html_url": "https://github.com/bradn123/gforth",
+    "stargazers_count": 3,
+    "forks_count": 2,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2012-11-07T18:40:22Z",
+    "pushed_at": "2012-11-15T22:28:56Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 487675070,
+    "full_name": "ArnautDaniel/occiro",
+    "html_url": "https://github.com/ArnautDaniel/occiro",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "open_issues_count": 2,
+    "language": "Forth",
+    "created_at": "2022-05-02T00:33:40Z",
+    "pushed_at": "2022-05-07T21:52:53Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 71210146,
+    "full_name": "haraldur-tristan-gunnarsson/henceforth",
+    "html_url": "https://github.com/haraldur-tristan-gunnarsson/henceforth",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-10-18T04:52:35Z",
+    "pushed_at": "2017-08-04T02:12:08Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 125707052,
+    "full_name": "viusiumbeli/forthress",
+    "html_url": "https://github.com/viusiumbeli/forthress",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-03-18T08:49:44Z",
+    "pushed_at": "2018-03-25T12:10:09Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 586282873,
+    "full_name": "tynemouthsoftware/Forth",
+    "html_url": "https://github.com/tynemouthsoftware/Forth",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-01-07T15:37:27Z",
+    "pushed_at": "2023-01-07T17:16:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 70532608,
+    "full_name": "Mat2/bubble",
+    "html_url": "https://github.com/Mat2/bubble",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-10-10T22:04:56Z",
+    "pushed_at": "2016-10-10T14:43:08Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 302805825,
+    "full_name": "Picatout/supernova",
+    "html_url": "https://github.com/Picatout/supernova",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2020-10-10T03:23:39Z",
+    "pushed_at": "2020-10-17T19:48:19Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 326027279,
+    "full_name": "j50n/emoji-world",
+    "html_url": "https://github.com/j50n/emoji-world",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-01-01T17:46:10Z",
+    "pushed_at": "2021-01-18T22:23:24Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 136516663,
+    "full_name": "harrypower/sandtable",
+    "html_url": "https://github.com/harrypower/sandtable",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-06-07T18:32:28Z",
+    "pushed_at": "2021-08-05T03:16:25Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 145832012,
+    "full_name": "Anding/descriptor-based-strings",
+    "html_url": "https://github.com/Anding/descriptor-based-strings",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-08-23T09:32:23Z",
+    "pushed_at": "2020-03-19T05:26:37Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 10303295,
+    "full_name": "harrypower/datalogger",
+    "html_url": "https://github.com/harrypower/datalogger",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 1,
+    "language": "Forth",
+    "created_at": "2013-05-26T20:41:21Z",
+    "pushed_at": "2017-02-10T23:53:58Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 136087587,
+    "full_name": "CharleyShattuck/Plover-Dictionaries",
+    "html_url": "https://github.com/CharleyShattuck/Plover-Dictionaries",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-06-04T21:59:25Z",
+    "pushed_at": "2021-04-23T00:38:18Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 444009347,
+    "full_name": "FlachyJoe/thumb",
+    "html_url": "https://github.com/FlachyJoe/thumb",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2022-01-03T09:43:48Z",
+    "pushed_at": "2022-01-03T10:14:21Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 707408823,
+    "full_name": "seanpm2001/AI2001_Category-Source_Code-SC-Forth",
+    "html_url": "https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Forth",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-10-19T20:49:54Z",
+    "pushed_at": "2023-10-20T06:31:02Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 178965081,
+    "full_name": "ArdeshirV/Fortran77Hello",
+    "html_url": "https://github.com/ArdeshirV/Fortran77Hello",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2019-04-01T23:56:31Z",
+    "pushed_at": "2019-04-13T21:06:01Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 389604814,
+    "full_name": "bjaan/dah8300",
+    "html_url": "https://github.com/bjaan/dah8300",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-07-26T11:10:19Z",
+    "pushed_at": "2021-08-01T23:33:58Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 650230534,
+    "full_name": "Mecrisp/my4th",
+    "html_url": "https://github.com/Mecrisp/my4th",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-06-06T16:11:47Z",
+    "pushed_at": "2023-06-06T16:17:19Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 158729493,
+    "full_name": "naens/modred",
+    "html_url": "https://github.com/naens/modred",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-11-22T17:00:39Z",
+    "pushed_at": "2020-06-30T21:26:04Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 120421148,
+    "full_name": "wa1tnr/amrforth-v7-F330",
+    "html_url": "https://github.com/wa1tnr/amrforth-v7-F330",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-02-06T07:59:47Z",
+    "pushed_at": "2024-03-07T23:51:44Z",
+    "license": {
+      "key": "lgpl-2.1",
+      "name": "GNU Lesser General Public License v2.1",
+      "spdx_id": "LGPL-2.1",
+      "url": "https://api.github.com/licenses/lgpl-2.1",
+      "node_id": "MDc6TGljZW5zZTEx"
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 47635800,
+    "full_name": "programandala-net/mkmgt",
+    "html_url": "https://github.com/programandala-net/mkmgt",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2015-12-08T16:51:47Z",
+    "pushed_at": "2020-05-14T19:45:44Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 67184167,
+    "full_name": "RogerLevy/bubble-OLD",
+    "html_url": "https://github.com/RogerLevy/bubble-OLD",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-09-02T02:46:44Z",
+    "pushed_at": "2016-09-02T02:48:10Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 90299422,
+    "full_name": "CarlHMitchell/ChaChaForth",
+    "html_url": "https://github.com/CarlHMitchell/ChaChaForth",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2017-05-04T18:59:52Z",
+    "pushed_at": "2017-05-04T19:01:18Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 210558882,
+    "full_name": "dbenoy/mercury-muf",
+    "html_url": "https://github.com/dbenoy/mercury-muf",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 2,
+    "language": "Forth",
+    "created_at": "2019-09-24T09:03:55Z",
+    "pushed_at": "2020-10-27T07:54:15Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 90015556,
+    "full_name": "gitGNU/gnu_gforth",
+    "html_url": "https://github.com/gitGNU/gnu_gforth",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 1,
+    "language": "Forth",
+    "created_at": "2017-05-02T09:31:37Z",
+    "pushed_at": "2017-05-05T14:29:15Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 468720800,
+    "full_name": "Liorst4/forth-maze-game",
+    "html_url": "https://github.com/Liorst4/forth-maze-game",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2022-03-11T11:18:22Z",
+    "pushed_at": "2022-03-12T12:30:58Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 330396175,
+    "full_name": "jhlagado/forth-iterators",
+    "html_url": "https://github.com/jhlagado/forth-iterators",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-01-17T13:23:17Z",
+    "pushed_at": "2021-05-06T13:45:07Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 91255624,
+    "full_name": "pipcet/tay",
+    "html_url": "https://github.com/pipcet/tay",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 1,
+    "language": "Forth",
+    "created_at": "2017-05-14T16:12:24Z",
+    "pushed_at": "2017-05-17T22:31:41Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 126347871,
+    "full_name": "danilomo/Project-Euler-Forth",
+    "html_url": "https://github.com/danilomo/Project-Euler-Forth",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-03-22T14:29:35Z",
+    "pushed_at": "2018-04-01T18:56:33Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 533048339,
+    "full_name": "seanpm2001/FireDiamondSuite",
+    "html_url": "https://github.com/seanpm2001/FireDiamondSuite",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2022-09-05T20:20:53Z",
+    "pushed_at": "2023-08-26T00:42:20Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 1264483,
+    "full_name": "faircloth-lab/mod-primer3",
+    "html_url": "https://github.com/faircloth-lab/mod-primer3",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2011-01-17T19:24:19Z",
+    "pushed_at": "2011-10-06T21:47:11Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:18:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 19051671,
+    "full_name": "hickey/amforth",
+    "html_url": "https://github.com/hickey/amforth",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2014-04-23T00:44:16Z",
+    "pushed_at": "2014-04-23T00:52:18Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 52075768,
+    "full_name": "mobluse/convoy-bomb",
+    "html_url": "https://github.com/mobluse/convoy-bomb",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-02-19T09:13:02Z",
+    "pushed_at": "2023-08-15T19:28:59Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 351776360,
+    "full_name": "jhlagado/forth-memory",
+    "html_url": "https://github.com/jhlagado/forth-memory",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-03-26T12:32:48Z",
+    "pushed_at": "2021-04-26T13:21:08Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 643719044,
+    "full_name": "HassanShoaibresearch/Phonon-wavepacket-dynamics",
+    "html_url": "https://github.com/HassanShoaibresearch/Phonon-wavepacket-dynamics",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-05-22T02:30:59Z",
+    "pushed_at": "2023-05-22T02:38:00Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 42594283,
+    "full_name": "plleg/MylbForth",
+    "html_url": "https://github.com/plleg/MylbForth",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2015-09-16T15:00:11Z",
+    "pushed_at": "2015-09-16T15:04:00Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 23329992,
+    "full_name": "harrypower/BBB_Gforth_gpio",
+    "html_url": "https://github.com/harrypower/BBB_Gforth_gpio",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2014-08-25T21:52:39Z",
+    "pushed_at": "2018-11-11T20:17:04Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 40786981,
+    "full_name": "MoleskiCoder/starting-forth-exercises",
+    "html_url": "https://github.com/MoleskiCoder/starting-forth-exercises",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2015-08-15T21:46:05Z",
+    "pushed_at": "2015-09-06T21:19:13Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 56260701,
+    "full_name": "GeraldWodni/bitclock",
+    "html_url": "https://github.com/GeraldWodni/bitclock",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-04-14T18:25:53Z",
+    "pushed_at": "2016-04-14T19:24:32Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 75341194,
+    "full_name": "GeraldWodni/bitbot",
+    "html_url": "https://github.com/GeraldWodni/bitbot",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-12-01T23:13:58Z",
+    "pushed_at": "2016-12-28T13:25:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 134624227,
+    "full_name": "charcodelimit/f-16s16m",
+    "html_url": "https://github.com/charcodelimit/f-16s16m",
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-05-23T20:52:06Z",
+    "pushed_at": "2018-05-23T21:08:10Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 42012898,
+    "full_name": "MoleskiCoder/forth-oxo",
+    "html_url": "https://github.com/MoleskiCoder/forth-oxo",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2015-09-06T18:16:20Z",
+    "pushed_at": "2015-10-15T20:49:12Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 5707620,
+    "full_name": "kevinfish/nacl-gforth",
+    "html_url": "https://github.com/kevinfish/nacl-gforth",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2012-09-06T19:46:29Z",
+    "pushed_at": "2012-09-06T19:50:07Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 412240463,
+    "full_name": "daniel-thompson/redforth",
+    "html_url": "https://github.com/daniel-thompson/redforth",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-09-30T21:58:32Z",
+    "pushed_at": "2022-03-25T19:49:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 689047699,
+    "full_name": "cstrotm/ch8asm",
+    "html_url": "https://github.com/cstrotm/ch8asm",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-09-08T17:08:51Z",
+    "pushed_at": "2023-09-11T07:13:17Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 660981495,
+    "full_name": "Jos-Ven/A-smart-home-in-Forth",
+    "html_url": "https://github.com/Jos-Ven/A-smart-home-in-Forth",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-07-01T12:13:13Z",
+    "pushed_at": "2024-08-06T14:48:14Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 41591222,
+    "full_name": "BGCX261/zmforth-hg-to-git",
+    "html_url": "https://github.com/BGCX261/zmforth-hg-to-git",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2015-08-29T11:26:52Z",
+    "pushed_at": "2015-08-29T11:26:56Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 147602342,
+    "full_name": "Mezzelo/freaks-and-firepower",
+    "html_url": "https://github.com/Mezzelo/freaks-and-firepower",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-09-06T01:49:08Z",
+    "pushed_at": "2019-04-30T04:38:51Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 127818569,
+    "full_name": "waterling/SPLCourse",
+    "html_url": "https://github.com/waterling/SPLCourse",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-04-02T22:16:23Z",
+    "pushed_at": "2018-04-02T22:36:22Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 248606345,
+    "full_name": "SvenMb/MecrispForth_LEDClock",
+    "html_url": "https://github.com/SvenMb/MecrispForth_LEDClock",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2020-03-19T21:14:21Z",
+    "pushed_at": "2020-07-20T12:19:34Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 128099842,
+    "full_name": "225038/SPL-course-work",
+    "html_url": "https://github.com/225038/SPL-course-work",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-04-04T17:53:53Z",
+    "pushed_at": "2018-06-03T15:53:04Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 135508477,
+    "full_name": "mikalus/CF430FR5739-LaunchPad",
+    "html_url": "https://github.com/mikalus/CF430FR5739-LaunchPad",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-05-30T23:44:30Z",
+    "pushed_at": "2018-05-31T00:02:32Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 498900974,
+    "full_name": "petarkabashki/frth-in-forth",
+    "html_url": "https://github.com/petarkabashki/frth-in-forth",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2022-06-01T21:17:24Z",
+    "pushed_at": "2022-06-01T21:18:08Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 45800688,
+    "full_name": "MoleskiCoder/forth-euler",
+    "html_url": "https://github.com/MoleskiCoder/forth-euler",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2015-11-08T21:49:13Z",
+    "pushed_at": "2015-11-08T22:24:44Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 103159845,
+    "full_name": "mike290/Amforth-utilities",
+    "html_url": "https://github.com/mike290/Amforth-utilities",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2017-09-11T16:24:16Z",
+    "pushed_at": "2017-09-12T06:33:53Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 127350989,
+    "full_name": "Baranets/forthress",
+    "html_url": "https://github.com/Baranets/forthress",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-03-29T21:50:11Z",
+    "pushed_at": "2018-03-29T21:55:25Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 137413852,
+    "full_name": "metalx1000/Mazda-Hacks",
+    "html_url": "https://github.com/metalx1000/Mazda-Hacks",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-06-14T22:03:58Z",
+    "pushed_at": "2018-06-14T22:05:49Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 255293503,
+    "full_name": "ConorWilliams/CATkS",
+    "html_url": "https://github.com/ConorWilliams/CATkS",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2020-04-13T10:16:58Z",
+    "pushed_at": "2020-08-19T16:02:55Z",
+    "license": {
+      "key": "mpl-2.0",
+      "name": "Mozilla Public License 2.0",
+      "spdx_id": "MPL-2.0",
+      "url": "https://api.github.com/licenses/mpl-2.0",
+      "node_id": "MDc6TGljZW5zZTE0"
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 627254544,
+    "full_name": "Mecrisp/Asteroids-AD9958",
+    "html_url": "https://github.com/Mecrisp/Asteroids-AD9958",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-04-13T05:05:44Z",
+    "pushed_at": "2023-04-13T05:08:43Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 731971147,
+    "full_name": "yeti0904/brainforth",
+    "html_url": "https://github.com/yeti0904/brainforth",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-12-15T10:14:14Z",
+    "pushed_at": "2023-12-15T10:22:51Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 777775101,
+    "full_name": "domyg/Intruder-Alarm---Embedded-Systems",
+    "html_url": "https://github.com/domyg/Intruder-Alarm---Embedded-Systems",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2024-03-26T13:39:02Z",
+    "pushed_at": "2024-03-26T13:43:12Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 127970493,
+    "full_name": "Lavina612/SPO-Part1",
+    "html_url": "https://github.com/Lavina612/SPO-Part1",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-04-03T21:24:19Z",
+    "pushed_at": "2018-04-03T21:30:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 380022203,
+    "full_name": "piotr-wiszowaty/flasher_0",
+    "html_url": "https://github.com/piotr-wiszowaty/flasher_0",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-06-24T18:49:27Z",
+    "pushed_at": "2021-06-26T10:22:15Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 463727060,
+    "full_name": "acser123/forthprogs",
+    "html_url": "https://github.com/acser123/forthprogs",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2022-02-26T01:53:25Z",
+    "pushed_at": "2022-02-26T02:04:57Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 524583998,
+    "full_name": "KlaKoSch/mcForth",
+    "html_url": "https://github.com/KlaKoSch/mcForth",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2022-08-14T05:45:17Z",
+    "pushed_at": "2023-10-28T08:11:59Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 55159910,
+    "full_name": "GeraldWodni/bitplatte",
+    "html_url": "https://github.com/GeraldWodni/bitplatte",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-03-31T15:08:06Z",
+    "pushed_at": "2016-04-04T23:17:24Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 44642440,
+    "full_name": "ProjectivePlane/collatz-gforth",
+    "html_url": "https://github.com/ProjectivePlane/collatz-gforth",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2015-10-21T00:17:10Z",
+    "pushed_at": "2015-10-29T23:19:54Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 305461781,
+    "full_name": "harrypower/2d-puzzle",
+    "html_url": "https://github.com/harrypower/2d-puzzle",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2020-10-19T17:26:53Z",
+    "pushed_at": "2020-11-23T06:16:16Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 415434597,
+    "full_name": "Johns-Q/alefth",
+    "html_url": "https://github.com/Johns-Q/alefth",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-10-09T22:27:12Z",
+    "pushed_at": "2021-10-09T22:54:37Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 23363318,
+    "full_name": "zellerin/yacf",
+    "html_url": "https://github.com/zellerin/yacf",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2014-08-26T19:02:50Z",
+    "pushed_at": "2015-06-24T18:12:28Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 99808923,
+    "full_name": "Michael-F-Bryan/sieve-of-zakiya",
+    "html_url": "https://github.com/Michael-F-Bryan/sieve-of-zakiya",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2017-08-09T13:02:29Z",
+    "pushed_at": "2017-08-09T15:36:37Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 136180679,
+    "full_name": "IKate10/Project",
+    "html_url": "https://github.com/IKate10/Project",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-06-05T13:21:12Z",
+    "pushed_at": "2018-06-18T21:09:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 245820396,
+    "full_name": "SvenMb/MecrispForth_MS5611",
+    "html_url": "https://github.com/SvenMb/MecrispForth_MS5611",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2020-03-08T13:33:29Z",
+    "pushed_at": "2020-03-20T09:34:17Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 452379574,
+    "full_name": "Vortex27/forth_game_of_life",
+    "html_url": "https://github.com/Vortex27/forth_game_of_life",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2022-01-26T17:48:12Z",
+    "pushed_at": "2022-01-26T17:53:20Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 759361028,
+    "full_name": "nagy/ueforth-router",
+    "html_url": "https://github.com/nagy/ueforth-router",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2024-02-18T11:34:50Z",
+    "pushed_at": "2024-02-18T11:42:22Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 76209544,
+    "full_name": "harrypower/CHIP_i2c_GPIO",
+    "html_url": "https://github.com/harrypower/CHIP_i2c_GPIO",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-12-12T00:43:35Z",
+    "pushed_at": "2017-02-05T22:55:00Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 136607719,
+    "full_name": "drblez/avrforthlike",
+    "html_url": "https://github.com/drblez/avrforthlike",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-06-08T11:03:00Z",
+    "pushed_at": "2018-06-08T11:07:32Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 430094231,
+    "full_name": "gnu-mirror-unofficial/gforth",
+    "html_url": "https://github.com/gnu-mirror-unofficial/gforth",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-11-20T12:15:20Z",
+    "pushed_at": "2021-11-23T21:09:35Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 268202462,
+    "full_name": "mynenik/XYPLOT-Win32",
+    "html_url": "https://github.com/mynenik/XYPLOT-Win32",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2020-05-31T03:31:22Z",
+    "pushed_at": "2024-06-07T00:57:45Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 33691516,
+    "full_name": "GeraldWodni/minion-testing",
+    "html_url": "https://github.com/GeraldWodni/minion-testing",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2015-04-09T20:37:58Z",
+    "pushed_at": "2015-04-11T13:27:57Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 54063532,
+    "full_name": "Epholys/LearningForth",
+    "html_url": "https://github.com/Epholys/LearningForth",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-03-16T20:17:43Z",
+    "pushed_at": "2016-03-25T15:24:34Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 51093154,
+    "full_name": "msp430x/forth-compiler",
+    "html_url": "https://github.com/msp430x/forth-compiler",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-02-04T17:36:04Z",
+    "pushed_at": "2016-02-05T09:11:13Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 454567013,
+    "full_name": "dicpeynado/mini-anisim-forth",
+    "html_url": "https://github.com/dicpeynado/mini-anisim-forth",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2022-02-01T22:07:47Z",
+    "pushed_at": "2022-02-01T22:14:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 33414445,
+    "full_name": "scarroll32/primer3_2.3.6",
+    "html_url": "https://github.com/scarroll32/primer3_2.3.6",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2015-04-04T17:48:23Z",
+    "pushed_at": "2015-04-04T17:55:54Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 424320848,
+    "full_name": "glaukon-ariston/Forth-on-ATMega32U4-Arduino-Pro-Micro",
+    "html_url": "https://github.com/glaukon-ariston/Forth-on-ATMega32U4-Arduino-Pro-Micro",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-11-03T17:31:36Z",
+    "pushed_at": "2021-11-26T21:43:15Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 119375749,
+    "full_name": "weldongoree/forth-hamming",
+    "html_url": "https://github.com/weldongoree/forth-hamming",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-01-29T11:48:03Z",
+    "pushed_at": "2018-01-29T11:51:48Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 245531419,
+    "full_name": "SvenMb/MecrispForth_DHT11",
+    "html_url": "https://github.com/SvenMb/MecrispForth_DHT11",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2020-03-06T22:56:32Z",
+    "pushed_at": "2020-04-12T21:23:32Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 345455905,
+    "full_name": "flber/forth",
+    "html_url": "https://github.com/flber/forth",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-03-07T21:21:20Z",
+    "pushed_at": "2021-03-07T21:38:02Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 352346548,
+    "full_name": "QuorumComp/hc800dump",
+    "html_url": "https://github.com/QuorumComp/hc800dump",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-03-28T14:09:12Z",
+    "pushed_at": "2021-03-28T14:17:01Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 14804115,
+    "full_name": "robotustra/mforth",
+    "html_url": "https://github.com/robotustra/mforth",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2013-11-29T14:59:32Z",
+    "pushed_at": "2013-11-29T18:07:53Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 458805312,
+    "full_name": "Mark-Wills/TF-MegaLocals",
+    "html_url": "https://github.com/Mark-Wills/TF-MegaLocals",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2022-02-13T12:40:05Z",
+    "pushed_at": "2022-10-10T13:43:51Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 585027999,
+    "full_name": "Anding/Ptolemy",
+    "html_url": "https://github.com/Anding/Ptolemy",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-01-04T06:07:30Z",
+    "pushed_at": "2023-09-25T11:21:58Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 438776963,
+    "full_name": "mischnic/wasm-gforth",
+    "html_url": "https://github.com/mischnic/wasm-gforth",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-12-15T21:23:45Z",
+    "pushed_at": "2022-12-24T15:33:16Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:27 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 176372939,
+    "full_name": "AxeR44/Fortran_Ex",
+    "html_url": "https://github.com/AxeR44/Fortran_Ex",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2019-03-18T21:31:56Z",
+    "pushed_at": "2019-03-20T14:58:32Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 113979217,
+    "full_name": "stffrdhrn/uclibc-ng-test",
+    "html_url": "https://github.com/stffrdhrn/uclibc-ng-test",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2017-12-12T10:57:03Z",
+    "pushed_at": "2017-12-12T13:01:17Z",
+    "license": {
+      "key": "lgpl-2.1",
+      "name": "GNU Lesser General Public License v2.1",
+      "spdx_id": "LGPL-2.1",
+      "url": "https://api.github.com/licenses/lgpl-2.1",
+      "node_id": "MDc6TGljZW5zZTEx"
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 158998946,
+    "full_name": "wa1tnr/gforth-exp",
+    "html_url": "https://github.com/wa1tnr/gforth-exp",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-11-25T04:51:44Z",
+    "pushed_at": "2021-05-04T04:54:56Z",
+    "license": {
+      "key": "lgpl-2.1",
+      "name": "GNU Lesser General Public License v2.1",
+      "spdx_id": "LGPL-2.1",
+      "url": "https://api.github.com/licenses/lgpl-2.1",
+      "node_id": "MDc6TGljZW5zZTEx"
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 380082746,
+    "full_name": "0x90nz/forth-histogram",
+    "html_url": "https://github.com/0x90nz/forth-histogram",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-06-25T00:30:56Z",
+    "pushed_at": "2021-06-25T04:10:51Z",
+    "license": {
+      "key": "mpl-2.0",
+      "name": "Mozilla Public License 2.0",
+      "spdx_id": "MPL-2.0",
+      "url": "https://api.github.com/licenses/mpl-2.0",
+      "node_id": "MDc6TGljZW5zZTE0"
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 502764828,
+    "full_name": "coyote240/forthdeck",
+    "html_url": "https://github.com/coyote240/forthdeck",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2022-06-13T01:02:54Z",
+    "pushed_at": "2022-06-15T00:51:01Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 77485955,
+    "full_name": "harrypower/CHIP-cgi-example",
+    "html_url": "https://github.com/harrypower/CHIP-cgi-example",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-12-27T22:22:01Z",
+    "pushed_at": "2017-12-02T00:02:08Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 136025716,
+    "full_name": "malaclypseII/PyXMRTool",
+    "html_url": "https://github.com/malaclypseII/PyXMRTool",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 3,
+    "language": "Forth",
+    "created_at": "2018-06-04T13:01:09Z",
+    "pushed_at": "2019-05-24T12:45:29Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 542504112,
+    "full_name": "deepin-community/fcode-utils",
+    "html_url": "https://github.com/deepin-community/fcode-utils",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2022-09-28T09:15:17Z",
+    "pushed_at": "2023-08-15T08:57:47Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 622508926,
+    "full_name": "DragonZX/gforth",
+    "html_url": "https://github.com/DragonZX/gforth",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-04-02T10:29:51Z",
+    "pushed_at": "2023-04-02T10:33:07Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 696809341,
+    "full_name": "DaltonLundy/Forth-Lisp",
+    "html_url": "https://github.com/DaltonLundy/Forth-Lisp",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-09-26T13:25:08Z",
+    "pushed_at": "2023-10-11T13:05:50Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 195663650,
+    "full_name": "Yohann-B/Simulation-and-control-of-double-inverted-pendulum",
+    "html_url": "https://github.com/Yohann-B/Simulation-and-control-of-double-inverted-pendulum",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2019-07-07T14:53:18Z",
+    "pushed_at": "2021-03-31T10:22:56Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 440658180,
+    "full_name": "nyabla/rpi-gpio",
+    "html_url": "https://github.com/nyabla/rpi-gpio",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-12-21T21:45:28Z",
+    "pushed_at": "2022-01-05T23:04:55Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 472437049,
+    "full_name": "927technology/bash_libs",
+    "html_url": "https://github.com/927technology/bash_libs",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2022-03-21T17:11:25Z",
+    "pushed_at": "2023-07-23T04:47:04Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 371264734,
+    "full_name": "Sparrrow2020/Festers-Ghost",
+    "html_url": "https://github.com/Sparrrow2020/Festers-Ghost",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-05-27T06:07:47Z",
+    "pushed_at": "2021-05-27T06:08:47Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 463252172,
+    "full_name": "Fhlpmah/Proneka.Ai-Chatbot",
+    "html_url": "https://github.com/Fhlpmah/Proneka.Ai-Chatbot",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2022-02-24T18:06:07Z",
+    "pushed_at": "2022-02-26T06:23:41Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 589733711,
+    "full_name": "elGuille-info/Adivina-Forth",
+    "html_url": "https://github.com/elGuille-info/Adivina-Forth",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-01-16T20:08:44Z",
+    "pushed_at": "2023-01-18T16:20:14Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 590500446,
+    "full_name": "elGuille-info/Forth-programming-language",
+    "html_url": "https://github.com/elGuille-info/Forth-programming-language",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-01-18T15:02:44Z",
+    "pushed_at": "2023-01-22T08:31:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 722114474,
+    "full_name": "BazTheLinuxGuy/notes",
+    "html_url": "https://github.com/BazTheLinuxGuy/notes",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-11-22T13:17:56Z",
+    "pushed_at": "2024-01-04T23:12:26Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 405687238,
+    "full_name": "okuhn/longan-nano-reaction-game",
+    "html_url": "https://github.com/okuhn/longan-nano-reaction-game",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-09-12T16:03:40Z",
+    "pushed_at": "2021-09-12T20:43:29Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 518051853,
+    "full_name": "amstelchen/vdsg",
+    "html_url": "https://github.com/amstelchen/vdsg",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2022-07-26T12:27:24Z",
+    "pushed_at": "2022-07-26T13:01:33Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 609594957,
+    "full_name": "elineberry/tskhinvali",
+    "html_url": "https://github.com/elineberry/tskhinvali",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-03-04T16:48:11Z",
+    "pushed_at": "2023-03-09T05:38:55Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 707209471,
+    "full_name": "remimimimimi/fchip-8",
+    "html_url": "https://github.com/remimimimimi/fchip-8",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-10-19T12:45:01Z",
+    "pushed_at": "2023-10-23T12:34:04Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 37253293,
+    "full_name": "cservan/wookie_project",
+    "html_url": "https://github.com/cservan/wookie_project",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2015-06-11T09:57:23Z",
+    "pushed_at": "2015-07-28T15:50:14Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 72236186,
+    "full_name": "prabhat1081/Automated-Fact-Checking",
+    "html_url": "https://github.com/prabhat1081/Automated-Fact-Checking",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2016-10-28T19:30:24Z",
+    "pushed_at": "2019-12-09T23:21:03Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 590986988,
+    "full_name": "EndeyshentLabs/1991-test",
+    "html_url": "https://github.com/EndeyshentLabs/1991-test",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-01-19T17:13:52Z",
+    "pushed_at": "2023-01-20T13:45:42Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 27653305,
+    "full_name": "NikolasMarkou/datasciencecoursera",
+    "html_url": "https://github.com/NikolasMarkou/datasciencecoursera",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2014-12-06T23:49:33Z",
+    "pushed_at": "2015-01-25T19:51:43Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 289440918,
+    "full_name": "piotr-wiszowaty/pm_monitor_1",
+    "html_url": "https://github.com/piotr-wiszowaty/pm_monitor_1",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2020-08-22T07:24:41Z",
+    "pushed_at": "2020-09-11T15:28:56Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 651300417,
+    "full_name": "GICA-PUCP/Peruvian-Pisco-Classification",
+    "html_url": "https://github.com/GICA-PUCP/Peruvian-Pisco-Classification",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-06-09T00:33:03Z",
+    "pushed_at": "2023-06-23T00:15:58Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 277772302,
+    "full_name": "srtjanuario/gecolorf",
+    "html_url": "https://github.com/srtjanuario/gecolorf",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2020-07-07T09:21:20Z",
+    "pushed_at": "2021-12-01T16:46:03Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 668760835,
+    "full_name": "remimimimimi/sssh",
+    "html_url": "https://github.com/remimimimimi/sssh",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-07-20T14:29:46Z",
+    "pushed_at": "2023-07-24T19:51:52Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 717131525,
+    "full_name": "ShovelCode/forth",
+    "html_url": "https://github.com/ShovelCode/forth",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 1,
+    "language": "Forth",
+    "created_at": "2023-11-10T16:20:10Z",
+    "pushed_at": "2023-11-10T16:23:03Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 426021874,
+    "full_name": "kpfalzer/cpp4vflist",
+    "html_url": "https://github.com/kpfalzer/cpp4vflist",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-11-08T23:05:57Z",
+    "pushed_at": "2021-11-08T23:12:24Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 694137854,
+    "full_name": "Ragnjerr/FORTH-algorithms",
+    "html_url": "https://github.com/Ragnjerr/FORTH-algorithms",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-09-20T12:03:20Z",
+    "pushed_at": "2023-11-02T03:33:02Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 763086358,
+    "full_name": "Haruuk/Pension",
+    "html_url": "https://github.com/Haruuk/Pension",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2024-02-25T14:24:14Z",
+    "pushed_at": "2024-02-27T18:59:30Z",
+    "license": {
+      "key": "mpl-2.0",
+      "name": "Mozilla Public License 2.0",
+      "spdx_id": "MPL-2.0",
+      "url": "https://api.github.com/licenses/mpl-2.0",
+      "node_id": "MDc6TGljZW5zZTE0"
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 703044734,
+    "full_name": "iajzenszmi/Forth-Collection",
+    "html_url": "https://github.com/iajzenszmi/Forth-Collection",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-10-10T13:44:32Z",
+    "pushed_at": "2023-10-10T14:22:22Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 118231782,
+    "full_name": "andraghetti/CGlabs",
+    "html_url": "https://github.com/andraghetti/CGlabs",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2018-01-20T10:15:51Z",
+    "pushed_at": "2021-05-12T22:17:08Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 387278497,
+    "full_name": "Sparrrow2020/V-lley-6-Anti-Ransomware",
+    "html_url": "https://github.com/Sparrrow2020/V-lley-6-Anti-Ransomware",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-07-18T22:09:37Z",
+    "pushed_at": "2021-07-18T22:10:34Z",
+    "license": {
+      "key": "lgpl-2.1",
+      "name": "GNU Lesser General Public License v2.1",
+      "spdx_id": "LGPL-2.1",
+      "url": "https://api.github.com/licenses/lgpl-2.1",
+      "node_id": "MDc6TGljZW5zZTEx"
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 722209904,
+    "full_name": "DudeMcGee/FORTH--3D.matrix",
+    "html_url": "https://github.com/DudeMcGee/FORTH--3D.matrix",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-11-22T17:07:34Z",
+    "pushed_at": "2023-11-25T17:39:21Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 296771298,
+    "full_name": "theconnstruct/fbmuck-charreq",
+    "html_url": "https://github.com/theconnstruct/fbmuck-charreq",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 1,
+    "language": "Forth",
+    "created_at": "2020-09-19T02:33:33Z",
+    "pushed_at": "2020-09-19T02:36:15Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 376262664,
+    "full_name": "TBC-z87/SzTabla",
+    "html_url": "https://github.com/TBC-z87/SzTabla",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2021-06-12T10:32:39Z",
+    "pushed_at": "2021-07-01T11:22:55Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 655601394,
+    "full_name": "uho/screens",
+    "html_url": "https://github.com/uho/screens",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-06-19T08:24:35Z",
+    "pushed_at": "2023-10-28T18:47:45Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 730943323,
+    "full_name": "mmisamore/aesforth",
+    "html_url": "https://github.com/mmisamore/aesforth",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2023-12-13T02:38:35Z",
+    "pushed_at": "2023-12-13T02:45:15Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:35 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 97483419,
+    "full_name": "UviDTE-UviSpace/pcb-designs",
+    "html_url": "https://github.com/UviDTE-UviSpace/pcb-designs",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 2,
+    "language": "Forth",
+    "created_at": "2017-07-17T14:06:27Z",
+    "pushed_at": "2019-02-26T17:25:59Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 205569251,
+    "full_name": "maxprofs-llcio/java.js",
+    "html_url": "https://github.com/maxprofs-llcio/java.js",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2019-08-31T16:29:19Z",
+    "pushed_at": "2019-09-13T07:45:57Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 319530208,
+    "full_name": "rrichajalota/WinterSem-2020-21",
+    "html_url": "https://github.com/rrichajalota/WinterSem-2020-21",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Forth",
+    "created_at": "2020-12-08T04:55:50Z",
+    "pushed_at": "2021-09-28T12:48:43Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:18:36 PM (Europe/Amsterdam)"
+  }
+]

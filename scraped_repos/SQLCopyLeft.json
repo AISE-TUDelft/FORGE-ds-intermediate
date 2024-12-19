@@ -1,0 +1,2602 @@
+[
+  {
+    "id": 315352544,
+    "full_name": "tnightengale/dbt-meta-testing",
+    "html_url": "https://github.com/tnightengale/dbt-meta-testing",
+    "stargazers_count": 117,
+    "forks_count": 14,
+    "watchers_count": 117,
+    "open_issues_count": 8,
+    "language": "SQL",
+    "created_at": "2020-11-23T15:09:09Z",
+    "pushed_at": "2022-11-18T10:08:53Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:01:40 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 558114302,
+    "full_name": "tnightengale/dbt-activity-schema",
+    "html_url": "https://github.com/tnightengale/dbt-activity-schema",
+    "stargazers_count": 38,
+    "forks_count": 5,
+    "watchers_count": 38,
+    "open_issues_count": 10,
+    "language": "SQL",
+    "created_at": "2022-10-26T23:26:26Z",
+    "pushed_at": "2024-04-11T12:34:52Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:01:50 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 141219475,
+    "full_name": "ACEmulator/ACE-World-16PY-Patches",
+    "html_url": "https://github.com/ACEmulator/ACE-World-16PY-Patches",
+    "stargazers_count": 38,
+    "forks_count": 67,
+    "watchers_count": 38,
+    "open_issues_count": 3,
+    "language": "SQL",
+    "created_at": "2018-07-17T02:22:07Z",
+    "pushed_at": "2024-09-05T04:34:19Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/15/2024, 4:01:50 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 250003671,
+    "full_name": "Flowminder/COVID-19",
+    "html_url": "https://github.com/Flowminder/COVID-19",
+    "stargazers_count": 14,
+    "forks_count": 8,
+    "watchers_count": 14,
+    "open_issues_count": 5,
+    "language": "SQL",
+    "created_at": "2020-03-25T14:38:51Z",
+    "pushed_at": "2020-07-14T17:11:00Z",
+    "license": {
+      "key": "mpl-2.0",
+      "name": "Mozilla Public License 2.0",
+      "spdx_id": "MPL-2.0",
+      "url": "https://api.github.com/licenses/mpl-2.0",
+      "node_id": "MDc6TGljZW5zZTE0"
+    },
+    "retrieval_date": "9/15/2024, 4:01:57 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 13547208,
+    "full_name": "tschf/pl-gapi",
+    "html_url": "https://github.com/tschf/pl-gapi",
+    "stargazers_count": 10,
+    "forks_count": 6,
+    "watchers_count": 10,
+    "open_issues_count": 1,
+    "language": "SQL",
+    "created_at": "2013-10-13T21:44:08Z",
+    "pushed_at": "2014-07-14T07:42:04Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/15/2024, 4:01:57 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 132322777,
+    "full_name": "gdsotirov/hr_schema",
+    "html_url": "https://github.com/gdsotirov/hr_schema",
+    "stargazers_count": 9,
+    "forks_count": 0,
+    "watchers_count": 9,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2018-05-06T09:05:54Z",
+    "pushed_at": "2023-12-17T14:12:36Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/15/2024, 4:02:51 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 137269441,
+    "full_name": "gdsotirov/lemans24",
+    "html_url": "https://github.com/gdsotirov/lemans24",
+    "stargazers_count": 7,
+    "forks_count": 1,
+    "watchers_count": 7,
+    "open_issues_count": 1,
+    "language": "SQL",
+    "created_at": "2018-06-13T20:51:14Z",
+    "pushed_at": "2024-06-20T17:00:13Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/15/2024, 4:02:59 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 247736677,
+    "full_name": "ChispasHK/Dating-App-DataBase",
+    "html_url": "https://github.com/ChispasHK/Dating-App-DataBase",
+    "stargazers_count": 5,
+    "forks_count": 1,
+    "watchers_count": 5,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2020-03-16T15:01:41Z",
+    "pushed_at": "2020-03-16T15:09:51Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:06 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 368644179,
+    "full_name": "bryant-hiraki/cyclistic_case_study",
+    "html_url": "https://github.com/bryant-hiraki/cyclistic_case_study",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2021-05-18T19:25:09Z",
+    "pushed_at": "2021-06-01T02:41:06Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:13 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 562639863,
+    "full_name": "seanpm2001/Learn-SQL",
+    "html_url": "https://github.com/seanpm2001/Learn-SQL",
+    "stargazers_count": 3,
+    "forks_count": 2,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-11-06T23:45:06Z",
+    "pushed_at": "2022-11-07T06:56:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:13 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 822934640,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-02T05:53:07Z",
+    "pushed_at": "2024-09-15T01:40:41Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:13 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 825584963,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_North-America",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_North-America",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-08T06:07:54Z",
+    "pushed_at": "2024-07-08T06:47:38Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:13 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 13159436,
+    "full_name": "nadavkav/moodle-custom_sql_report_queries",
+    "html_url": "https://github.com/nadavkav/moodle-custom_sql_report_queries",
+    "stargazers_count": 3,
+    "forks_count": 24,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2013-09-27T19:35:22Z",
+    "pushed_at": "2014-09-23T10:45:02Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:13 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 825585409,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-America",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-America",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-08T06:09:06Z",
+    "pushed_at": "2024-07-08T06:49:00Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:13 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 18377634,
+    "full_name": "jotegui/geo-taxo-quality",
+    "html_url": "https://github.com/jotegui/geo-taxo-quality",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 2,
+    "language": "SQL",
+    "created_at": "2014-04-02T18:57:24Z",
+    "pushed_at": "2014-05-20T17:49:35Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/15/2024, 4:03:21 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 737457776,
+    "full_name": "seanpm2001/2001Archives",
+    "html_url": "https://github.com/seanpm2001/2001Archives",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2023-12-31T05:19:15Z",
+    "pushed_at": "2023-12-31T06:37:23Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:21 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 723592479,
+    "full_name": "seanpm2001/2001Archive-Images",
+    "html_url": "https://github.com/seanpm2001/2001Archive-Images",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2023-11-26T06:35:08Z",
+    "pushed_at": "2023-11-26T07:15:55Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:21 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 339622478,
+    "full_name": "jedington/MSSA",
+    "html_url": "https://github.com/jedington/MSSA",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2021-02-17T05:37:37Z",
+    "pushed_at": "2023-01-25T19:31:38Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/15/2024, 4:03:21 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 243798694,
+    "full_name": "liaocanada/online-bookstore",
+    "html_url": "https://github.com/liaocanada/online-bookstore",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 2,
+    "language": "SQL",
+    "created_at": "2020-02-28T15:52:11Z",
+    "pushed_at": "2024-08-30T16:16:14Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:21 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 826106666,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Eurasia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Eurasia",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-09T05:47:55Z",
+    "pushed_at": "2024-07-09T06:55:05Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:21 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 822935023,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-02T05:54:24Z",
+    "pushed_at": "2024-07-02T06:43:06Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:21 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 723592986,
+    "full_name": "seanpm2001/2001Archive-Audio",
+    "html_url": "https://github.com/seanpm2001/2001Archive-Audio",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2023-11-26T06:37:35Z",
+    "pushed_at": "2023-11-26T07:32:12Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:21 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 506157041,
+    "full_name": "solanki-bhavya/Online-Music-Management-System-IT214-DBMS",
+    "html_url": "https://github.com/solanki-bhavya/Online-Music-Management-System-IT214-DBMS",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-06-22T08:13:45Z",
+    "pushed_at": "2022-06-22T12:35:15Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:21 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 418689725,
+    "full_name": "seanpm2001/LightSpeedRelay_Database",
+    "html_url": "https://github.com/seanpm2001/LightSpeedRelay_Database",
+    "stargazers_count": 2,
+    "forks_count": 2,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2021-10-18T22:34:54Z",
+    "pushed_at": "2024-05-17T23:25:08Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:21 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 826105915,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Europe",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Europe",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-09T05:46:35Z",
+    "pushed_at": "2024-07-09T06:52:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:21 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 15250852,
+    "full_name": "DrupalizeMe/drupal7-psdtotheme-series",
+    "html_url": "https://github.com/DrupalizeMe/drupal7-psdtotheme-series",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2013-12-17T09:55:19Z",
+    "pushed_at": "2014-06-02T21:23:04Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/15/2024, 4:03:21 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 317379778,
+    "full_name": "seanpm2001/SNU_2D_ProgrammingTools_IDE_SQL_-Structured_Query_Language-",
+    "html_url": "https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SQL_-Structured_Query_Language-",
+    "stargazers_count": 2,
+    "forks_count": 2,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2020-12-01T00:18:45Z",
+    "pushed_at": "2022-11-07T07:03:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:21 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 16916990,
+    "full_name": "atru/MS-SQL-Server-Goodies",
+    "html_url": "https://github.com/atru/MS-SQL-Server-Goodies",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2014-02-17T15:23:53Z",
+    "pushed_at": "2014-05-19T07:13:35Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/15/2024, 4:03:21 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 723593276,
+    "full_name": "seanpm2001/2001Archive-Documents",
+    "html_url": "https://github.com/seanpm2001/2001Archive-Documents",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2023-11-26T06:38:56Z",
+    "pushed_at": "2023-11-26T07:35:52Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:21 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 723592759,
+    "full_name": "seanpm2001/2001Archive-Videos",
+    "html_url": "https://github.com/seanpm2001/2001Archive-Videos",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2023-11-26T06:36:25Z",
+    "pushed_at": "2023-11-26T07:18:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:21 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 826107299,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Afro-Eurasia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Afro-Eurasia",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-09T05:49:07Z",
+    "pushed_at": "2024-07-09T06:55:49Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:21 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 418689872,
+    "full_name": "seanpm2001/LightSpeedRelay_DatabaseTools",
+    "html_url": "https://github.com/seanpm2001/LightSpeedRelay_DatabaseTools",
+    "stargazers_count": 2,
+    "forks_count": 2,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2021-10-18T22:35:27Z",
+    "pushed_at": "2024-05-17T23:23:37Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:21 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 720993338,
+    "full_name": "seanpm2001/2001Archive-Software",
+    "html_url": "https://github.com/seanpm2001/2001Archive-Software",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2023-11-20T06:11:22Z",
+    "pushed_at": "2023-11-20T07:37:06Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:21 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 753481648,
+    "full_name": "EswarAditya5/Hospital_DataBase_Management_System",
+    "html_url": "https://github.com/EswarAditya5/Hospital_DataBase_Management_System",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-02-06T07:57:44Z",
+    "pushed_at": "2024-02-11T06:09:11Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 824852366,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth-Moon",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth-Moon",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-06T06:02:32Z",
+    "pushed_at": "2024-07-06T06:49:33Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 747340453,
+    "full_name": "sushantnair/RDBMS",
+    "html_url": "https://github.com/sushantnair/RDBMS",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-01-23T18:30:03Z",
+    "pushed_at": "2024-02-05T17:14:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 825212429,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Africa",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Africa",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-07T06:10:28Z",
+    "pushed_at": "2024-07-07T06:45:58Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 826654225,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Antarctica",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Antarctica",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-10T05:59:35Z",
+    "pushed_at": "2024-07-10T06:42:25Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 398694218,
+    "full_name": "papir805/stratascratch_SQL_puzzles",
+    "html_url": "https://github.com/papir805/stratascratch_SQL_puzzles",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2021-08-22T02:06:57Z",
+    "pushed_at": "2022-01-13T07:04:53Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 824427185,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Mercury",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Mercury",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-05T05:46:48Z",
+    "pushed_at": "2024-07-05T06:55:41Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 19758580,
+    "full_name": "high-five-interactive/vgi",
+    "html_url": "https://github.com/high-five-interactive/vgi",
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "watchers_count": 1,
+    "open_issues_count": 6,
+    "language": "SQL",
+    "created_at": "2014-05-13T22:49:07Z",
+    "pushed_at": "2014-06-02T01:55:42Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 824427611,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Venus",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Venus",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-05T05:48:07Z",
+    "pushed_at": "2024-07-05T06:56:15Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 825584461,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Americas",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Americas",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-08T06:06:29Z",
+    "pushed_at": "2024-07-08T06:46:11Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 19862249,
+    "full_name": "xkahn/alfresco-packaging",
+    "html_url": "https://github.com/xkahn/alfresco-packaging",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2014-05-16T15:55:42Z",
+    "pushed_at": "2014-05-23T22:04:21Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 720000612,
+    "full_name": "allan-gadelha/SQL-Question-Data-Lemur",
+    "html_url": "https://github.com/allan-gadelha/SQL-Question-Data-Lemur",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2023-11-17T11:09:53Z",
+    "pushed_at": "2023-11-21T15:59:51Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 284599090,
+    "full_name": "nutratech/usda-sqlite",
+    "html_url": "https://github.com/nutratech/usda-sqlite",
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "watchers_count": 1,
+    "open_issues_count": 3,
+    "language": "SQL",
+    "created_at": "2020-08-03T04:00:29Z",
+    "pushed_at": "2024-04-23T01:43:29Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 752527272,
+    "full_name": "EswarAditya5/Inventory_Managment_System",
+    "html_url": "https://github.com/EswarAditya5/Inventory_Managment_System",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-02-04T05:12:10Z",
+    "pushed_at": "2024-02-11T08:29:01Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 435661919,
+    "full_name": "Leonard2310/S.E.N.",
+    "html_url": "https://github.com/Leonard2310/S.E.N.",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2021-12-06T22:05:09Z",
+    "pushed_at": "2023-06-10T01:34:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 568142475,
+    "full_name": "foxyseta/fadbula",
+    "html_url": "https://github.com/foxyseta/fadbula",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-11-19T15:30:43Z",
+    "pushed_at": "2023-01-02T17:35:19Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 823943351,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Uranus",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Uranus",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-04T04:06:10Z",
+    "pushed_at": "2024-07-04T05:51:21Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 544502515,
+    "full_name": "HungryVovka/Codewars-SQL",
+    "html_url": "https://github.com/HungryVovka/Codewars-SQL",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-10-02T16:37:30Z",
+    "pushed_at": "2023-11-11T11:27:48Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 824852704,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Jupiter",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Jupiter",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-06T06:03:54Z",
+    "pushed_at": "2024-07-06T06:52:29Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 319161028,
+    "full_name": "zedseven/OpenDAT",
+    "html_url": "https://github.com/zedseven/OpenDAT",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2020-12-07T00:20:54Z",
+    "pushed_at": "2020-12-23T22:30:43Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 825212736,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Oceania",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Oceania",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-07T06:11:42Z",
+    "pushed_at": "2024-07-07T06:47:13Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 703123561,
+    "full_name": "Nairb95/Data-Visualization-Hotel-Revenue-Trends",
+    "html_url": "https://github.com/Nairb95/Data-Visualization-Hotel-Revenue-Trends",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2023-10-10T16:29:48Z",
+    "pushed_at": "2023-10-11T19:33:33Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 763029447,
+    "full_name": "Hummel009/Databases-II",
+    "html_url": "https://github.com/Hummel009/Databases-II",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-02-25T11:22:34Z",
+    "pushed_at": "2024-03-12T20:43:02Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 823485805,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Kuiper-Belt",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Kuiper-Belt",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-03T06:04:11Z",
+    "pushed_at": "2024-07-03T06:41:46Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 255459824,
+    "full_name": "ofou/codesignal",
+    "html_url": "https://github.com/ofou/codesignal",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2020-04-13T23:01:53Z",
+    "pushed_at": "2022-08-17T00:35:15Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 823485349,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Milky-Way",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Milky-Way",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-03T06:02:54Z",
+    "pushed_at": "2024-07-03T06:40:18Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 824428087,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Neptune",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Neptune",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-05T05:49:38Z",
+    "pushed_at": "2024-07-05T06:56:51Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 824852086,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Mars",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Mars",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-06T06:01:20Z",
+    "pushed_at": "2024-07-06T06:48:47Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 826654619,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Former-Countries",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Former-Countries",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-10T06:00:47Z",
+    "pushed_at": "2024-07-10T06:43:44Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 853997529,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_FolderArt-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_FolderArt-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-09-08T05:46:10Z",
+    "pushed_at": "2024-09-08T20:47:19Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 297669347,
+    "full_name": "nutratech/nt-sqlite",
+    "html_url": "https://github.com/nutratech/nt-sqlite",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 4,
+    "language": "SQL",
+    "created_at": "2020-09-22T14:09:44Z",
+    "pushed_at": "2024-04-12T22:47:11Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 407615885,
+    "full_name": "EricAgyemang/Database-Processing-IT-378-ISU-",
+    "html_url": "https://github.com/EricAgyemang/Database-Processing-IT-378-ISU-",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2021-09-17T16:51:01Z",
+    "pushed_at": "2023-01-02T05:09:10Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 370896059,
+    "full_name": "scanasca10/dbt-meta-testing",
+    "html_url": "https://github.com/scanasca10/dbt-meta-testing",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2021-05-26T03:34:50Z",
+    "pushed_at": "2021-05-26T03:35:01Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 823942028,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Pluto",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Pluto",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-04T04:00:40Z",
+    "pushed_at": "2024-07-04T05:47:00Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 825212116,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Asia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Asia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-07T06:09:14Z",
+    "pushed_at": "2024-07-07T06:44:05Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 823942277,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Saturn",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Saturn",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-07-04T04:01:54Z",
+    "pushed_at": "2024-07-04T05:49:17Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 670153752,
+    "full_name": "ibanezfr/SQL_Data_Manipulation_Exercises",
+    "html_url": "https://github.com/ibanezfr/SQL_Data_Manipulation_Exercises",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2023-07-24T12:12:28Z",
+    "pushed_at": "2023-07-26T15:11:50Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 488916558,
+    "full_name": "elifyagmurduran/spatio_temporal_databases_research_project",
+    "html_url": "https://github.com/elifyagmurduran/spatio_temporal_databases_research_project",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-05-05T09:52:34Z",
+    "pushed_at": "2023-11-13T07:41:01Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 659966329,
+    "full_name": "andresWeitzel/db_dispositivos_electronicos_postgreSQL",
+    "html_url": "https://github.com/andresWeitzel/db_dispositivos_electronicos_postgreSQL",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2023-06-29T00:45:33Z",
+    "pushed_at": "2023-12-21T22:27:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 578434463,
+    "full_name": "bell-kevin/chap9pursue",
+    "html_url": "https://github.com/bell-kevin/chap9pursue",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-12-15T03:31:57Z",
+    "pushed_at": "2022-12-16T19:44:26Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 576044515,
+    "full_name": "bell-kevin/classicScaleModelsDatabase",
+    "html_url": "https://github.com/bell-kevin/classicScaleModelsDatabase",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-12-08T22:06:48Z",
+    "pushed_at": "2022-12-08T23:17:57Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 773761287,
+    "full_name": "EswarAditya5/Spotify_SQL_Case_Study",
+    "html_url": "https://github.com/EswarAditya5/Spotify_SQL_Case_Study",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-03-18T10:57:31Z",
+    "pushed_at": "2024-04-05T05:53:09Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 575045807,
+    "full_name": "bell-kevin/YurtsDBchap6pursue",
+    "html_url": "https://github.com/bell-kevin/YurtsDBchap6pursue",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-12-06T16:25:33Z",
+    "pushed_at": "2022-12-06T21:23:34Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 18599773,
+    "full_name": "davidmoralesrivera/electiva_bases",
+    "html_url": "https://github.com/davidmoralesrivera/electiva_bases",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2014-04-09T14:13:29Z",
+    "pushed_at": "2014-05-16T14:41:38Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 169600668,
+    "full_name": "lloydhardy/Learn-SQL",
+    "html_url": "https://github.com/lloydhardy/Learn-SQL",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2019-02-07T16:13:19Z",
+    "pushed_at": "2019-02-08T15:50:10Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 225129075,
+    "full_name": "NeilBickle/SQL-Database-With-Fictional-Patients",
+    "html_url": "https://github.com/NeilBickle/SQL-Database-With-Fictional-Patients",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2019-12-01T08:26:32Z",
+    "pushed_at": "2020-02-25T08:38:26Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 392540457,
+    "full_name": "papir805/advanced_sql_puzzles",
+    "html_url": "https://github.com/papir805/advanced_sql_puzzles",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2021-08-04T03:53:39Z",
+    "pushed_at": "2022-05-10T03:01:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 576076527,
+    "full_name": "bell-kevin/bankingDatabase",
+    "html_url": "https://github.com/bell-kevin/bankingDatabase",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-12-09T00:32:16Z",
+    "pushed_at": "2022-12-09T02:34:33Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 768468940,
+    "full_name": "EswarAditya5/Library_Management_System",
+    "html_url": "https://github.com/EswarAditya5/Library_Management_System",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-03-07T06:21:07Z",
+    "pushed_at": "2024-03-07T06:27:40Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 243989293,
+    "full_name": "AlbertGoma/aeatDB",
+    "html_url": "https://github.com/AlbertGoma/aeatDB",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2020-02-29T15:05:54Z",
+    "pushed_at": "2020-03-09T01:29:26Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 381178339,
+    "full_name": "bshapka/life-in-sql",
+    "html_url": "https://github.com/bshapka/life-in-sql",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2021-06-28T22:43:33Z",
+    "pushed_at": "2021-07-03T23:12:47Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 562479754,
+    "full_name": "Ayo-G/SQL_Practice",
+    "html_url": "https://github.com/Ayo-G/SQL_Practice",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-11-06T13:49:01Z",
+    "pushed_at": "2023-11-01T07:45:27Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 375152154,
+    "full_name": "cressidagp/arcmercs",
+    "html_url": "https://github.com/cressidagp/arcmercs",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2021-06-08T21:40:43Z",
+    "pushed_at": "2024-02-05T14:49:18Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 190982707,
+    "full_name": "NeilBickle/Fictional-Patient-Table-For-SQL-Database",
+    "html_url": "https://github.com/NeilBickle/Fictional-Patient-Table-For-SQL-Database",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2019-06-09T08:35:41Z",
+    "pushed_at": "2020-02-25T08:40:05Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 401928663,
+    "full_name": "cressidagp/tdbtoarc",
+    "html_url": "https://github.com/cressidagp/tdbtoarc",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 2,
+    "language": "SQL",
+    "created_at": "2021-09-01T04:19:30Z",
+    "pushed_at": "2023-06-22T01:55:53Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 674790823,
+    "full_name": "andresWeitzel/Microdb_Cisco_Devices_Mysql",
+    "html_url": "https://github.com/andresWeitzel/Microdb_Cisco_Devices_Mysql",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2023-08-04T19:37:59Z",
+    "pushed_at": "2023-10-16T23:10:16Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 312634596,
+    "full_name": "fevieira27/Teradata_WorkingDay_Month",
+    "html_url": "https://github.com/fevieira27/Teradata_WorkingDay_Month",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2020-11-13T16:57:56Z",
+    "pushed_at": "2024-01-03T22:29:59Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 19851090,
+    "full_name": "kornelpro51/mybeeble",
+    "html_url": "https://github.com/kornelpro51/mybeeble",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2014-05-16T09:21:02Z",
+    "pushed_at": "2014-05-16T09:52:21Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 20053483,
+    "full_name": "waficom/tutus",
+    "html_url": "https://github.com/waficom/tutus",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2014-05-22T08:26:00Z",
+    "pushed_at": "2014-05-23T04:52:26Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 21305192,
+    "full_name": "Aikon-INT/InfinityCore",
+    "html_url": "https://github.com/Aikon-INT/InfinityCore",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2014-06-28T15:08:58Z",
+    "pushed_at": "2014-05-19T12:20:23Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 15420488,
+    "full_name": "ejherran/scribo",
+    "html_url": "https://github.com/ejherran/scribo",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2013-12-24T15:07:19Z",
+    "pushed_at": "2014-05-21T15:55:49Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 17289941,
+    "full_name": "bvancea/webeng-2014",
+    "html_url": "https://github.com/bvancea/webeng-2014",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2014-02-28T15:19:21Z",
+    "pushed_at": "2014-05-21T23:05:18Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 310342751,
+    "full_name": "gpalleschi/gpgen_sqlldr",
+    "html_url": "https://github.com/gpalleschi/gpgen_sqlldr",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2020-11-05T15:35:12Z",
+    "pushed_at": "2022-12-01T07:23:44Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 639313401,
+    "full_name": "miRx923/SQL_Clothes_E_Shop",
+    "html_url": "https://github.com/miRx923/SQL_Clothes_E_Shop",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2023-05-11T08:04:50Z",
+    "pushed_at": "2024-03-22T22:17:08Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 703565523,
+    "full_name": "PejperO/CarRepairShop",
+    "html_url": "https://github.com/PejperO/CarRepairShop",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2023-10-11T13:33:28Z",
+    "pushed_at": "2024-01-25T19:13:05Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 12767300,
+    "full_name": "iriber/turnos-core",
+    "html_url": "https://github.com/iriber/turnos-core",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2013-09-11T20:45:33Z",
+    "pushed_at": "2014-05-21T18:02:03Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 510644634,
+    "full_name": "ali-hm/oracle-snippets",
+    "html_url": "https://github.com/ali-hm/oracle-snippets",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-07-05T08:10:28Z",
+    "pushed_at": "2022-07-05T08:48:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 539987779,
+    "full_name": "foxyseta/unibo-90107-databases",
+    "html_url": "https://github.com/foxyseta/unibo-90107-databases",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-09-22T13:09:57Z",
+    "pushed_at": "2022-11-24T12:33:29Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 756157783,
+    "full_name": "EswarAditya5/Northwind_Management_system",
+    "html_url": "https://github.com/EswarAditya5/Northwind_Management_system",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-02-12T04:38:11Z",
+    "pushed_at": "2024-02-18T05:25:57Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 269242608,
+    "full_name": "bell-kevin/SDEV1041SQLFinalProject",
+    "html_url": "https://github.com/bell-kevin/SDEV1041SQLFinalProject",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2020-06-04T02:32:50Z",
+    "pushed_at": "2022-12-02T20:29:21Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 773243282,
+    "full_name": "EswarAditya5/Walmart_Sales_Case_Study",
+    "html_url": "https://github.com/EswarAditya5/Walmart_Sales_Case_Study",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-03-17T05:55:26Z",
+    "pushed_at": "2024-04-25T03:05:22Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 192292223,
+    "full_name": "NeilBickle/SQL-Database-For-Stats-From-Conquer-Chiari",
+    "html_url": "https://github.com/NeilBickle/SQL-Database-For-Stats-From-Conquer-Chiari",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2019-06-17T07:00:16Z",
+    "pushed_at": "2020-02-24T13:52:15Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 631408322,
+    "full_name": "andresWeitzel/Microdb_MercadoLibre_Productos_Mysql",
+    "html_url": "https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2023-04-22T23:40:57Z",
+    "pushed_at": "2023-08-03T21:36:50Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 575562115,
+    "full_name": "bell-kevin/movieDatabase",
+    "html_url": "https://github.com/bell-kevin/movieDatabase",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-12-07T19:45:20Z",
+    "pushed_at": "2022-12-08T21:52:16Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 573577699,
+    "full_name": "bell-kevin/chap5pursue",
+    "html_url": "https://github.com/bell-kevin/chap5pursue",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-12-02T20:04:02Z",
+    "pushed_at": "2022-12-05T21:03:53Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 298389760,
+    "full_name": "ALK222/BD",
+    "html_url": "https://github.com/ALK222/BD",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2020-09-24T20:37:44Z",
+    "pushed_at": "2020-12-21T14:35:42Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 296138337,
+    "full_name": "manueltarouca/apad-datawarehouse-implementation",
+    "html_url": "https://github.com/manueltarouca/apad-datawarehouse-implementation",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2020-09-16T20:15:13Z",
+    "pushed_at": "2020-09-20T15:14:58Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 713588877,
+    "full_name": "andresWeitzel/Microdb_employees_mysql",
+    "html_url": "https://github.com/andresWeitzel/Microdb_employees_mysql",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2023-11-02T20:38:45Z",
+    "pushed_at": "2023-11-16T02:59:46Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 578240808,
+    "full_name": "Ayo-G/Danny-Ma-Sql-Challenge",
+    "html_url": "https://github.com/Ayo-G/Danny-Ma-Sql-Challenge",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-12-14T15:32:50Z",
+    "pushed_at": "2023-11-19T21:14:31Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 419355406,
+    "full_name": "kaash-bot/DBMS-Project",
+    "html_url": "https://github.com/kaash-bot/DBMS-Project",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2021-10-20T14:04:34Z",
+    "pushed_at": "2021-11-22T11:43:58Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 540434080,
+    "full_name": "marcnetts/Esquema-OficinaMecanica",
+    "html_url": "https://github.com/marcnetts/Esquema-OficinaMecanica",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-09-23T12:39:55Z",
+    "pushed_at": "2022-09-24T21:34:18Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 575944589,
+    "full_name": "bell-kevin/humanResourcesDatabase",
+    "html_url": "https://github.com/bell-kevin/humanResourcesDatabase",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-12-08T16:46:35Z",
+    "pushed_at": "2022-12-12T17:12:28Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 576105334,
+    "full_name": "bell-kevin/chatForumDatabase",
+    "html_url": "https://github.com/bell-kevin/chatForumDatabase",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-12-09T02:42:54Z",
+    "pushed_at": "2022-12-09T18:08:07Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 534146188,
+    "full_name": "JohnnyInArt/database-project",
+    "html_url": "https://github.com/JohnnyInArt/database-project",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-09-08T09:44:27Z",
+    "pushed_at": "2023-12-06T18:21:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 757499539,
+    "full_name": "EswarAditya5/Logistic_company_project",
+    "html_url": "https://github.com/EswarAditya5/Logistic_company_project",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-02-14T16:12:13Z",
+    "pushed_at": "2024-03-14T09:57:33Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 497422041,
+    "full_name": "Grupinix/Trabalho-BD",
+    "html_url": "https://github.com/Grupinix/Trabalho-BD",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-05-28T20:32:35Z",
+    "pushed_at": "2022-06-21T23:58:13Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 602003526,
+    "full_name": "TerciodeMarte/DAM",
+    "html_url": "https://github.com/TerciodeMarte/DAM",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2023-02-15T09:43:55Z",
+    "pushed_at": "2024-03-01T14:26:40Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 19872588,
+    "full_name": "segebee/hackfest",
+    "html_url": "https://github.com/segebee/hackfest",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2014-05-16T22:28:15Z",
+    "pushed_at": "2014-05-31T09:47:43Z",
+    "license": {
+      "key": "osl-3.0",
+      "name": "Open Software License 3.0",
+      "spdx_id": "OSL-3.0",
+      "url": "https://api.github.com/licenses/osl-3.0",
+      "node_id": "MDc6TGljZW5zZTE2"
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 19823788,
+    "full_name": "digitalbeacon/sitebase",
+    "html_url": "https://github.com/digitalbeacon/sitebase",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2014-05-15T15:03:49Z",
+    "pushed_at": "2022-09-06T15:23:33Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 618370286,
+    "full_name": "jowkar/cellrangerVDJdb",
+    "html_url": "https://github.com/jowkar/cellrangerVDJdb",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2023-03-24T10:20:00Z",
+    "pushed_at": "2023-04-13T08:04:16Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 669934686,
+    "full_name": "andresWeitzel/db_PedidosYaEnvios_MySQL",
+    "html_url": "https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2023-07-23T22:50:37Z",
+    "pushed_at": "2024-01-26T21:39:18Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 19858817,
+    "full_name": "palday/lme4-convergence",
+    "html_url": "https://github.com/palday/lme4-convergence",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2014-05-16T14:12:20Z",
+    "pushed_at": "2014-05-16T15:20:52Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 19916093,
+    "full_name": "BravadoToDeath/BlackWing",
+    "html_url": "https://github.com/BravadoToDeath/BlackWing",
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2014-05-18T17:13:40Z",
+    "pushed_at": "2014-05-18T09:28:23Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 539886971,
+    "full_name": "z-niedzwiedz/Prestiz",
+    "html_url": "https://github.com/z-niedzwiedz/Prestiz",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2022-09-22T08:54:23Z",
+    "pushed_at": "2022-09-29T14:02:11Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 768596596,
+    "full_name": "p0lym3r453/scopebase-schema",
+    "html_url": "https://github.com/p0lym3r453/scopebase-schema",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2024-03-07T11:30:34Z",
+    "pushed_at": "2024-08-10T22:01:02Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 19885633,
+    "full_name": "alebruck/question-hub",
+    "html_url": "https://github.com/alebruck/question-hub",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2014-05-17T12:05:03Z",
+    "pushed_at": "2014-05-18T22:50:47Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 17953025,
+    "full_name": "lucky88/own",
+    "html_url": "https://github.com/lucky88/own",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "SQL",
+    "created_at": "2014-03-20T18:08:36Z",
+    "pushed_at": "2014-05-17T18:15:35Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/15/2024, 4:03:38 PM (Europe/Amsterdam)"
+  }
+]

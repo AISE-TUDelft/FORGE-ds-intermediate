@@ -1,0 +1,5222 @@
+[
+  {
+    "id": 7589382,
+    "full_name": "VectorLogoZone/vectorlogozone",
+    "html_url": "https://github.com/VectorLogoZone/vectorlogozone",
+    "stargazers_count": 373,
+    "forks_count": 45,
+    "watchers_count": 373,
+    "open_issues_count": 17,
+    "language": "SVG",
+    "created_at": "2013-01-13T15:10:54Z",
+    "pushed_at": "2024-08-17T00:50:14Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/9/2024, 4:31:22 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 502778411,
+    "full_name": "seanpm2001/GitHub_Stats_A",
+    "html_url": "https://github.com/seanpm2001/GitHub_Stats_A",
+    "stargazers_count": 7,
+    "forks_count": 1,
+    "watchers_count": 7,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2022-06-13T02:16:02Z",
+    "pushed_at": "2024-09-09T01:46:24Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:20 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 828429961,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Austria",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Austria",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-14T05:57:17Z",
+    "pushed_at": "2024-07-14T06:30:45Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 831611179,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Central-African-Republic",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Central-African-Republic",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-21T04:59:36Z",
+    "pushed_at": "2024-07-21T05:48:05Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 491009195,
+    "full_name": "seanpm2001/Seanpm2001-Graphic-Design",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001-Graphic-Design",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "open_issues_count": 1,
+    "language": "SVG",
+    "created_at": "2022-05-11T07:49:27Z",
+    "pushed_at": "2024-06-14T23:58:59Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 837810733,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Italy",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Italy",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-04T05:25:56Z",
+    "pushed_at": "2024-08-04T05:58:18Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 537186596,
+    "full_name": "seanpm2001/Learn-SVG",
+    "html_url": "https://github.com/seanpm2001/Learn-SVG",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2022-09-15T19:57:09Z",
+    "pushed_at": "2022-09-15T23:01:38Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 537186929,
+    "full_name": "seanpm2001/SNU_2D_ProgrammingTools_IDE_SVG",
+    "html_url": "https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SVG",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2022-09-15T19:58:17Z",
+    "pushed_at": "2022-09-15T22:58:42Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 850938093,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Vatican-City",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Vatican-City",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-02T05:56:41Z",
+    "pushed_at": "2024-09-02T06:29:30Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 778114496,
+    "full_name": "seanpm2001/GitHub_Stats_B",
+    "html_url": "https://github.com/seanpm2001/GitHub_Stats_B",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-03-27T05:21:39Z",
+    "pushed_at": "2024-09-08T22:54:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 831962598,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cook-Islands",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cook-Islands",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-22T04:40:33Z",
+    "pushed_at": "2024-07-22T05:25:34Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 833389389,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Egypt",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Egypt",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-25T00:33:54Z",
+    "pushed_at": "2024-07-25T02:55:33Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 840926046,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Monaco",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Monaco",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-11T05:39:04Z",
+    "pushed_at": "2024-08-11T06:18:07Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 841814450,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Nicaragua",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Nicaragua",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-13T05:14:22Z",
+    "pushed_at": "2024-08-13T06:12:32Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 842798375,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Norway",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Norway",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-15T05:29:19Z",
+    "pushed_at": "2024-08-15T06:13:54Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 844273666,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Poland",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Poland",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-18T22:32:08Z",
+    "pushed_at": "2024-08-18T23:11:43Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 849164452,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_The-Netherlands",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_The-Netherlands",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-29T05:08:33Z",
+    "pushed_at": "2024-08-29T06:10:23Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 850559126,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_United-Arab-Emirates",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_United-Arab-Emirates",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-01T05:57:07Z",
+    "pushed_at": "2024-09-01T06:24:33Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 851445242,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Vietnam",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Vietnam",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-03T05:40:21Z",
+    "pushed_at": "2024-09-03T06:31:53Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 853997050,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_First-Syrian-Republic-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_First-Syrian-Republic-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-08T05:43:41Z",
+    "pushed_at": "2024-09-08T06:14:20Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 853996633,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Fascist-Italy-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Fascist-Italy-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-08T05:41:32Z",
+    "pushed_at": "2024-09-08T06:12:42Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 831610938,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cayman-Islands",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cayman-Islands",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-21T04:58:05Z",
+    "pushed_at": "2024-07-21T05:40:31Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 828776883,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Belize",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Belize",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-15T05:37:01Z",
+    "pushed_at": "2024-07-15T06:34:16Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 830757579,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Burundi",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Burundi",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-18T23:51:14Z",
+    "pushed_at": "2024-07-19T01:55:11Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 831963062,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Costa-Rica",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Costa-Rica",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-22T04:42:30Z",
+    "pushed_at": "2024-07-22T05:27:13Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 834691596,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Fiji",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Fiji",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-28T04:14:26Z",
+    "pushed_at": "2024-07-28T04:59:58Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 834691309,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Federated-States-of-Micronesia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Federated-States-of-Micronesia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-28T04:12:41Z",
+    "pushed_at": "2024-07-28T04:57:08Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 840117748,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Malawi",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Malawi",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-09T02:30:30Z",
+    "pushed_at": "2024-08-09T04:41:21Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 841291085,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Montserrat",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Montserrat",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-12T05:39:43Z",
+    "pushed_at": "2024-08-12T06:14:35Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 841293328,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Nauru",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Nauru",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-12T05:46:56Z",
+    "pushed_at": "2024-08-12T06:22:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 847182358,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Somaliland",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Somaliland",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-25T04:55:14Z",
+    "pushed_at": "2024-08-25T05:43:56Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 848625677,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Thailand",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Thailand",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-28T05:29:33Z",
+    "pushed_at": "2024-08-28T06:14:37Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 843680218,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Papua-New-Guinea",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Papua-New-Guinea",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-17T05:05:07Z",
+    "pushed_at": "2024-08-17T05:49:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 844272488,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Peoples-Republic-of-China",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Peoples-Republic-of-China",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-18T22:25:58Z",
+    "pushed_at": "2024-08-18T23:08:40Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 844275576,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Russia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Russia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-18T22:42:38Z",
+    "pushed_at": "2024-08-18T23:17:20Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 850200230,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tristan-da-Cunha",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tristan-da-Cunha",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-31T05:57:38Z",
+    "pushed_at": "2024-08-31T06:41:35Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 850556192,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tuvalu",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tuvalu",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-01T05:43:28Z",
+    "pushed_at": "2024-09-01T06:21:37Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 853997981,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_French-Empire-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_French-Empire-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-08T05:48:28Z",
+    "pushed_at": "2024-09-08T06:17:26Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 853995597,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Empire-of-Japan-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Empire-of-Japan-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-08T05:36:37Z",
+    "pushed_at": "2024-09-08T06:09:13Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 854408868,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Inca-Empire-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Inca-Empire-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-09T05:51:52Z",
+    "pushed_at": "2024-09-09T06:23:25Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 838120041,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kuwait",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kuwait",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-05T01:37:27Z",
+    "pushed_at": "2024-08-05T02:33:03Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 838661609,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lebanon",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lebanon",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-06T05:26:07Z",
+    "pushed_at": "2024-08-06T06:12:32Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 833389665,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_El-Salvador",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_El-Salvador",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-25T00:35:17Z",
+    "pushed_at": "2024-07-25T03:04:04Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 846842237,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Slovenia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Slovenia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-24T05:23:34Z",
+    "pushed_at": "2024-08-24T06:05:55Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 843248812,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Oman",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Oman",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-16T05:15:13Z",
+    "pushed_at": "2024-08-16T06:15:06Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 843679687,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Palestine",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Palestine",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-17T05:02:39Z",
+    "pushed_at": "2024-08-17T05:46:54Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 844846143,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Saint-Kitts-and-Nevis",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Saint-Kitts-and-Nevis",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-20T04:47:15Z",
+    "pushed_at": "2024-08-20T05:40:31Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 849165377,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tibet",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tibet",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-29T05:10:57Z",
+    "pushed_at": "2024-08-29T06:13:18Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 850555746,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Turks-and-Caicos-Islands",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Turks-and-Caicos-Islands",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-01T05:41:11Z",
+    "pushed_at": "2024-09-01T06:20:43Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 854407007,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Grand-Duchy-of-Finland-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Grand-Duchy-of-Finland-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-09T05:46:13Z",
+    "pushed_at": "2024-09-09T06:20:30Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 827143315,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Afghanistan",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Afghanistan",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-11T05:09:44Z",
+    "pushed_at": "2024-07-11T06:09:47Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 828429016,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Artsakh",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Artsakh",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-14T05:52:35Z",
+    "pushed_at": "2024-07-14T06:26:10Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 831963389,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Croatia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Croatia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-22T04:43:53Z",
+    "pushed_at": "2024-07-22T05:29:03Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 831963692,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cuba",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cuba",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-22T04:45:14Z",
+    "pushed_at": "2024-07-22T05:30:40Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 837811495,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Japan",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Japan",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-04T05:29:48Z",
+    "pushed_at": "2024-08-04T06:06:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 840925250,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mauritius",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mauritius",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-11T05:35:17Z",
+    "pushed_at": "2024-08-11T06:11:02Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 841814052,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_New-Zealand",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_New-Zealand",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-13T05:12:56Z",
+    "pushed_at": "2024-08-13T06:10:59Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 844272065,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Paraguay",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Paraguay",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-18T22:24:00Z",
+    "pushed_at": "2024-08-18T23:06:43Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 840592427,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Malta",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Malta",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-10T05:21:03Z",
+    "pushed_at": "2024-08-10T06:07:47Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 848085167,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tajikistan",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tajikistan",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-27T05:22:54Z",
+    "pushed_at": "2024-08-27T06:08:56Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 852560993,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_All-Palestine-Protectorate-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_All-Palestine-Protectorate-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-05T02:46:06Z",
+    "pushed_at": "2024-09-05T04:41:25Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 853996159,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Estonian-Soviet-Socialist-Republic-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Estonian-Soviet-Socialist-Republic-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-08T05:39:11Z",
+    "pushed_at": "2024-09-08T06:11:09Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 828097675,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Argentina",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Argentina",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-13T05:46:28Z",
+    "pushed_at": "2024-07-13T06:52:49Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 830246870,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_British-Virgin-Islands",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_British-Virgin-Islands",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-17T22:35:56Z",
+    "pushed_at": "2024-07-18T00:05:09Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 831252923,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Canada",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Canada",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-20T03:49:18Z",
+    "pushed_at": "2024-07-20T04:54:21Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 831610657,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cape-Verde",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cape-Verde",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-21T04:56:25Z",
+    "pushed_at": "2024-07-21T05:37:38Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 832458057,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Denmark",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Denmark",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-23T04:24:37Z",
+    "pushed_at": "2024-07-23T05:41:38Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 826655050,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Abkhazia-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Abkhazia-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-10T06:02:02Z",
+    "pushed_at": "2024-07-10T06:45:49Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 832958803,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_East-Timor",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_East-Timor",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-24T04:45:00Z",
+    "pushed_at": "2024-07-24T05:46:41Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 833389138,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ecuador",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ecuador",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-25T00:32:39Z",
+    "pushed_at": "2024-07-25T02:53:06Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 837811258,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Jamaica",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Jamaica",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-04T05:28:37Z",
+    "pushed_at": "2024-08-04T06:03:14Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 838661127,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Latvia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Latvia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-06T05:24:38Z",
+    "pushed_at": "2024-08-06T06:10:31Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 844274596,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Qatar",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Qatar",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-18T22:37:13Z",
+    "pushed_at": "2024-08-18T23:14:02Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 847182758,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Africa",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Africa",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-25T04:57:27Z",
+    "pushed_at": "2024-08-25T05:44:53Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 847560711,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Suriname",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Suriname",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-26T05:24:44Z",
+    "pushed_at": "2024-08-26T06:03:20Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 845882246,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Scotland",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Scotland",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-22T05:35:38Z",
+    "pushed_at": "2024-08-22T06:16:00Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 850200715,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tunisia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tunisia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-31T05:59:37Z",
+    "pushed_at": "2024-08-31T06:43:39Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 853640471,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_East-Germany-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_East-Germany-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-07T05:33:24Z",
+    "pushed_at": "2024-09-07T06:21:10Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 828776364,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Belgium",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Belgium",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-15T05:35:35Z",
+    "pushed_at": "2024-07-15T06:28:44Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 831612217,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Colombia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Colombia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-21T05:05:19Z",
+    "pushed_at": "2024-07-21T05:56:19Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 834370204,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ethiopia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ethiopia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-27T04:35:32Z",
+    "pushed_at": "2024-07-27T05:23:10Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 834692234,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_FolderArt",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_FolderArt",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-28T04:18:30Z",
+    "pushed_at": "2024-07-28T05:03:50Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 836068550,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Haiti",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Haiti",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-31T05:19:26Z",
+    "pushed_at": "2024-07-31T05:56:32Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 838662090,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lesotho",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lesotho",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-06T05:27:31Z",
+    "pushed_at": "2024-08-06T06:23:05Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 842316562,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Niue",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Niue",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-14T05:26:57Z",
+    "pushed_at": "2024-08-14T06:13:58Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 840592120,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mali",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mali",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-10T05:19:46Z",
+    "pushed_at": "2024-08-10T06:06:59Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 844273008,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Philippines",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Philippines",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-18T22:28:51Z",
+    "pushed_at": "2024-08-18T23:10:05Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 846390696,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sierra-Leone",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sierra-Leone",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-23T05:30:04Z",
+    "pushed_at": "2024-08-23T06:06:11Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 847561166,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sweden",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sweden",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-26T05:26:28Z",
+    "pushed_at": "2024-08-26T06:04:35Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 848624890,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tanzania",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tanzania",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-28T05:27:15Z",
+    "pushed_at": "2024-08-28T06:13:15Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 849716474,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Transnistria",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Transnistria",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-30T05:36:54Z",
+    "pushed_at": "2024-08-30T06:19:41Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 849715790,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tonga",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tonga",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-30T05:34:42Z",
+    "pushed_at": "2024-08-30T06:18:52Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 849714632,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Togo",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Togo",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-30T05:30:56Z",
+    "pushed_at": "2024-08-30T06:17:30Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 850937368,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Vanuatu",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Vanuatu",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-02T05:54:22Z",
+    "pushed_at": "2024-09-02T06:28:35Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 853151282,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_British-Empire-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_British-Empire-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-06T04:59:51Z",
+    "pushed_at": "2024-09-06T05:45:00Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 854412332,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Finland-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Finland-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-09T06:01:54Z",
+    "pushed_at": "2024-09-09T06:28:55Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 828775592,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Barbados",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Barbados",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-15T05:33:04Z",
+    "pushed_at": "2024-07-15T06:21:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 828430273,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Azerbaijan",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Azerbaijan",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-14T05:58:54Z",
+    "pushed_at": "2024-07-14T06:32:25Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 831252672,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cameroon",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cameroon",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-20T03:47:53Z",
+    "pushed_at": "2024-07-20T04:53:22Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 831964028,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cyprus",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cyprus",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-22T04:46:38Z",
+    "pushed_at": "2024-07-22T05:32:02Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 834692881,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Gabon",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Gabon",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-28T04:22:30Z",
+    "pushed_at": "2024-07-28T05:07:30Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 835037435,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Germany",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Germany",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-29T03:12:26Z",
+    "pushed_at": "2024-07-29T04:27:37Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 838119324,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kosovo",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kosovo",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-05T01:34:42Z",
+    "pushed_at": "2024-08-05T02:27:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 839494542,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Libya",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Libya",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-07T18:13:08Z",
+    "pushed_at": "2024-08-07T19:38:02Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 847183588,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Korea",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Korea",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-25T05:01:39Z",
+    "pushed_at": "2024-08-25T05:52:29Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 847557985,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Sudan",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Sudan",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-26T05:14:42Z",
+    "pushed_at": "2024-08-26T05:53:22Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 847558580,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Spain",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Spain",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-26T05:16:52Z",
+    "pushed_at": "2024-08-26T05:54:41Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 848084360,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Syria",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Syria",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-27T05:20:45Z",
+    "pushed_at": "2024-08-27T06:05:44Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 849163490,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_The-Gambia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_The-Gambia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-29T05:06:17Z",
+    "pushed_at": "2024-08-29T06:09:16Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 840925531,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mexico",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mexico",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-11T05:36:32Z",
+    "pushed_at": "2024-08-11T06:15:37Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 842316910,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Northern-Cyprus",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Northern-Cyprus",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-14T05:28:17Z",
+    "pushed_at": "2024-08-14T06:15:33Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 844276089,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Saint-Helena",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Saint-Helena",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-18T22:45:25Z",
+    "pushed_at": "2024-08-18T23:18:51Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 844274910,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Republic-of-China-Taiwan",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Republic-of-China-Taiwan",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-18T22:38:45Z",
+    "pushed_at": "2024-08-18T23:14:52Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 853641039,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_East-India-Company-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_East-India-Company-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-07T05:36:04Z",
+    "pushed_at": "2024-09-07T06:22:42Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 829847355,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_British-Columbia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_British-Columbia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-17T05:48:43Z",
+    "pushed_at": "2024-07-17T06:36:00Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 828775224,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bangladesh",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bangladesh",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-15T05:31:45Z",
+    "pushed_at": "2024-07-15T06:14:44Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 830757077,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bulgaria",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bulgaria",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-18T23:48:54Z",
+    "pushed_at": "2024-07-19T01:50:54Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 839494073,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Liberia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Liberia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-07T18:11:56Z",
+    "pushed_at": "2024-08-07T19:36:44Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 841292186,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Myanmar",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Myanmar",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-12T05:43:31Z",
+    "pushed_at": "2024-08-12T06:19:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 842797570,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_North-Korea",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_North-Korea",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-15T05:26:01Z",
+    "pushed_at": "2024-08-15T06:12:10Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 840592676,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Marshall-Islands",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Marshall-Islands",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-10T05:22:17Z",
+    "pushed_at": "2024-08-10T06:08:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 831964408,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Czech-Republic",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Czech-Republic",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-22T04:48:05Z",
+    "pushed_at": "2024-07-22T05:33:22Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 834691934,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Finland",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Finland",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-28T04:16:30Z",
+    "pushed_at": "2024-07-28T05:01:49Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 835038130,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Gibraltar",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Gibraltar",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-29T03:15:16Z",
+    "pushed_at": "2024-07-29T04:30:37Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 836554518,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Iceland",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Iceland",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-01T05:14:02Z",
+    "pushed_at": "2024-08-01T05:47:56Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 845362307,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_San-Marino",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_San-Marino",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-21T05:24:34Z",
+    "pushed_at": "2024-08-21T06:06:22Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 846390170,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Seychelles",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Seychelles",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-23T05:28:22Z",
+    "pushed_at": "2024-08-23T06:05:20Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 847181612,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Soloman-Islands",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Soloman-Islands",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-25T04:51:44Z",
+    "pushed_at": "2024-08-25T05:35:44Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 847559625,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sudan",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sudan",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-26T05:20:55Z",
+    "pushed_at": "2024-08-26T05:58:52Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 850558479,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ukraine",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ukraine",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-01T05:54:07Z",
+    "pushed_at": "2024-09-01T06:23:43Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 852035769,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Zimbabwe",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Zimbabwe",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-04T05:41:47Z",
+    "pushed_at": "2024-09-04T06:20:29Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 854413279,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Greece-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Greece-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-09T06:04:37Z",
+    "pushed_at": "2024-09-09T06:30:24Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 827650106,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Andorra",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Andorra",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-12T05:11:11Z",
+    "pushed_at": "2024-07-12T06:20:16Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 833932016,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Estonia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Estonia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-26T04:23:48Z",
+    "pushed_at": "2024-07-26T05:05:56Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 829276154,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bosnia-and-Herzegovina",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bosnia-and-Herzegovina",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-16T05:46:27Z",
+    "pushed_at": "2024-07-16T06:53:20Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 836976337,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Indonesia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Indonesia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-02T00:40:03Z",
+    "pushed_at": "2024-08-02T02:48:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 837811942,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kazakhstan",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kazakhstan",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-04T05:32:09Z",
+    "pushed_at": "2024-08-04T06:09:32Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 840925025,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mauritania",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mauritania",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-11T05:34:05Z",
+    "pushed_at": "2024-08-11T06:09:11Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 844275839,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Rwanda",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Rwanda",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-18T22:44:08Z",
+    "pushed_at": "2024-08-18T23:18:03Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 844275115,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Republic-of-the-Congo",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Republic-of-the-Congo",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-18T22:40:04Z",
+    "pushed_at": "2024-08-18T23:15:39Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 847183971,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Ossetia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Ossetia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-25T05:03:43Z",
+    "pushed_at": "2024-08-25T05:53:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 850556681,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Uganda",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Uganda",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-01T05:45:50Z",
+    "pushed_at": "2024-09-01T06:22:52Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 850935998,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Uruguay",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Uruguay",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-02T05:49:53Z",
+    "pushed_at": "2024-09-02T06:22:23Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 852559833,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Achaemenid-Empire_Persian-Empire-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Achaemenid-Empire_Persian-Empire-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-05T02:42:14Z",
+    "pushed_at": "2024-09-05T04:40:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 854410609,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kievan-Rus-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kievan-Rus-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-09T05:56:55Z",
+    "pushed_at": "2024-09-09T06:27:26Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 828777289,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Benin",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Benin",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-15T05:38:11Z",
+    "pushed_at": "2024-07-15T06:38:50Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 829846873,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Brazil",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Brazil",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-17T05:47:19Z",
+    "pushed_at": "2024-07-17T06:33:20Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 822935411,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-02T05:55:36Z",
+    "pushed_at": "2024-07-02T06:44:44Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 836553831,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Hong-Kong",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Hong-Kong",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-01T05:11:36Z",
+    "pushed_at": "2024-08-01T05:44:22Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 837449127,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ireland",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ireland",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-03T02:55:09Z",
+    "pushed_at": "2024-08-03T03:45:38Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 839498867,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Madagascar",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Madagascar",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-07T18:24:39Z",
+    "pushed_at": "2024-08-07T19:51:34Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 840118749,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Maldives",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Maldives",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-09T02:34:45Z",
+    "pushed_at": "2024-08-09T04:49:47Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 840118191,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Malaysia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Malaysia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-09T02:32:18Z",
+    "pushed_at": "2024-08-09T04:44:05Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 841814826,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Niger",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Niger",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-13T05:15:41Z",
+    "pushed_at": "2024-08-13T06:14:21Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 841291475,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Morocco",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Morocco",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-12T05:41:01Z",
+    "pushed_at": "2024-08-12T06:16:24Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 843249183,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Pakistan",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Pakistan",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-16T05:16:37Z",
+    "pushed_at": "2024-08-16T06:16:15Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 843249503,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Palau",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Palau",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-16T05:17:54Z",
+    "pushed_at": "2024-08-16T06:17:15Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 843679947,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Panama",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Panama",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-17T05:03:57Z",
+    "pushed_at": "2024-08-17T05:48:03Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 844846591,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Saint-Lucia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Saint-Lucia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-20T04:49:00Z",
+    "pushed_at": "2024-08-20T05:41:24Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 845361575,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Samoa",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Samoa",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-21T05:22:00Z",
+    "pushed_at": "2024-08-21T06:05:33Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 848083665,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Switzerland",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Switzerland",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-27T05:18:36Z",
+    "pushed_at": "2024-08-27T06:04:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 853151920,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Byzantine-Empire-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Byzantine-Empire-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-06T05:02:27Z",
+    "pushed_at": "2024-09-06T05:46:29Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 853152584,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Confederate-States-of-America-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Confederate-States-of-America-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-06T05:05:04Z",
+    "pushed_at": "2024-09-06T05:47:57Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 828429442,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ascension-Island",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ascension-Island",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-14T05:54:45Z",
+    "pushed_at": "2024-07-14T06:27:37Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 831611654,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Chechen-Republic-of-Ichkeria",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Chechen-Republic-of-Ichkeria",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-21T05:02:22Z",
+    "pushed_at": "2024-07-21T05:53:13Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 835037762,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ghana",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ghana",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-29T03:13:48Z",
+    "pushed_at": "2024-07-29T04:29:11Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 835038534,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Greece",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Greece",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-29T03:16:52Z",
+    "pushed_at": "2024-07-29T04:32:29Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 832958086,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Dominica",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Dominica",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-24T04:42:26Z",
+    "pushed_at": "2024-07-24T05:41:47Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 837811736,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Jordan",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Jordan",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-04T05:31:01Z",
+    "pushed_at": "2024-08-04T06:08:04Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 838120831,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Laos",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Laos",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-05T01:40:55Z",
+    "pushed_at": "2024-08-05T02:36:44Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 839497909,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lithuania",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lithuania",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-07T18:21:55Z",
+    "pushed_at": "2024-08-07T19:47:09Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 845882781,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Senegal",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Senegal",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-22T05:37:31Z",
+    "pushed_at": "2024-08-22T06:20:39Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 847559070,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sri-Lanka",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sri-Lanka",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-26T05:18:41Z",
+    "pushed_at": "2024-08-26T05:55:59Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 852562349,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Austria-Hungary-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Austria-Hungary-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-05T02:50:35Z",
+    "pushed_at": "2024-09-05T04:42:20Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 850935286,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_United-States-of-America",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_United-States-of-America",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-02T05:47:28Z",
+    "pushed_at": "2024-09-02T06:21:24Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 851446976,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_West-Sahara",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_West-Sahara",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-03T05:45:57Z",
+    "pushed_at": "2024-09-03T06:35:10Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 835039152,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Grenada",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Grenada",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-29T03:19:44Z",
+    "pushed_at": "2024-07-29T04:35:44Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 834692565,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_France",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_France",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-28T04:20:29Z",
+    "pushed_at": "2024-07-28T05:06:09Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 835557356,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Guinea-Bissau",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Guinea-Bissau",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-30T04:50:45Z",
+    "pushed_at": "2024-07-30T05:29:20Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 830246239,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_British-Indian-Ocean-Territory",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_British-Indian-Ocean-Territory",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-17T22:33:08Z",
+    "pushed_at": "2024-07-18T00:02:21Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 830757334,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Burkina-Faso",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Burkina-Faso",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-18T23:50:03Z",
+    "pushed_at": "2024-07-19T01:53:16Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 837811004,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ivory-Coast",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ivory-Coast",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-04T05:27:21Z",
+    "pushed_at": "2024-08-04T05:59:39Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 837810475,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Israel",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Israel",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-04T05:24:39Z",
+    "pushed_at": "2024-08-04T05:57:04Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 837448890,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Iraq",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Iraq",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-03T02:53:49Z",
+    "pushed_at": "2024-08-03T03:44:18Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 838119707,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kurdistan",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kurdistan",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-05T01:36:15Z",
+    "pushed_at": "2024-08-05T02:28:35Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 841291834,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mozambique",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mozambique",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-12T05:42:19Z",
+    "pushed_at": "2024-08-12T06:17:55Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 842797979,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_North-Macedonia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_North-Macedonia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-15T05:27:38Z",
+    "pushed_at": "2024-08-15T06:11:23Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 846841774,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Slovakia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Slovakia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-24T05:21:39Z",
+    "pushed_at": "2024-08-24T06:05:04Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 847182033,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Somalia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Somalia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-25T04:53:37Z",
+    "pushed_at": "2024-08-25T05:40:43Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 828777690,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bermuda",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bermuda",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-15T05:39:34Z",
+    "pushed_at": "2024-07-15T06:39:56Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 828775951,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Belarus",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Belarus",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-15T05:34:13Z",
+    "pushed_at": "2024-07-15T06:22:56Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 828430669,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bahrain",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bahrain",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-14T06:01:01Z",
+    "pushed_at": "2024-07-14T06:36:59Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 836068254,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Guyana",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Guyana",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-31T05:18:15Z",
+    "pushed_at": "2024-07-31T05:55:13Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 837449362,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Isle-of-Man",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Isle-of-Man",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-03T02:56:30Z",
+    "pushed_at": "2024-08-03T03:47:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 835038863,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Greenland",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Greenland",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-29T03:18:23Z",
+    "pushed_at": "2024-07-29T04:34:14Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 833931424,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Equatorial-Guinea",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Equatorial-Guinea",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-26T04:21:24Z",
+    "pushed_at": "2024-07-26T05:02:49Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 839498405,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Luxembourg",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Luxembourg",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-07T18:23:22Z",
+    "pushed_at": "2024-08-07T19:48:35Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 841292818,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Namibia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Namibia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-12T05:45:25Z",
+    "pushed_at": "2024-08-12T06:21:06Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 842316171,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Nigeria",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Nigeria",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-14T05:25:38Z",
+    "pushed_at": "2024-08-14T06:12:23Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 827650476,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Angola",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Angola",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-12T05:12:32Z",
+    "pushed_at": "2024-07-12T06:24:20Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 827650925,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Anguilla",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Anguilla",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-12T05:14:04Z",
+    "pushed_at": "2024-07-12T06:27:31Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 832457682,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Democratic-Republic-of-the-Congo",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Democratic-Republic-of-the-Congo",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-23T04:23:09Z",
+    "pushed_at": "2024-07-23T05:35:26Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 846389567,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Serbia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Serbia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-23T05:26:15Z",
+    "pushed_at": "2024-08-23T06:04:34Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 850554696,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Turkey",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Turkey",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-01T05:36:19Z",
+    "pushed_at": "2024-09-01T06:18:51Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 850199660,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Trinidad-and-Tobago",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Trinidad-and-Tobago",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-31T05:55:12Z",
+    "pushed_at": "2024-08-31T06:39:50Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 851446071,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Wales",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Wales",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-03T05:43:01Z",
+    "pushed_at": "2024-09-03T06:33:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 852034765,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Zambia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Zambia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-04T05:38:56Z",
+    "pushed_at": "2024-09-04T06:19:13Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 854409709,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kalmar-Union-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kalmar-Union-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-09T05:54:28Z",
+    "pushed_at": "2024-09-09T06:25:40Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 827143948,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Albania",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Albania",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-11T05:10:56Z",
+    "pushed_at": "2024-07-11T06:14:47Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 830247274,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Brunei",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Brunei",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-17T22:37:53Z",
+    "pushed_at": "2024-07-18T00:06:35Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 831252434,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cambodia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cambodia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-20T03:46:35Z",
+    "pushed_at": "2024-07-20T04:52:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 831611440,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Chad",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Chad",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-21T05:01:10Z",
+    "pushed_at": "2024-07-21T05:49:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 831611969,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Chile",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Chile",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-21T05:03:58Z",
+    "pushed_at": "2024-07-21T05:55:03Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 832458335,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Djibouti",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Djibouti",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-23T04:25:43Z",
+    "pushed_at": "2024-07-23T05:42:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 833931683,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Eritrea",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Eritrea",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-26T04:22:28Z",
+    "pushed_at": "2024-07-26T05:04:34Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 832958468,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Dominican-Republic",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Dominican-Republic",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-24T04:43:44Z",
+    "pushed_at": "2024-07-24T05:44:23Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 835039508,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Guam",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Guam",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-29T03:21:13Z",
+    "pushed_at": "2024-07-29T04:37:09Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 836068941,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Honduras",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Honduras",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-31T05:20:45Z",
+    "pushed_at": "2024-07-31T05:58:02Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 836975985,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_India",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_India",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-02T00:38:12Z",
+    "pushed_at": "2024-08-02T02:38:35Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 836554199,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Hungary",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Hungary",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-01T05:12:52Z",
+    "pushed_at": "2024-08-01T05:45:43Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 838120337,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kyrgyzstan",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kyrgyzstan",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-05T01:38:45Z",
+    "pushed_at": "2024-08-05T02:34:00Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 844275359,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Romania",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Romania",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-18T22:41:25Z",
+    "pushed_at": "2024-08-18T23:16:29Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 844273914,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Portugal",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Portugal",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-18T22:33:36Z",
+    "pushed_at": "2024-08-18T23:12:33Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 845362969,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sao-Tome-and-Principe",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sao-Tome-and-Principe",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-21T05:26:38Z",
+    "pushed_at": "2024-08-21T06:07:07Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 847183172,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Georgia-and-the-South-Sandwich-Islands",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Georgia-and-the-South-Sandwich-Islands",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-25T04:59:29Z",
+    "pushed_at": "2024-08-25T05:50:38Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 850555256,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Turkmenistan",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Turkmenistan",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-01T05:38:55Z",
+    "pushed_at": "2024-09-01T06:19:41Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 850934549,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_United-Kingdom",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_United-Kingdom",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-02T05:45:08Z",
+    "pushed_at": "2024-09-02T06:20:39Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 850936674,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Uzbekistan",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Uzbekistan",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-02T05:52:06Z",
+    "pushed_at": "2024-09-02T06:24:10Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 850938909,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Venezuela",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Venezuela",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-02T05:58:51Z",
+    "pushed_at": "2024-09-02T06:30:24Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 854408022,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Holy-Roman-Empire-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Holy-Roman-Empire-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-09T05:49:17Z",
+    "pushed_at": "2024-09-09T06:22:05Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 828428749,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Armenia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Armenia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-14T05:51:16Z",
+    "pushed_at": "2024-07-14T06:24:42Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 829275362,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bhutan",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bhutan",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-16T05:43:52Z",
+    "pushed_at": "2024-07-16T06:35:17Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 828429699,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Australia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Australia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-14T05:55:59Z",
+    "pushed_at": "2024-07-14T06:29:21Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 834693147,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Georgia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Georgia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-28T04:24:10Z",
+    "pushed_at": "2024-07-28T05:08:48Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 835556149,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Guatemala",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Guatemala",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-30T04:46:17Z",
+    "pushed_at": "2024-07-30T05:26:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 839495020,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Liechtenstein",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Liechtenstein",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-07T18:14:28Z",
+    "pushed_at": "2024-08-07T19:39:26Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 844273316,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Pitcairn-Islands",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Pitcairn-Islands",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-18T22:30:18Z",
+    "pushed_at": "2024-08-18T23:10:55Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 840926519,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Montenegro",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Montenegro",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-11T05:41:34Z",
+    "pushed_at": "2024-08-11T06:20:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 840926268,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mongolia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mongolia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-11T05:40:15Z",
+    "pushed_at": "2024-08-11T06:19:40Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 844846967,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Saint-Vincent-and-the-Grenadines",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Saint-Vincent-and-the-Grenadines",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-20T04:50:23Z",
+    "pushed_at": "2024-08-20T05:46:08Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 846841329,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Singapore",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Singapore",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-24T05:19:41Z",
+    "pushed_at": "2024-08-24T06:03:54Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 847560140,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Super-Korea",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Super-Korea",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-26T05:22:44Z",
+    "pushed_at": "2024-08-26T06:02:01Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 852033854,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Yemen",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Yemen",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-04T05:36:44Z",
+    "pushed_at": "2024-09-04T06:17:40Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 853998559,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_German-Empire-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_German-Empire-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-08T05:50:58Z",
+    "pushed_at": "2024-09-08T06:18:54Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 827144515,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Algeria",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Algeria",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-11T05:12:05Z",
+    "pushed_at": "2024-07-11T06:15:52Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 828097401,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Antigua-and-Barbuda",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Antigua-and-Barbuda",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-13T05:45:08Z",
+    "pushed_at": "2024-07-13T06:50:35Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 829275730,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bolivia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bolivia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-16T05:45:05Z",
+    "pushed_at": "2024-07-16T06:38:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 829846462,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Botswana",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Botswana",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-17T05:45:54Z",
+    "pushed_at": "2024-07-17T06:30:46Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 831962153,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Comoros",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Comoros",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-22T04:38:49Z",
+    "pushed_at": "2024-07-22T05:24:02Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 834370444,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Falkland-Islands",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Falkland-Islands",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-27T04:36:46Z",
+    "pushed_at": "2024-07-27T05:25:18Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 834369911,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Eswatini",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Eswatini",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-27T04:34:10Z",
+    "pushed_at": "2024-07-27T05:21:51Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 835557025,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Guinea",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Guinea",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-07-30T04:49:31Z",
+    "pushed_at": "2024-07-30T05:27:52Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 836976663,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Iran",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Iran",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-02T00:41:46Z",
+    "pushed_at": "2024-08-02T02:49:14Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 838119052,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kiribati",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kiribati",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-05T01:33:18Z",
+    "pushed_at": "2024-08-05T02:15:15Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 838118840,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kenya",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kenya",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-05T01:32:07Z",
+    "pushed_at": "2024-08-05T02:14:01Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 840925789,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Moldova",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Moldova",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-11T05:37:52Z",
+    "pushed_at": "2024-08-11T06:17:07Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 841293729,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Nepal",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Nepal",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-12T05:48:13Z",
+    "pushed_at": "2024-08-12T06:23:56Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 844272773,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Peru",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Peru",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-18T22:27:35Z",
+    "pushed_at": "2024-08-18T23:09:22Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 845881528,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Saudi-Arabia",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Saudi-Arabia",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-22T05:33:09Z",
+    "pushed_at": "2024-08-22T06:15:09Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 848626287,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_The-Bahamas",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_The-Bahamas",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-08-28T05:31:29Z",
+    "pushed_at": "2024-08-28T06:17:34Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 853640020,
+    "full_name": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Dutch-East-India-Company-_-FormerCountry",
+    "html_url": "https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Dutch-East-India-Company-_-FormerCountry",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "SVG",
+    "created_at": "2024-09-07T05:31:10Z",
+    "pushed_at": "2024-09-07T06:18:16Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/9/2024, 4:32:55 PM (Europe/Amsterdam)"
+  }
+]

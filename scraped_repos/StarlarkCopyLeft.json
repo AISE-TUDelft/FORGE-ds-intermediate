@@ -1,0 +1,2922 @@
+[
+  {
+    "id": 8866114,
+    "full_name": "owncloud/notes",
+    "html_url": "https://github.com/owncloud/notes",
+    "stargazers_count": 195,
+    "forks_count": 46,
+    "watchers_count": 195,
+    "open_issues_count": 59,
+    "language": "Starlark",
+    "created_at": "2013-03-18T22:56:50Z",
+    "pushed_at": "2024-09-16T10:52:14Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/18/2024, 11:52:24 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 19402291,
+    "full_name": "owncloud/files_pdfviewer",
+    "html_url": "https://github.com/owncloud/files_pdfviewer",
+    "stargazers_count": 19,
+    "forks_count": 20,
+    "watchers_count": 19,
+    "open_issues_count": 9,
+    "language": "Starlark",
+    "created_at": "2014-05-03T12:11:35Z",
+    "pushed_at": "2024-05-06T07:23:41Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/18/2024, 11:52:35 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 544747520,
+    "full_name": "rthomas/bazel-rust-protos",
+    "html_url": "https://github.com/rthomas/bazel-rust-protos",
+    "stargazers_count": 16,
+    "forks_count": 2,
+    "watchers_count": 16,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-10-03T06:40:40Z",
+    "pushed_at": "2023-07-16T23:37:22Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/18/2024, 11:52:35 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 106423536,
+    "full_name": "owncloud/files_primary_s3",
+    "html_url": "https://github.com/owncloud/files_primary_s3",
+    "stargazers_count": 16,
+    "forks_count": 5,
+    "watchers_count": 16,
+    "open_issues_count": 17,
+    "language": "Starlark",
+    "created_at": "2017-10-10T13:49:38Z",
+    "pushed_at": "2024-04-26T00:42:23Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/18/2024, 11:52:35 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 193892570,
+    "full_name": "typedb/typedb-protocol",
+    "html_url": "https://github.com/typedb/typedb-protocol",
+    "stargazers_count": 16,
+    "forks_count": 15,
+    "watchers_count": 16,
+    "open_issues_count": 7,
+    "language": "Starlark",
+    "created_at": "2019-06-26T11:37:21Z",
+    "pushed_at": "2024-09-17T17:50:51Z",
+    "license": {
+      "key": "mpl-2.0",
+      "name": "Mozilla Public License 2.0",
+      "spdx_id": "MPL-2.0",
+      "url": "https://api.github.com/licenses/mpl-2.0",
+      "node_id": "MDc6TGljZW5zZTE0"
+    },
+    "retrieval_date": "9/18/2024, 11:52:35 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 33724991,
+    "full_name": "owncloud/impersonate",
+    "html_url": "https://github.com/owncloud/impersonate",
+    "stargazers_count": 13,
+    "forks_count": 15,
+    "watchers_count": 13,
+    "open_issues_count": 28,
+    "language": "Starlark",
+    "created_at": "2015-04-10T11:24:54Z",
+    "pushed_at": "2024-04-27T00:42:24Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/18/2024, 11:52:35 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 83412855,
+    "full_name": "owncloud/files_external_dropbox",
+    "html_url": "https://github.com/owncloud/files_external_dropbox",
+    "stargazers_count": 13,
+    "forks_count": 5,
+    "watchers_count": 13,
+    "open_issues_count": 19,
+    "language": "Starlark",
+    "created_at": "2017-02-28T09:15:03Z",
+    "pushed_at": "2024-07-11T12:10:16Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/18/2024, 11:52:35 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 173839083,
+    "full_name": "typedb/dependencies",
+    "html_url": "https://github.com/typedb/dependencies",
+    "stargazers_count": 12,
+    "forks_count": 23,
+    "watchers_count": 12,
+    "open_issues_count": 35,
+    "language": "Starlark",
+    "created_at": "2019-03-04T23:39:43Z",
+    "pushed_at": "2024-09-17T10:39:58Z",
+    "license": {
+      "key": "mpl-2.0",
+      "name": "Mozilla Public License 2.0",
+      "spdx_id": "MPL-2.0",
+      "url": "https://api.github.com/licenses/mpl-2.0",
+      "node_id": "MDc6TGljZW5zZTE0"
+    },
+    "retrieval_date": "9/18/2024, 11:52:35 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 258882609,
+    "full_name": "rickwebiii/bazel_fpga_rules",
+    "html_url": "https://github.com/rickwebiii/bazel_fpga_rules",
+    "stargazers_count": 11,
+    "forks_count": 1,
+    "watchers_count": 11,
+    "open_issues_count": 1,
+    "language": "Starlark",
+    "created_at": "2020-04-25T21:57:32Z",
+    "pushed_at": "2021-08-12T00:58:09Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:52:35 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 38687934,
+    "full_name": "owncloud/files_external_ftp",
+    "html_url": "https://github.com/owncloud/files_external_ftp",
+    "stargazers_count": 10,
+    "forks_count": 7,
+    "watchers_count": 10,
+    "open_issues_count": 9,
+    "language": "Starlark",
+    "created_at": "2015-07-07T13:01:07Z",
+    "pushed_at": "2024-04-26T00:43:21Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/18/2024, 11:52:35 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 121362045,
+    "full_name": "owncloud/files_external_s3",
+    "html_url": "https://github.com/owncloud/files_external_s3",
+    "stargazers_count": 9,
+    "forks_count": 12,
+    "watchers_count": 9,
+    "open_issues_count": 17,
+    "language": "Starlark",
+    "created_at": "2018-02-13T09:17:04Z",
+    "pushed_at": "2024-03-25T05:04:30Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/18/2024, 11:52:42 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 20769688,
+    "full_name": "owncloud/templateeditor",
+    "html_url": "https://github.com/owncloud/templateeditor",
+    "stargazers_count": 7,
+    "forks_count": 9,
+    "watchers_count": 7,
+    "open_issues_count": 1,
+    "language": "Starlark",
+    "created_at": "2014-06-12T14:10:39Z",
+    "pushed_at": "2024-03-22T11:03:01Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/18/2024, 11:53:34 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 276048460,
+    "full_name": "markdingram/bazel-clojure",
+    "html_url": "https://github.com/markdingram/bazel-clojure",
+    "stargazers_count": 6,
+    "forks_count": 0,
+    "watchers_count": 6,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2020-06-30T08:58:15Z",
+    "pushed_at": "2020-06-30T11:05:47Z",
+    "license": {
+      "key": "epl-2.0",
+      "name": "Eclipse Public License 2.0",
+      "spdx_id": "EPL-2.0",
+      "url": "https://api.github.com/licenses/epl-2.0",
+      "node_id": "MDc6TGljZW5zZTMy"
+    },
+    "retrieval_date": "9/18/2024, 11:53:41 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 440793797,
+    "full_name": "GatCode/bazel2zephyr",
+    "html_url": "https://github.com/GatCode/bazel2zephyr",
+    "stargazers_count": 6,
+    "forks_count": 0,
+    "watchers_count": 6,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2021-12-22T08:53:34Z",
+    "pushed_at": "2021-12-22T13:09:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:53:41 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 87469824,
+    "full_name": "owncloud/diagnostics",
+    "html_url": "https://github.com/owncloud/diagnostics",
+    "stargazers_count": 5,
+    "forks_count": 6,
+    "watchers_count": 5,
+    "open_issues_count": 10,
+    "language": "Starlark",
+    "created_at": "2017-04-06T20:02:03Z",
+    "pushed_at": "2024-07-25T04:42:54Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/18/2024, 11:53:48 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 598034943,
+    "full_name": "freeletics/libdmtx-mobile",
+    "html_url": "https://github.com/freeletics/libdmtx-mobile",
+    "stargazers_count": 5,
+    "forks_count": 0,
+    "watchers_count": 5,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-02-06T08:58:57Z",
+    "pushed_at": "2023-02-06T08:59:12Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:53:48 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 456943195,
+    "full_name": "gisli-games/bazel-tips-and-tricks",
+    "html_url": "https://github.com/gisli-games/bazel-tips-and-tricks",
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "watchers_count": 4,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-02-08T13:26:11Z",
+    "pushed_at": "2024-01-09T18:18:11Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:53:55 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 76666605,
+    "full_name": "owncloud/files_paperhive",
+    "html_url": "https://github.com/owncloud/files_paperhive",
+    "stargazers_count": 4,
+    "forks_count": 4,
+    "watchers_count": 4,
+    "open_issues_count": 1,
+    "language": "Starlark",
+    "created_at": "2016-12-16T16:02:18Z",
+    "pushed_at": "2024-04-26T00:42:24Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/18/2024, 11:53:55 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 96911588,
+    "full_name": "owncloud/twofactor_backup_codes",
+    "html_url": "https://github.com/owncloud/twofactor_backup_codes",
+    "stargazers_count": 4,
+    "forks_count": 5,
+    "watchers_count": 4,
+    "open_issues_count": 2,
+    "language": "Starlark",
+    "created_at": "2017-07-11T15:59:59Z",
+    "pushed_at": "2024-05-08T00:19:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:53:55 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 272663715,
+    "full_name": "owncloud/qnap",
+    "html_url": "https://github.com/owncloud/qnap",
+    "stargazers_count": 3,
+    "forks_count": 3,
+    "watchers_count": 3,
+    "open_issues_count": 9,
+    "language": "Starlark",
+    "created_at": "2020-06-16T09:18:00Z",
+    "pushed_at": "2024-05-07T00:06:51Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/18/2024, 11:54:02 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 397406904,
+    "full_name": "seanpm2001/SNU_2D_ProgrammingTools_IDE_Starlark",
+    "html_url": "https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Starlark",
+    "stargazers_count": 3,
+    "forks_count": 2,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2021-08-17T22:32:04Z",
+    "pushed_at": "2022-10-03T03:47:32Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:02 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 289960049,
+    "full_name": "ewpratten/avr-for-bazel-demo",
+    "html_url": "https://github.com/ewpratten/avr-for-bazel-demo",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "open_issues_count": 1,
+    "language": "Starlark",
+    "created_at": "2020-08-24T15:03:15Z",
+    "pushed_at": "2020-08-24T15:11:59Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:02 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 530113233,
+    "full_name": "AleksanderGondek/rules_cc_hdrs_map",
+    "html_url": "https://github.com/AleksanderGondek/rules_cc_hdrs_map",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-08-29T07:33:03Z",
+    "pushed_at": "2022-11-08T08:25:16Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:02 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 458662086,
+    "full_name": "TokTok/toktok-fuzzer",
+    "html_url": "https://github.com/TokTok/toktok-fuzzer",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-02-12T23:17:24Z",
+    "pushed_at": "2024-01-30T10:21:20Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:09 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 806247290,
+    "full_name": "jab/shorty",
+    "html_url": "https://github.com/jab/shorty",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-05-26T19:21:50Z",
+    "pushed_at": "2024-08-21T16:45:15Z",
+    "license": {
+      "key": "mpl-2.0",
+      "name": "Mozilla Public License 2.0",
+      "spdx_id": "MPL-2.0",
+      "url": "https://api.github.com/licenses/mpl-2.0",
+      "node_id": "MDc6TGljZW5zZTE0"
+    },
+    "retrieval_date": "9/18/2024, 11:54:09 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 275935385,
+    "full_name": "markdingram/bazel-cdk-clojure",
+    "html_url": "https://github.com/markdingram/bazel-cdk-clojure",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 6,
+    "language": "Starlark",
+    "created_at": "2020-06-29T22:02:06Z",
+    "pushed_at": "2022-09-26T18:39:19Z",
+    "license": {
+      "key": "epl-2.0",
+      "name": "Eclipse Public License 2.0",
+      "spdx_id": "EPL-2.0",
+      "url": "https://api.github.com/licenses/epl-2.0",
+      "node_id": "MDc6TGljZW5zZTMy"
+    },
+    "retrieval_date": "9/18/2024, 11:54:09 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 544591734,
+    "full_name": "seanpm2001/Learn-Starlark",
+    "html_url": "https://github.com/seanpm2001/Learn-Starlark",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-10-02T21:17:02Z",
+    "pushed_at": "2022-10-03T04:57:13Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:09 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 608854012,
+    "full_name": "Benricheson101/rules_fluent_types",
+    "html_url": "https://github.com/Benricheson101/rules_fluent_types",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-03-02T21:51:04Z",
+    "pushed_at": "2023-03-16T22:21:14Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:09 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 140510971,
+    "full_name": "USAN/libdfegrpc",
+    "html_url": "https://github.com/USAN/libdfegrpc",
+    "stargazers_count": 2,
+    "forks_count": 5,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2018-07-11T02:28:19Z",
+    "pushed_at": "2020-12-30T02:18:59Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/18/2024, 11:54:09 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 603191108,
+    "full_name": "icirauqui/tutorials",
+    "html_url": "https://github.com/icirauqui/tutorials",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-02-17T20:11:20Z",
+    "pushed_at": "2023-07-08T06:43:30Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 352095186,
+    "full_name": "MetaVisage/gazerbeam",
+    "html_url": "https://github.com/MetaVisage/gazerbeam",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2021-03-27T14:35:40Z",
+    "pushed_at": "2021-06-26T16:17:30Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 765620701,
+    "full_name": "CoMPlest/unnamedCTF",
+    "html_url": "https://github.com/CoMPlest/unnamedCTF",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-03-01T09:34:47Z",
+    "pushed_at": "2024-03-09T12:57:07Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 739599316,
+    "full_name": "bzlparty/tools",
+    "html_url": "https://github.com/bzlparty/tools",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-01-06T01:01:27Z",
+    "pushed_at": "2024-08-04T19:23:38Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 101577467,
+    "full_name": "hblok/bazel_examples",
+    "html_url": "https://github.com/hblok/bazel_examples",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2017-08-27T20:11:26Z",
+    "pushed_at": "2024-09-08T19:54:56Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 650232180,
+    "full_name": "cruschke/tidbyt-evcc",
+    "html_url": "https://github.com/cruschke/tidbyt-evcc",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-06-06T16:16:15Z",
+    "pushed_at": "2024-05-24T17:05:31Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 300783998,
+    "full_name": "ewpratten/kobo-tweaks",
+    "html_url": "https://github.com/ewpratten/kobo-tweaks",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2020-10-03T03:02:32Z",
+    "pushed_at": "2020-10-03T17:26:16Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 351460027,
+    "full_name": "lodestar-cli/lodestar",
+    "html_url": "https://github.com/lodestar-cli/lodestar",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 4,
+    "language": "Starlark",
+    "created_at": "2021-03-25T14:11:19Z",
+    "pushed_at": "2023-12-27T15:11:40Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 420625017,
+    "full_name": "pschmitt/tafker",
+    "html_url": "https://github.com/pschmitt/tafker",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2021-10-24T08:14:22Z",
+    "pushed_at": "2024-04-15T09:17:12Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 635418736,
+    "full_name": "bzlparty/lib_common",
+    "html_url": "https://github.com/bzlparty/lib_common",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-05-02T16:47:06Z",
+    "pushed_at": "2024-01-05T10:03:29Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 736764337,
+    "full_name": "bzlparty/rules_quickjs",
+    "html_url": "https://github.com/bzlparty/rules_quickjs",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-12-28T20:08:43Z",
+    "pushed_at": "2024-08-05T21:27:12Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 325468861,
+    "full_name": "ncouture/oidc-middleware",
+    "html_url": "https://github.com/ncouture/oidc-middleware",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2020-12-30T06:02:39Z",
+    "pushed_at": "2021-01-12T20:06:54Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 789254270,
+    "full_name": "B1anky/windows_bazel_example",
+    "html_url": "https://github.com/B1anky/windows_bazel_example",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-04-20T03:36:40Z",
+    "pushed_at": "2024-04-20T21:23:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 238676924,
+    "full_name": "gutmox/vertx-boost",
+    "html_url": "https://github.com/gutmox/vertx-boost",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2020-02-06T11:49:15Z",
+    "pushed_at": "2021-08-04T17:53:05Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 645543963,
+    "full_name": "pselamy/rules_dataflow",
+    "html_url": "https://github.com/pselamy/rules_dataflow",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 2,
+    "language": "Starlark",
+    "created_at": "2023-05-25T22:37:25Z",
+    "pushed_at": "2023-06-27T21:19:18Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 259151646,
+    "full_name": "rickwebiii/blinkenlights",
+    "html_url": "https://github.com/rickwebiii/blinkenlights",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2020-04-26T23:03:12Z",
+    "pushed_at": "2020-04-26T23:20:55Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 666895507,
+    "full_name": "bzlparty/rules_bats",
+    "html_url": "https://github.com/bzlparty/rules_bats",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-07-16T00:24:54Z",
+    "pushed_at": "2023-08-06T22:05:17Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 275263658,
+    "full_name": "zouai-io/bazel-protobuf",
+    "html_url": "https://github.com/zouai-io/bazel-protobuf",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2020-06-26T23:10:51Z",
+    "pushed_at": "2021-04-14T00:26:16Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 419892868,
+    "full_name": "OffByOneStudios/ob1-bazel",
+    "html_url": "https://github.com/OffByOneStudios/ob1-bazel",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2021-10-21T22:19:28Z",
+    "pushed_at": "2024-07-12T23:05:30Z",
+    "license": {
+      "key": "mpl-2.0",
+      "name": "Mozilla Public License 2.0",
+      "spdx_id": "MPL-2.0",
+      "url": "https://api.github.com/licenses/mpl-2.0",
+      "node_id": "MDc6TGljZW5zZTE0"
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 637225498,
+    "full_name": "bzlparty/rules_pandoc",
+    "html_url": "https://github.com/bzlparty/rules_pandoc",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-05-06T22:28:53Z",
+    "pushed_at": "2023-07-10T23:56:30Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 660012473,
+    "full_name": "jessebarreto/park",
+    "html_url": "https://github.com/jessebarreto/park",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 2,
+    "language": "Starlark",
+    "created_at": "2023-06-29T03:50:12Z",
+    "pushed_at": "2023-09-09T03:35:18Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 481660247,
+    "full_name": "typedb/compose-perf",
+    "html_url": "https://github.com/typedb/compose-perf",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-04-14T15:43:35Z",
+    "pushed_at": "2022-04-14T15:47:19Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/18/2024, 11:54:17 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 211498274,
+    "full_name": "Stvchm9703/IDCT-Proj-Unity",
+    "html_url": "https://github.com/Stvchm9703/IDCT-Proj-Unity",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2019-09-28T12:38:30Z",
+    "pushed_at": "2020-04-02T21:12:38Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 272182610,
+    "full_name": "dustin-space/meal-scheduler",
+    "html_url": "https://github.com/dustin-space/meal-scheduler",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2020-06-14T10:50:35Z",
+    "pushed_at": "2020-06-14T15:33:01Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 479736369,
+    "full_name": "t4n0/repository_template",
+    "html_url": "https://github.com/t4n0/repository_template",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-04-09T13:36:08Z",
+    "pushed_at": "2022-04-09T13:38:33Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 754843475,
+    "full_name": "bzlparty/lib_css",
+    "html_url": "https://github.com/bzlparty/lib_css",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-02-08T21:40:52Z",
+    "pushed_at": "2024-02-08T21:40:54Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 736585806,
+    "full_name": "bookingcom/bazel-fakechroot",
+    "html_url": "https://github.com/bookingcom/bazel-fakechroot",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-12-28T09:58:58Z",
+    "pushed_at": "2024-01-02T14:28:23Z",
+    "license": {
+      "key": "lgpl-2.1",
+      "name": "GNU Lesser General Public License v2.1",
+      "spdx_id": "LGPL-2.1",
+      "url": "https://api.github.com/licenses/lgpl-2.1",
+      "node_id": "MDc6TGljZW5zZTEx"
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 806366736,
+    "full_name": "NzSN/LANTr",
+    "html_url": "https://github.com/NzSN/LANTr",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-05-27T04:07:49Z",
+    "pushed_at": "2024-09-11T03:29:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 482833615,
+    "full_name": "portal-co/rules_linux",
+    "html_url": "https://github.com/portal-co/rules_linux",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-04-18T12:11:36Z",
+    "pushed_at": "2022-04-18T14:25:39Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 498356506,
+    "full_name": "infinity-blackhole/backel-to-the-future",
+    "html_url": "https://github.com/infinity-blackhole/backel-to-the-future",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-05-31T13:51:06Z",
+    "pushed_at": "2022-05-31T14:10:23Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 599259412,
+    "full_name": "ThHutterer/linz-transit",
+    "html_url": "https://github.com/ThHutterer/linz-transit",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-02-08T19:24:03Z",
+    "pushed_at": "2023-05-20T13:44:11Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 721793908,
+    "full_name": "Vovandes/OTUS_CPP_Professional_HomeWork_01_bazel",
+    "html_url": "https://github.com/Vovandes/OTUS_CPP_Professional_HomeWork_01_bazel",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-11-21T19:28:45Z",
+    "pushed_at": "2023-11-21T19:33:37Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 715446934,
+    "full_name": "aeolyus/monorepo",
+    "html_url": "https://github.com/aeolyus/monorepo",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-11-07T06:50:53Z",
+    "pushed_at": "2024-01-07T08:04:08Z",
+    "license": {
+      "key": "mpl-2.0",
+      "name": "Mozilla Public License 2.0",
+      "spdx_id": "MPL-2.0",
+      "url": "https://api.github.com/licenses/mpl-2.0",
+      "node_id": "MDc6TGljZW5zZTE0"
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 358489248,
+    "full_name": "owncloud-ci/wait-for",
+    "html_url": "https://github.com/owncloud-ci/wait-for",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 2,
+    "language": "Starlark",
+    "created_at": "2021-04-16T05:46:04Z",
+    "pushed_at": "2024-09-07T01:33:18Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 174839681,
+    "full_name": "FKint/bazel-junit5",
+    "html_url": "https://github.com/FKint/bazel-junit5",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2019-03-10T15:06:04Z",
+    "pushed_at": "2020-11-04T21:32:36Z",
+    "license": {
+      "key": "epl-2.0",
+      "name": "Eclipse Public License 2.0",
+      "spdx_id": "EPL-2.0",
+      "url": "https://api.github.com/licenses/epl-2.0",
+      "node_id": "MDc6TGljZW5zZTMy"
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 266781645,
+    "full_name": "zjspp/practice_list",
+    "html_url": "https://github.com/zjspp/practice_list",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2020-05-25T13:07:15Z",
+    "pushed_at": "2020-05-26T09:19:52Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 447718675,
+    "full_name": "kwu4/MapstructBazelKotlin",
+    "html_url": "https://github.com/kwu4/MapstructBazelKotlin",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-01-13T19:01:31Z",
+    "pushed_at": "2022-01-18T07:59:24Z",
+    "license": {
+      "key": "lgpl-2.1",
+      "name": "GNU Lesser General Public License v2.1",
+      "spdx_id": "LGPL-2.1",
+      "url": "https://api.github.com/licenses/lgpl-2.1",
+      "node_id": "MDc6TGljZW5zZTEx"
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 839653577,
+    "full_name": "redcoelho/rules_bazel",
+    "html_url": "https://github.com/redcoelho/rules_bazel",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-08-08T04:06:30Z",
+    "pushed_at": "2024-08-13T14:34:43Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 383820650,
+    "full_name": "Pandademic/JustSomeTypescript",
+    "html_url": "https://github.com/Pandademic/JustSomeTypescript",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2021-07-07T14:09:10Z",
+    "pushed_at": "2021-09-18T15:47:50Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 532072998,
+    "full_name": "icirauqui/bazel-test",
+    "html_url": "https://github.com/icirauqui/bazel-test",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-09-02T20:41:12Z",
+    "pushed_at": "2022-09-02T20:41:47Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 567175102,
+    "full_name": "teikitel/build-from-zero-to-hero",
+    "html_url": "https://github.com/teikitel/build-from-zero-to-hero",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-11-17T08:26:35Z",
+    "pushed_at": "2022-11-21T13:00:52Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 776446590,
+    "full_name": "alexwender/bazel_python_pytest",
+    "html_url": "https://github.com/alexwender/bazel_python_pytest",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-03-23T14:33:44Z",
+    "pushed_at": "2024-03-24T14:01:17Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 630245457,
+    "full_name": "blackhorseya/legacy-ryze",
+    "html_url": "https://github.com/blackhorseya/legacy-ryze",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 3,
+    "language": "Starlark",
+    "created_at": "2023-04-20T01:19:32Z",
+    "pushed_at": "2023-10-30T15:40:33Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253886519,
+    "full_name": "Baneeishaque/git-repo-updator",
+    "html_url": "https://github.com/Baneeishaque/git-repo-updator",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2020-04-07T19:01:27Z",
+    "pushed_at": "2020-04-20T17:34:20Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 399758582,
+    "full_name": "StevePro7/BazelDebugCppVScode",
+    "html_url": "https://github.com/StevePro7/BazelDebugCppVScode",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2021-08-25T09:15:07Z",
+    "pushed_at": "2021-08-27T14:37:44Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 490071213,
+    "full_name": "opusmagna/tron-gateway",
+    "html_url": "https://github.com/opusmagna/tron-gateway",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-05-08T22:40:00Z",
+    "pushed_at": "2022-05-08T23:43:42Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 487233401,
+    "full_name": "Azorimor/azostream-o",
+    "html_url": "https://github.com/Azorimor/azostream-o",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-04-30T09:18:21Z",
+    "pushed_at": "2022-04-30T12:03:12Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 646982597,
+    "full_name": "bzlparty/rules_oak",
+    "html_url": "https://github.com/bzlparty/rules_oak",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-05-29T19:49:49Z",
+    "pushed_at": "2023-06-27T08:57:05Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 621619352,
+    "full_name": "jiaweian1001/codesnippet",
+    "html_url": "https://github.com/jiaweian1001/codesnippet",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-03-31T03:12:45Z",
+    "pushed_at": "2023-05-06T08:24:20Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 664136346,
+    "full_name": "datafy-id/go-stuff",
+    "html_url": "https://github.com/datafy-id/go-stuff",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-07-09T02:44:59Z",
+    "pushed_at": "2023-07-09T12:06:35Z",
+    "license": {
+      "key": "epl-2.0",
+      "name": "Eclipse Public License 2.0",
+      "spdx_id": "EPL-2.0",
+      "url": "https://api.github.com/licenses/epl-2.0",
+      "node_id": "MDc6TGljZW5zZTMy"
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 738038736,
+    "full_name": "bzlparty/rules-template",
+    "html_url": "https://github.com/bzlparty/rules-template",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-01-02T09:15:15Z",
+    "pushed_at": "2024-07-03T12:36:01Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 258596440,
+    "full_name": "TokTok/.github",
+    "html_url": "https://github.com/TokTok/.github",
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2020-04-24T18:48:07Z",
+    "pushed_at": "2024-01-08T22:57:37Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 739606199,
+    "full_name": "bzlparty/rules_compress",
+    "html_url": "https://github.com/bzlparty/rules_compress",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-01-06T01:44:03Z",
+    "pushed_at": "2024-08-05T21:02:20Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 832141998,
+    "full_name": "cdumange/sharpazelle",
+    "html_url": "https://github.com/cdumange/sharpazelle",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-07-22T12:36:36Z",
+    "pushed_at": "2024-08-19T12:46:53Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 392031604,
+    "full_name": "gutmox/native-vertx",
+    "html_url": "https://github.com/gutmox/native-vertx",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2021-08-02T17:08:41Z",
+    "pushed_at": "2021-08-04T18:13:54Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 430444756,
+    "full_name": "gkgoat1/rules_llvm",
+    "html_url": "https://github.com/gkgoat1/rules_llvm",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2021-11-21T18:14:35Z",
+    "pushed_at": "2022-05-08T23:23:50Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 651647921,
+    "full_name": "lure-sh/updater-plugins",
+    "html_url": "https://github.com/lure-sh/updater-plugins",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-06-09T18:05:46Z",
+    "pushed_at": "2023-08-08T16:07:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 615290572,
+    "full_name": "ultrasiq/Xurbyt",
+    "html_url": "https://github.com/ultrasiq/Xurbyt",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-03-17T11:15:28Z",
+    "pushed_at": "2023-03-23T23:08:49Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 673159768,
+    "full_name": "sudhanshuptl/Bazel-Reposiratory-demo",
+    "html_url": "https://github.com/sudhanshuptl/Bazel-Reposiratory-demo",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-08-01T02:27:35Z",
+    "pushed_at": "2023-08-01T05:24:49Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 694244487,
+    "full_name": "bazelcat/bazel-github-actions-examples",
+    "html_url": "https://github.com/bazelcat/bazel-github-actions-examples",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-09-20T15:55:27Z",
+    "pushed_at": "2023-09-20T15:55:53Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 387825655,
+    "full_name": "dcorbin83/test-tcp-docker",
+    "html_url": "https://github.com/dcorbin83/test-tcp-docker",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2021-07-20T14:54:07Z",
+    "pushed_at": "2021-07-20T15:04:37Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 403552752,
+    "full_name": "StevePro7/envoy-modsec-prototype",
+    "html_url": "https://github.com/StevePro7/envoy-modsec-prototype",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2021-09-06T08:58:12Z",
+    "pushed_at": "2021-09-16T15:01:24Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 543403579,
+    "full_name": "organicveggie/live-shows",
+    "html_url": "https://github.com/organicveggie/live-shows",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-09-30T02:43:06Z",
+    "pushed_at": "2022-10-02T06:40:15Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 659203504,
+    "full_name": "naveenrnw/bazel-training",
+    "html_url": "https://github.com/naveenrnw/bazel-training",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 2,
+    "language": "Starlark",
+    "created_at": "2023-06-27T10:42:06Z",
+    "pushed_at": "2023-06-27T17:35:18Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 714820735,
+    "full_name": "sena-otus/dz-1-bazel",
+    "html_url": "https://github.com/sena-otus/dz-1-bazel",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-11-05T22:32:49Z",
+    "pushed_at": "2023-11-19T18:52:32Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 293170211,
+    "full_name": "Panfilwk/ChoreBot",
+    "html_url": "https://github.com/Panfilwk/ChoreBot",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2020-09-05T23:28:22Z",
+    "pushed_at": "2020-09-06T19:05:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 290408812,
+    "full_name": "zecke/rules_prom",
+    "html_url": "https://github.com/zecke/rules_prom",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2020-08-26T05:57:12Z",
+    "pushed_at": "2020-08-26T05:58:37Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 493631109,
+    "full_name": "ttiurani/bazel-rust-raspberry-pi-cross-compile",
+    "html_url": "https://github.com/ttiurani/bazel-rust-raspberry-pi-cross-compile",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-05-18T11:19:42Z",
+    "pushed_at": "2022-05-28T09:05:33Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 532596155,
+    "full_name": "fbuonaro/lhscriptutil",
+    "html_url": "https://github.com/fbuonaro/lhscriptutil",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-09-04T16:34:45Z",
+    "pushed_at": "2023-08-11T23:46:35Z",
+    "license": {
+      "key": "mpl-2.0",
+      "name": "Mozilla Public License 2.0",
+      "spdx_id": "MPL-2.0",
+      "url": "https://api.github.com/licenses/mpl-2.0",
+      "node_id": "MDc6TGljZW5zZTE0"
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 393027124,
+    "full_name": "alandiegosantos/proxy-wasm-cpp-performance",
+    "html_url": "https://github.com/alandiegosantos/proxy-wasm-cpp-performance",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2021-08-05T12:05:20Z",
+    "pushed_at": "2021-08-06T15:26:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 307948247,
+    "full_name": "seungyongshim/mkltf2",
+    "html_url": "https://github.com/seungyongshim/mkltf2",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2020-10-28T08:14:58Z",
+    "pushed_at": "2020-10-30T00:00:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 580284473,
+    "full_name": "yagehu/rules_dhall",
+    "html_url": "https://github.com/yagehu/rules_dhall",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-12-20T07:15:21Z",
+    "pushed_at": "2022-12-20T07:15:34Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 770178549,
+    "full_name": "Orca-Softworks/tools",
+    "html_url": "https://github.com/Orca-Softworks/tools",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 2,
+    "language": "Starlark",
+    "created_at": "2024-03-11T04:37:45Z",
+    "pushed_at": "2024-03-11T04:37:47Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 286781557,
+    "full_name": "MrMabulous/Bazel-Build-for-GSL",
+    "html_url": "https://github.com/MrMabulous/Bazel-Build-for-GSL",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2020-08-11T15:33:25Z",
+    "pushed_at": "2020-08-12T02:34:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 290477675,
+    "full_name": "crepric/AirQuality-Monitor",
+    "html_url": "https://github.com/crepric/AirQuality-Monitor",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 1,
+    "language": "Starlark",
+    "created_at": "2020-08-26T11:27:11Z",
+    "pushed_at": "2022-01-21T20:40:20Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 838879846,
+    "full_name": "SonarSource/sonar-dummy-maven",
+    "html_url": "https://github.com/SonarSource/sonar-dummy-maven",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 1,
+    "language": "Starlark",
+    "created_at": "2024-08-06T14:19:29Z",
+    "pushed_at": "2024-08-23T12:59:03Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 845500820,
+    "full_name": "apoorvapatil29/Test1",
+    "html_url": "https://github.com/apoorvapatil29/Test1",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-08-21T11:23:01Z",
+    "pushed_at": "2024-08-21T12:44:35Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 850949139,
+    "full_name": "lilejin322/bazel-clang",
+    "html_url": "https://github.com/lilejin322/bazel-clang",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-09-02T06:27:48Z",
+    "pushed_at": "2024-09-02T10:39:55Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 399757884,
+    "full_name": "SteveProXNA/BazelDebugCppVScode",
+    "html_url": "https://github.com/SteveProXNA/BazelDebugCppVScode",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2021-08-25T09:12:36Z",
+    "pushed_at": "2021-08-25T09:52:03Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 428019667,
+    "full_name": "formelio/rules_docker_compose",
+    "html_url": "https://github.com/formelio/rules_docker_compose",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2021-11-14T19:20:55Z",
+    "pushed_at": "2021-11-14T20:22:37Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 509674016,
+    "full_name": "hikaru-y/anki-addons",
+    "html_url": "https://github.com/hikaru-y/anki-addons",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-07-02T06:08:57Z",
+    "pushed_at": "2022-09-05T22:58:27Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 649547947,
+    "full_name": "kobbled/c-project",
+    "html_url": "https://github.com/kobbled/c-project",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-06-05T05:54:31Z",
+    "pushed_at": "2023-06-05T06:01:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 702770503,
+    "full_name": "timewinder-dev/timewinder",
+    "html_url": "https://github.com/timewinder-dev/timewinder",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-10-10T01:34:12Z",
+    "pushed_at": "2023-10-30T23:22:55Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 320973110,
+    "full_name": "mnadev/Ark",
+    "html_url": "https://github.com/mnadev/Ark",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2020-12-13T03:09:38Z",
+    "pushed_at": "2020-12-30T03:49:23Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 321253188,
+    "full_name": "ifls/apis",
+    "html_url": "https://github.com/ifls/apis",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2020-12-14T06:21:26Z",
+    "pushed_at": "2021-07-18T04:29:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 352448337,
+    "full_name": "timpeihunghsieh/url-shorten",
+    "html_url": "https://github.com/timpeihunghsieh/url-shorten",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2021-03-28T22:02:57Z",
+    "pushed_at": "2021-05-12T00:41:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 304995520,
+    "full_name": "obazl/docs_obazl",
+    "html_url": "https://github.com/obazl/docs_obazl",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2020-10-18T00:44:44Z",
+    "pushed_at": "2024-02-01T16:12:39Z",
+    "license": {
+      "key": "epl-2.0",
+      "name": "Eclipse Public License 2.0",
+      "spdx_id": "EPL-2.0",
+      "url": "https://api.github.com/licenses/epl-2.0",
+      "node_id": "MDc6TGljZW5zZTMy"
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 723446932,
+    "full_name": "TheGrizzlyDev/what-the-duck",
+    "html_url": "https://github.com/TheGrizzlyDev/what-the-duck",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-11-25T17:38:36Z",
+    "pushed_at": "2023-12-17T12:59:58Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 299062353,
+    "full_name": "ewpratten/corepack",
+    "html_url": "https://github.com/ewpratten/corepack",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2020-09-27T15:34:31Z",
+    "pushed_at": "2020-11-11T16:56:14Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 331407572,
+    "full_name": "mihaigalos/go-bar",
+    "html_url": "https://github.com/mihaigalos/go-bar",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2021-01-20T19:18:42Z",
+    "pushed_at": "2021-01-23T10:16:14Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 482138891,
+    "full_name": "MidstallSoftware/k8s",
+    "html_url": "https://github.com/MidstallSoftware/k8s",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-04-16T02:50:33Z",
+    "pushed_at": "2022-06-01T01:16:05Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 570803226,
+    "full_name": "lvjp/dummy",
+    "html_url": "https://github.com/lvjp/dummy",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 5,
+    "language": "Starlark",
+    "created_at": "2022-11-26T07:07:38Z",
+    "pushed_at": "2023-06-07T17:55:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 827404993,
+    "full_name": "aira-xite/renovate-bazel-issue",
+    "html_url": "https://github.com/aira-xite/renovate-bazel-issue",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-07-11T15:39:12Z",
+    "pushed_at": "2024-07-11T15:53:12Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 805638994,
+    "full_name": "pbaughman/bazel-lilypond",
+    "html_url": "https://github.com/pbaughman/bazel-lilypond",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-05-25T03:45:54Z",
+    "pushed_at": "2024-06-09T06:12:11Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 535937704,
+    "full_name": "kelanige/libimg",
+    "html_url": "https://github.com/kelanige/libimg",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2022-09-13T03:05:45Z",
+    "pushed_at": "2022-10-25T22:57:25Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 812059331,
+    "full_name": "bzlparty/modules_graaljs",
+    "html_url": "https://github.com/bzlparty/modules_graaljs",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-06-07T21:41:32Z",
+    "pushed_at": "2024-06-17T09:42:26Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 738043467,
+    "full_name": "bzlparty/rules_html",
+    "html_url": "https://github.com/bzlparty/rules_html",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-01-02T09:29:33Z",
+    "pushed_at": "2024-02-09T22:17:00Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 750104041,
+    "full_name": "jjwatt/bazel-extending-macros",
+    "html_url": "https://github.com/jjwatt/bazel-extending-macros",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-01-30T01:42:54Z",
+    "pushed_at": "2024-01-30T02:01:16Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 791892947,
+    "full_name": "macromorgan/rgxx3_android_common_kernel",
+    "html_url": "https://github.com/macromorgan/rgxx3_android_common_kernel",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-04-25T15:17:17Z",
+    "pushed_at": "2024-04-25T15:37:08Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 824776093,
+    "full_name": "jwilliams55/cycling_computer",
+    "html_url": "https://github.com/jwilliams55/cycling_computer",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-07-05T23:26:08Z",
+    "pushed_at": "2024-08-12T19:49:39Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 284859182,
+    "full_name": "ewpratten/test_notebook",
+    "html_url": "https://github.com/ewpratten/test_notebook",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2020-08-04T02:40:41Z",
+    "pushed_at": "2020-08-04T03:05:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 303233446,
+    "full_name": "cypherpu/xmltar",
+    "html_url": "https://github.com/cypherpu/xmltar",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2020-10-11T23:46:54Z",
+    "pushed_at": "2021-04-29T10:58:03Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 404286033,
+    "full_name": "juanvallejo/lith",
+    "html_url": "https://github.com/juanvallejo/lith",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2021-09-08T09:23:07Z",
+    "pushed_at": "2021-09-22T06:07:43Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 589119955,
+    "full_name": "WalkerGriggs/enoki",
+    "html_url": "https://github.com/WalkerGriggs/enoki",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-01-15T05:38:23Z",
+    "pushed_at": "2023-01-24T06:24:15Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 775590497,
+    "full_name": "mboulton-fathom/rules_py_bug_repro",
+    "html_url": "https://github.com/mboulton-fathom/rules_py_bug_repro",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-03-21T17:07:59Z",
+    "pushed_at": "2024-03-21T17:12:39Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 796329971,
+    "full_name": "johnkalbac/tidbyt-steam-top-sellers",
+    "html_url": "https://github.com/johnkalbac/tidbyt-steam-top-sellers",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-05-05T16:17:19Z",
+    "pushed_at": "2024-05-27T15:23:17Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 724380286,
+    "full_name": "albertocavalcante/cli",
+    "html_url": "https://github.com/albertocavalcante/cli",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 3,
+    "language": "Starlark",
+    "created_at": "2023-11-28T00:41:38Z",
+    "pushed_at": "2024-07-24T23:07:24Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 386887465,
+    "full_name": "FBorowiec/talking_containers",
+    "html_url": "https://github.com/FBorowiec/talking_containers",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 1,
+    "language": "Starlark",
+    "created_at": "2021-07-17T08:55:27Z",
+    "pushed_at": "2021-11-01T09:53:50Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 616188299,
+    "full_name": "junefish/pixlet",
+    "html_url": "https://github.com/junefish/pixlet",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-03-19T21:17:03Z",
+    "pushed_at": "2023-03-20T02:37:35Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 706890643,
+    "full_name": "kentro-lab/cloudy-neigh",
+    "html_url": "https://github.com/kentro-lab/cloudy-neigh",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2023-10-18T20:20:46Z",
+    "pushed_at": "2023-11-27T00:01:59Z",
+    "license": {
+      "key": "lgpl-2.1",
+      "name": "GNU Lesser General Public License v2.1",
+      "spdx_id": "LGPL-2.1",
+      "url": "https://api.github.com/licenses/lgpl-2.1",
+      "node_id": "MDc6TGljZW5zZTEx"
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 762252950,
+    "full_name": "bzlparty/website",
+    "html_url": "https://github.com/bzlparty/website",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 1,
+    "language": "Starlark",
+    "created_at": "2024-02-23T11:51:40Z",
+    "pushed_at": "2024-05-13T12:03:47Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 812455346,
+    "full_name": "armandouv/cpp-projects",
+    "html_url": "https://github.com/armandouv/cpp-projects",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-06-09T00:07:03Z",
+    "pushed_at": "2024-06-11T02:09:37Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 836853175,
+    "full_name": "jwilliams55/python_c_bazel",
+    "html_url": "https://github.com/jwilliams55/python_c_bazel",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-08-01T17:35:44Z",
+    "pushed_at": "2024-08-01T23:16:11Z",
+    "license": {
+      "key": "lgpl-2.1",
+      "name": "GNU Lesser General Public License v2.1",
+      "spdx_id": "LGPL-2.1",
+      "url": "https://api.github.com/licenses/lgpl-2.1",
+      "node_id": "MDc6TGljZW5zZTEx"
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 836509079,
+    "full_name": "NagarajaHuliyapuradaMata/pProjectFull",
+    "html_url": "https://github.com/NagarajaHuliyapuradaMata/pProjectFull",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-08-01T02:17:33Z",
+    "pushed_at": "2024-08-20T15:08:16Z",
+    "license": {
+      "key": "epl-2.0",
+      "name": "Eclipse Public License 2.0",
+      "spdx_id": "EPL-2.0",
+      "url": "https://api.github.com/licenses/epl-2.0",
+      "node_id": "MDc6TGljZW5zZTMy"
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 834349026,
+    "full_name": "tacascer-org/monorepo",
+    "html_url": "https://github.com/tacascer-org/monorepo",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2024-07-27T02:44:41Z",
+    "pushed_at": "2024-08-30T05:44:06Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 159362619,
+    "full_name": "schoppmp/rules_oblivc",
+    "html_url": "https://github.com/schoppmp/rules_oblivc",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2018-11-27T16:06:02Z",
+    "pushed_at": "2021-04-11T23:19:30Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 413619817,
+    "full_name": "gkgoat1/wat",
+    "html_url": "https://github.com/gkgoat1/wat",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Starlark",
+    "created_at": "2021-10-05T00:07:04Z",
+    "pushed_at": "2021-10-05T00:08:47Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/18/2024, 11:54:27 AM (Europe/Amsterdam)"
+  }
+]

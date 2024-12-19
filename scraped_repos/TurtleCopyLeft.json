@@ -1,0 +1,62 @@
+[
+  {
+    "id": 240527945,
+    "full_name": "HerculesCRUE/ib-hercules-ontology",
+    "html_url": "https://github.com/HerculesCRUE/ib-hercules-ontology",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 2,
+    "language": "Turtle",
+    "created_at": "2020-02-14T14:35:18Z",
+    "pushed_at": "2022-05-20T21:38:17Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:04:10 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 237955900,
+    "full_name": "weso/hercules-ontology",
+    "html_url": "https://github.com/weso/hercules-ontology",
+    "stargazers_count": 0,
+    "forks_count": 5,
+    "watchers_count": 0,
+    "open_issues_count": 23,
+    "language": "Turtle",
+    "created_at": "2020-02-03T12:05:56Z",
+    "pushed_at": "2022-05-20T21:34:48Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:04:17 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 263486023,
+    "full_name": "alejgh/hercules_ontology",
+    "html_url": "https://github.com/alejgh/hercules_ontology",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 2,
+    "language": "Turtle",
+    "created_at": "2020-05-13T00:38:45Z",
+    "pushed_at": "2022-05-20T21:37:50Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 12:04:17 PM (Europe/Amsterdam)"
+  }
+]

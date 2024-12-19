@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 485261484,
+    "full_name": "hagezi/dns-blocklists",
+    "html_url": "https://github.com/hagezi/dns-blocklists",
+    "stargazers_count": 5830,
+    "forks_count": 200,
+    "watchers_count": 5830,
+    "open_issues_count": 1,
+    "language": "Text",
+    "created_at": "2022-04-25T07:13:09Z",
+    "pushed_at": "2024-09-08T14:04:43Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:42:54 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 273846716,
+    "full_name": "ryuuganime/animanga-wordlist",
+    "html_url": "https://github.com/ryuuganime/animanga-wordlist",
+    "stargazers_count": 25,
+    "forks_count": 3,
+    "watchers_count": 25,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-06-21T06:17:58Z",
+    "pushed_at": "2023-06-30T08:33:54Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:43:11 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 257563310,
+    "full_name": "giellalt/lang-fao",
+    "html_url": "https://github.com/giellalt/lang-fao",
+    "stargazers_count": 16,
+    "forks_count": 1,
+    "watchers_count": 16,
+    "open_issues_count": 5,
+    "language": "Text",
+    "created_at": "2020-04-21T10:44:14Z",
+    "pushed_at": "2024-09-05T18:08:57Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:43:18 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 257561820,
+    "full_name": "giellalt/lang-kal",
+    "html_url": "https://github.com/giellalt/lang-kal",
+    "stargazers_count": 8,
+    "forks_count": 3,
+    "watchers_count": 8,
+    "open_issues_count": 1,
+    "language": "Text",
+    "created_at": "2020-04-21T10:37:59Z",
+    "pushed_at": "2024-09-07T22:56:04Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:00 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 257565656,
+    "full_name": "giellalt/lang-kpv",
+    "html_url": "https://github.com/giellalt/lang-kpv",
+    "stargazers_count": 8,
+    "forks_count": 0,
+    "watchers_count": 8,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-04-21T10:55:00Z",
+    "pushed_at": "2024-09-05T18:09:07Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:00 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 257569438,
+    "full_name": "giellalt/lang-sme",
+    "html_url": "https://github.com/giellalt/lang-sme",
+    "stargazers_count": 6,
+    "forks_count": 1,
+    "watchers_count": 6,
+    "open_issues_count": 81,
+    "language": "Text",
+    "created_at": "2020-04-21T11:11:20Z",
+    "pushed_at": "2024-09-07T23:23:21Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:08 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253628029,
+    "full_name": "giellalt/lang-rus",
+    "html_url": "https://github.com/giellalt/lang-rus",
+    "stargazers_count": 5,
+    "forks_count": 1,
+    "watchers_count": 5,
+    "open_issues_count": 12,
+    "language": "Text",
+    "created_at": "2020-04-06T22:16:32Z",
+    "pushed_at": "2024-09-05T18:08:54Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:15 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 257568385,
+    "full_name": "giellalt/lang-fin",
+    "html_url": "https://github.com/giellalt/lang-fin",
+    "stargazers_count": 5,
+    "forks_count": 1,
+    "watchers_count": 5,
+    "open_issues_count": 3,
+    "language": "Text",
+    "created_at": "2020-04-21T11:06:39Z",
+    "pushed_at": "2024-09-06T08:22:51Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:15 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 259164476,
+    "full_name": "giellalt/lang-smn",
+    "html_url": "https://github.com/giellalt/lang-smn",
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "watchers_count": 4,
+    "open_issues_count": 1,
+    "language": "Text",
+    "created_at": "2020-04-27T00:34:04Z",
+    "pushed_at": "2024-09-05T18:08:54Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:22 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 263676784,
+    "full_name": "giellalt/lang-est-x-utee",
+    "html_url": "https://github.com/giellalt/lang-est-x-utee",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "open_issues_count": 6,
+    "language": "Text",
+    "created_at": "2020-05-13T15:56:40Z",
+    "pushed_at": "2024-09-06T12:39:10Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253628615,
+    "full_name": "giellalt/lang-vro",
+    "html_url": "https://github.com/giellalt/lang-vro",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 1,
+    "language": "Text",
+    "created_at": "2020-04-06T22:19:21Z",
+    "pushed_at": "2024-09-05T18:08:52Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253628325,
+    "full_name": "giellalt/lang-mdf",
+    "html_url": "https://github.com/giellalt/lang-mdf",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 1,
+    "language": "Text",
+    "created_at": "2020-04-06T22:18:17Z",
+    "pushed_at": "2024-09-05T18:09:02Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 584111974,
+    "full_name": "mb6ockatf/doodle-jump",
+    "html_url": "https://github.com/mb6ockatf/doodle-jump",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "open_issues_count": 3,
+    "language": "Text",
+    "created_at": "2023-01-01T12:20:18Z",
+    "pushed_at": "2024-08-10T12:59:46Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 257561403,
+    "full_name": "giellalt/lang-udm",
+    "html_url": "https://github.com/giellalt/lang-udm",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-04-21T10:36:06Z",
+    "pushed_at": "2024-09-05T18:08:58Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 629205472,
+    "full_name": "mb6ockatf/kesk-bot",
+    "html_url": "https://github.com/mb6ockatf/kesk-bot",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2023-04-17T21:03:10Z",
+    "pushed_at": "2024-08-10T13:03:07Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:29 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 263693041,
+    "full_name": "giellalt/lang-apu",
+    "html_url": "https://github.com/giellalt/lang-apu",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-05-13T17:04:15Z",
+    "pushed_at": "2024-09-05T18:08:56Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253628280,
+    "full_name": "giellalt/lang-lav",
+    "html_url": "https://github.com/giellalt/lang-lav",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-04-06T22:17:55Z",
+    "pushed_at": "2024-09-05T18:09:02Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/8/2024, 6:44:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 263693986,
+    "full_name": "giellalt/lang-epo",
+    "html_url": "https://github.com/giellalt/lang-epo",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-05-13T17:08:11Z",
+    "pushed_at": "2024-09-05T18:09:03Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 769801557,
+    "full_name": "seanpm2001/Learn-Text",
+    "html_url": "https://github.com/seanpm2001/Learn-Text",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2024-03-10T05:03:25Z",
+    "pushed_at": "2024-03-10T05:52:32Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 798783655,
+    "full_name": "mb6ockatf/numbers",
+    "html_url": "https://github.com/mb6ockatf/numbers",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2024-05-10T13:14:17Z",
+    "pushed_at": "2024-08-10T19:58:31Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 338315444,
+    "full_name": "giellalt/lang-qya",
+    "html_url": "https://github.com/giellalt/lang-qya",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 7,
+    "language": "Text",
+    "created_at": "2021-02-12T12:38:46Z",
+    "pushed_at": "2024-09-05T18:08:50Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 263692943,
+    "full_name": "giellalt/lang-krl",
+    "html_url": "https://github.com/giellalt/lang-krl",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-05-13T17:03:50Z",
+    "pushed_at": "2024-09-05T18:09:00Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 257566944,
+    "full_name": "giellalt/lang-mhr",
+    "html_url": "https://github.com/giellalt/lang-mhr",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-04-21T11:00:21Z",
+    "pushed_at": "2024-09-05T18:09:04Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 422579655,
+    "full_name": "0h7z/locale",
+    "html_url": "https://github.com/0h7z/locale",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2021-10-29T13:09:05Z",
+    "pushed_at": "2022-03-20T17:55:42Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 257563417,
+    "full_name": "giellalt/lang-smj",
+    "html_url": "https://github.com/giellalt/lang-smj",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 11,
+    "language": "Text",
+    "created_at": "2020-04-21T10:44:43Z",
+    "pushed_at": "2024-09-05T18:08:56Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253628075,
+    "full_name": "giellalt/lang-som",
+    "html_url": "https://github.com/giellalt/lang-som",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-04-06T22:16:49Z",
+    "pushed_at": "2024-09-05T18:08:54Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 840796516,
+    "full_name": "mb6ockatf/csvp",
+    "html_url": "https://github.com/mb6ockatf/csvp",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2024-08-10T17:56:19Z",
+    "pushed_at": "2024-08-10T17:59:14Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253628347,
+    "full_name": "giellalt/lang-vot",
+    "html_url": "https://github.com/giellalt/lang-vot",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-04-06T22:18:26Z",
+    "pushed_at": "2024-09-05T18:09:02Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253627892,
+    "full_name": "giellalt/lang-sma",
+    "html_url": "https://github.com/giellalt/lang-sma",
+    "stargazers_count": 2,
+    "forks_count": 3,
+    "watchers_count": 2,
+    "open_issues_count": 22,
+    "language": "Text",
+    "created_at": "2020-04-06T22:15:44Z",
+    "pushed_at": "2024-09-07T21:12:53Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 769801753,
+    "full_name": "seanpm2001/SNU_2D_ProgrammingTools_IDE_Text",
+    "html_url": "https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Text",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2024-03-10T05:04:28Z",
+    "pushed_at": "2024-03-10T05:54:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253628311,
+    "full_name": "giellalt/lang-myv",
+    "html_url": "https://github.com/giellalt/lang-myv",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 2,
+    "language": "Text",
+    "created_at": "2020-04-06T22:18:11Z",
+    "pushed_at": "2024-09-05T18:08:50Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 263149211,
+    "full_name": "giellalt/lang-nob",
+    "html_url": "https://github.com/giellalt/lang-nob",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 3,
+    "language": "Text",
+    "created_at": "2020-05-11T20:19:34Z",
+    "pushed_at": "2024-09-05T18:08:52Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 263595724,
+    "full_name": "giellalt/template-lang-und",
+    "html_url": "https://github.com/giellalt/template-lang-und",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 19,
+    "language": "Text",
+    "created_at": "2020-05-13T10:18:24Z",
+    "pushed_at": "2024-09-05T18:09:32Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:36 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 798245246,
+    "full_name": "mb6ockatf/stress",
+    "html_url": "https://github.com/mb6ockatf/stress",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2024-05-09T11:45:23Z",
+    "pushed_at": "2024-08-10T13:04:50Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 834245311,
+    "full_name": "mb6ockatf/fortune-mod-fightclub-ru",
+    "html_url": "https://github.com/mb6ockatf/fortune-mod-fightclub-ru",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2024-07-26T18:41:59Z",
+    "pushed_at": "2024-08-10T13:08:20Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 638557467,
+    "full_name": "mb6ockatf/nbf",
+    "html_url": "https://github.com/mb6ockatf/nbf",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2023-05-09T15:50:05Z",
+    "pushed_at": "2024-08-10T13:01:02Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 720696409,
+    "full_name": "mb6ockatf/aes-n-flask",
+    "html_url": "https://github.com/mb6ockatf/aes-n-flask",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2023-11-19T10:02:02Z",
+    "pushed_at": "2024-08-10T13:01:54Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 564338957,
+    "full_name": "giellalt/lang-tqn",
+    "html_url": "https://github.com/giellalt/lang-tqn",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2022-11-10T14:02:44Z",
+    "pushed_at": "2024-09-05T18:08:54Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 338315407,
+    "full_name": "giellalt/lang-cho",
+    "html_url": "https://github.com/giellalt/lang-cho",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 4,
+    "language": "Text",
+    "created_at": "2021-02-12T12:38:36Z",
+    "pushed_at": "2024-09-05T18:09:04Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 608150526,
+    "full_name": "giellalt/lang-sju-x-sydlapsk",
+    "html_url": "https://github.com/giellalt/lang-sju-x-sydlapsk",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2023-03-01T12:30:35Z",
+    "pushed_at": "2024-09-05T18:08:57Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253628003,
+    "full_name": "giellalt/lang-ron",
+    "html_url": "https://github.com/giellalt/lang-ron",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-04-06T22:16:22Z",
+    "pushed_at": "2024-09-05T18:09:04Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 836911267,
+    "full_name": "mb6ockatf/cdates",
+    "html_url": "https://github.com/mb6ockatf/cdates",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2024-08-01T20:18:16Z",
+    "pushed_at": "2024-08-10T13:09:07Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 338315500,
+    "full_name": "giellalt/lang-lit",
+    "html_url": "https://github.com/giellalt/lang-lit",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2021-02-12T12:39:04Z",
+    "pushed_at": "2024-09-05T18:09:03Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 737874235,
+    "full_name": "mb6ockatf/xml.lua",
+    "html_url": "https://github.com/mb6ockatf/xml.lua",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2024-01-01T20:06:06Z",
+    "pushed_at": "2024-08-10T13:00:18Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 657647316,
+    "full_name": "mb6ockatf/silver-potato",
+    "html_url": "https://github.com/mb6ockatf/silver-potato",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 2,
+    "language": "Text",
+    "created_at": "2023-06-23T14:14:33Z",
+    "pushed_at": "2024-08-10T13:06:25Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253627949,
+    "full_name": "giellalt/lang-mrj",
+    "html_url": "https://github.com/giellalt/lang-mrj",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-04-06T22:16:02Z",
+    "pushed_at": "2024-09-05T18:08:54Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 263690654,
+    "full_name": "giellalt/lang-tgl",
+    "html_url": "https://github.com/giellalt/lang-tgl",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-05-13T16:54:12Z",
+    "pushed_at": "2024-09-05T18:08:50Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 662225653,
+    "full_name": "mb6ockatf/mfr.lua",
+    "html_url": "https://github.com/mb6ockatf/mfr.lua",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2023-07-04T16:21:24Z",
+    "pushed_at": "2024-08-10T13:03:50Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 484554598,
+    "full_name": "mb6ockatf/ccasino",
+    "html_url": "https://github.com/mb6ockatf/ccasino",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2022-04-22T19:51:21Z",
+    "pushed_at": "2024-08-10T13:01:28Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 689567889,
+    "full_name": "mb6ockatf/lls",
+    "html_url": "https://github.com/mb6ockatf/lls",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2023-09-10T08:16:22Z",
+    "pushed_at": "2024-08-10T13:07:20Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253627986,
+    "full_name": "giellalt/lang-fit",
+    "html_url": "https://github.com/giellalt/lang-fit",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-04-06T22:16:18Z",
+    "pushed_at": "2024-09-05T18:08:58Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 661416604,
+    "full_name": "mb6ockatf/counttr",
+    "html_url": "https://github.com/mb6ockatf/counttr",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 2,
+    "language": "Text",
+    "created_at": "2023-07-02T19:19:17Z",
+    "pushed_at": "2024-08-10T12:58:35Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 612359365,
+    "full_name": "mb6ockatf/SRSMOW",
+    "html_url": "https://github.com/mb6ockatf/SRSMOW",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 5,
+    "language": "Text",
+    "created_at": "2023-03-10T19:11:56Z",
+    "pushed_at": "2024-08-22T21:10:39Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 268510898,
+    "full_name": "giellalt/lang-quc-x-ext-apertium",
+    "html_url": "https://github.com/giellalt/lang-quc-x-ext-apertium",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-06-01T12:05:31Z",
+    "pushed_at": "2024-09-05T18:08:58Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 338315532,
+    "full_name": "giellalt/lang-mya",
+    "html_url": "https://github.com/giellalt/lang-mya",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 1,
+    "language": "Text",
+    "created_at": "2021-02-12T12:39:12Z",
+    "pushed_at": "2024-09-05T18:08:54Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 840674065,
+    "full_name": "mb6ockatf/amhello",
+    "html_url": "https://github.com/mb6ockatf/amhello",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2024-08-10T10:37:19Z",
+    "pushed_at": "2024-08-10T12:48:29Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 484752739,
+    "full_name": "mb6ockatf/liprikontelegram",
+    "html_url": "https://github.com/mb6ockatf/liprikontelegram",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2022-04-23T13:18:33Z",
+    "pushed_at": "2024-08-10T12:57:26Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 834240667,
+    "full_name": "mb6ockatf/fortune-mod-fightclub",
+    "html_url": "https://github.com/mb6ockatf/fortune-mod-fightclub",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2024-07-26T18:27:02Z",
+    "pushed_at": "2024-08-10T13:07:54Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 263692230,
+    "full_name": "giellalt/lang-tlh",
+    "html_url": "https://github.com/giellalt/lang-tlh",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-05-13T17:00:42Z",
+    "pushed_at": "2024-09-05T18:08:52Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253922634,
+    "full_name": "giellalt/lang-olo",
+    "html_url": "https://github.com/giellalt/lang-olo",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-04-07T22:05:43Z",
+    "pushed_at": "2024-09-05T18:08:56Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 720694561,
+    "full_name": "mb6ockatf/bookhmsrvr",
+    "html_url": "https://github.com/mb6ockatf/bookhmsrvr",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2023-11-19T09:53:17Z",
+    "pushed_at": "2024-08-10T13:02:29Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253628063,
+    "full_name": "giellalt/lang-liv",
+    "html_url": "https://github.com/giellalt/lang-liv",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 2,
+    "language": "Text",
+    "created_at": "2020-04-06T22:16:44Z",
+    "pushed_at": "2024-09-05T18:09:04Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 338315474,
+    "full_name": "giellalt/lang-inp",
+    "html_url": "https://github.com/giellalt/lang-inp",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2021-02-12T12:38:54Z",
+    "pushed_at": "2024-09-05T18:09:07Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:44 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253628297,
+    "full_name": "giellalt/lang-kca",
+    "html_url": "https://github.com/giellalt/lang-kca",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-04-06T22:18:04Z",
+    "pushed_at": "2024-09-05T18:09:00Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 263693142,
+    "full_name": "giellalt/lang-skf",
+    "html_url": "https://github.com/giellalt/lang-skf",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-05-13T17:04:39Z",
+    "pushed_at": "2024-09-05T18:08:58Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 450443161,
+    "full_name": "giellalt/lang-hil",
+    "html_url": "https://github.com/giellalt/lang-hil",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2022-01-21T10:13:53Z",
+    "pushed_at": "2024-09-05T18:09:07Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 845053681,
+    "full_name": "mb6ockatf/calc",
+    "html_url": "https://github.com/mb6ockatf/calc",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2024-08-20T13:45:21Z",
+    "pushed_at": "2024-08-20T14:03:40Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253627939,
+    "full_name": "giellalt/lang-est-x-plamk",
+    "html_url": "https://github.com/giellalt/lang-est-x-plamk",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-04-06T22:15:58Z",
+    "pushed_at": "2024-09-05T18:09:00Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 263677337,
+    "full_name": "giellalt/lang-zxx",
+    "html_url": "https://github.com/giellalt/lang-zxx",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-05-13T15:58:49Z",
+    "pushed_at": "2024-09-05T17:52:10Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 780512048,
+    "full_name": "giellalt/lang-slh",
+    "html_url": "https://github.com/giellalt/lang-slh",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2024-04-01T16:29:38Z",
+    "pushed_at": "2024-09-05T18:08:50Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 267270128,
+    "full_name": "giellalt/lang-spa-x-ext-apertium",
+    "html_url": "https://github.com/giellalt/lang-spa-x-ext-apertium",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 1,
+    "language": "Text",
+    "created_at": "2020-05-27T08:57:43Z",
+    "pushed_at": "2024-09-05T18:08:56Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 257563222,
+    "full_name": "giellalt/lang-mns",
+    "html_url": "https://github.com/giellalt/lang-mns",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 2,
+    "language": "Text",
+    "created_at": "2020-04-21T10:43:51Z",
+    "pushed_at": "2024-09-08T04:50:46Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 338315344,
+    "full_name": "giellalt/lang-xak",
+    "html_url": "https://github.com/giellalt/lang-xak",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2021-02-12T12:38:20Z",
+    "pushed_at": "2024-09-05T18:08:50Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 560782910,
+    "full_name": "giellalt/lang-dag",
+    "html_url": "https://github.com/giellalt/lang-dag",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2022-11-02T08:59:02Z",
+    "pushed_at": "2024-09-05T18:09:00Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253628643,
+    "full_name": "giellalt/lang-vep",
+    "html_url": "https://github.com/giellalt/lang-vep",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-04-06T22:19:30Z",
+    "pushed_at": "2024-09-05T18:09:00Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 837185475,
+    "full_name": "giellalt/lang-ceb",
+    "html_url": "https://github.com/giellalt/lang-ceb",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2024-08-02T11:53:13Z",
+    "pushed_at": "2024-09-05T18:09:00Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253628334,
+    "full_name": "giellalt/lang-cor",
+    "html_url": "https://github.com/giellalt/lang-cor",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-04-06T22:18:21Z",
+    "pushed_at": "2024-09-05T18:08:58Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 257561331,
+    "full_name": "giellalt/lang-koi",
+    "html_url": "https://github.com/giellalt/lang-koi",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-04-21T10:35:45Z",
+    "pushed_at": "2024-09-05T18:09:06Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 813948206,
+    "full_name": "ngfblog/dns-blocklists",
+    "html_url": "https://github.com/ngfblog/dns-blocklists",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 1,
+    "language": "Text",
+    "created_at": "2024-06-12T03:52:56Z",
+    "pushed_at": "2024-09-02T00:57:18Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 338315311,
+    "full_name": "giellalt/lang-dsb",
+    "html_url": "https://github.com/giellalt/lang-dsb",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2021-02-12T12:38:12Z",
+    "pushed_at": "2024-09-05T18:08:59Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 263677249,
+    "full_name": "giellalt/lang-sjt",
+    "html_url": "https://github.com/giellalt/lang-sjt",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-05-13T15:58:26Z",
+    "pushed_at": "2024-09-05T18:08:56Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253628599,
+    "full_name": "giellalt/lang-deu",
+    "html_url": "https://github.com/giellalt/lang-deu",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-04-06T22:19:17Z",
+    "pushed_at": "2024-09-05T18:09:00Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 338315375,
+    "full_name": "giellalt/lang-fro",
+    "html_url": "https://github.com/giellalt/lang-fro",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2021-02-12T12:38:28Z",
+    "pushed_at": "2024-09-05T18:09:03Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 338315276,
+    "full_name": "giellalt/lang-xin-x-qda",
+    "html_url": "https://github.com/giellalt/lang-xin-x-qda",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2021-02-12T12:38:03Z",
+    "pushed_at": "2024-09-05T18:08:54Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 317518465,
+    "full_name": "giellalt/lang-mpj",
+    "html_url": "https://github.com/giellalt/lang-mpj",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-12-01T11:22:21Z",
+    "pushed_at": "2024-09-05T18:08:52Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 470515075,
+    "full_name": "giellalt/lang-pma",
+    "html_url": "https://github.com/giellalt/lang-pma",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2022-03-16T09:31:46Z",
+    "pushed_at": "2024-09-05T18:08:58Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 338315570,
+    "full_name": "giellalt/lang-rue",
+    "html_url": "https://github.com/giellalt/lang-rue",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2021-02-12T12:39:19Z",
+    "pushed_at": "2024-09-05T18:09:06Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 263699708,
+    "full_name": "giellalt/lang-xal",
+    "html_url": "https://github.com/giellalt/lang-xal",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-05-13T17:33:30Z",
+    "pushed_at": "2024-09-05T18:08:52Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253923169,
+    "full_name": "giellalt/lang-nio",
+    "html_url": "https://github.com/giellalt/lang-nio",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-04-07T22:09:14Z",
+    "pushed_at": "2024-09-05T18:08:52Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 338382859,
+    "full_name": "giellalt/lang-tha",
+    "html_url": "https://github.com/giellalt/lang-tha",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2021-02-12T17:12:57Z",
+    "pushed_at": "2024-09-05T18:08:52Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 463150607,
+    "full_name": "giellalt/lang-rmg",
+    "html_url": "https://github.com/giellalt/lang-rmg",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2022-02-24T13:03:44Z",
+    "pushed_at": "2024-09-05T18:08:54Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 263693768,
+    "full_name": "giellalt/lang-sel",
+    "html_url": "https://github.com/giellalt/lang-sel",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-05-13T17:07:21Z",
+    "pushed_at": "2024-09-05T18:08:56Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 263692843,
+    "full_name": "giellalt/lang-rup",
+    "html_url": "https://github.com/giellalt/lang-rup",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-05-13T17:03:22Z",
+    "pushed_at": "2024-09-05T18:08:52Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 263693365,
+    "full_name": "giellalt/lang-tuv",
+    "html_url": "https://github.com/giellalt/lang-tuv",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-05-13T17:05:33Z",
+    "pushed_at": "2024-09-05T18:08:56Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 263692698,
+    "full_name": "giellalt/lang-kek",
+    "html_url": "https://github.com/giellalt/lang-kek",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-05-13T17:02:45Z",
+    "pushed_at": "2024-09-05T18:09:02Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 263691087,
+    "full_name": "giellalt/lang-tyv",
+    "html_url": "https://github.com/giellalt/lang-tyv",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-05-13T16:56:00Z",
+    "pushed_at": "2024-09-05T18:08:58Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253628014,
+    "full_name": "giellalt/lang-izh",
+    "html_url": "https://github.com/giellalt/lang-izh",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-04-06T22:16:27Z",
+    "pushed_at": "2024-09-05T18:09:08Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 560782889,
+    "full_name": "giellalt/lang-gur",
+    "html_url": "https://github.com/giellalt/lang-gur",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2022-11-02T08:58:58Z",
+    "pushed_at": "2024-09-05T18:09:06Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 263690702,
+    "full_name": "giellalt/lang-zul-x-exp",
+    "html_url": "https://github.com/giellalt/lang-zul-x-exp",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2020-05-13T16:54:25Z",
+    "pushed_at": "2024-09-05T18:08:54Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 547247688,
+    "full_name": "giellalt/lang-ale",
+    "html_url": "https://github.com/giellalt/lang-ale",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Text",
+    "created_at": "2022-10-07T11:21:56Z",
+    "pushed_at": "2024-09-05T18:08:52Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/8/2024, 6:44:52 PM (Europe/Amsterdam)"
+  }
+]

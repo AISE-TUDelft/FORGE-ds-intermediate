@@ -1,0 +1,5062 @@
+[
+  {
+    "id": 90639783,
+    "full_name": "Forceea/Forceea-data-factory",
+    "html_url": "https://github.com/Forceea/Forceea-data-factory",
+    "stargazers_count": 121,
+    "forks_count": 13,
+    "watchers_count": 121,
+    "open_issues_count": 2,
+    "language": "Apex",
+    "created_at": "2017-05-08T14:49:40Z",
+    "pushed_at": "2024-07-30T11:44:15Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:17:18 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 24355442,
+    "full_name": "forcedotcom/WSDL2Apex",
+    "html_url": "https://github.com/forcedotcom/WSDL2Apex",
+    "stargazers_count": 65,
+    "forks_count": 55,
+    "watchers_count": 65,
+    "open_issues_count": 7,
+    "language": "Apex",
+    "created_at": "2014-09-23T03:30:35Z",
+    "pushed_at": "2022-02-12T08:36:09Z",
+    "license": {
+      "key": "epl-1.0",
+      "name": "Eclipse Public License 1.0",
+      "spdx_id": "EPL-1.0",
+      "url": "https://api.github.com/licenses/epl-1.0",
+      "node_id": "MDc6TGljZW5zZTc="
+    },
+    "retrieval_date": "9/19/2024, 11:17:26 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 579095080,
+    "full_name": "akruvi/salesforce-simple-trigger-framework",
+    "html_url": "https://github.com/akruvi/salesforce-simple-trigger-framework",
+    "stargazers_count": 36,
+    "forks_count": 8,
+    "watchers_count": 36,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-12-16T16:40:34Z",
+    "pushed_at": "2023-08-28T17:34:45Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:17:34 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 141857639,
+    "full_name": "igormatkovic/salesforce-faker",
+    "html_url": "https://github.com/igormatkovic/salesforce-faker",
+    "stargazers_count": 27,
+    "forks_count": 6,
+    "watchers_count": 27,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-07-22T01:41:23Z",
+    "pushed_at": "2019-03-11T16:22:14Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:17:41 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 649696257,
+    "full_name": "MuKnSys/xrp-salesforce",
+    "html_url": "https://github.com/MuKnSys/xrp-salesforce",
+    "stargazers_count": 22,
+    "forks_count": 1,
+    "watchers_count": 22,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-06-05T12:44:32Z",
+    "pushed_at": "2024-09-17T20:11:25Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:17:41 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 6614411,
+    "full_name": "solenopsis/sloggly",
+    "html_url": "https://github.com/solenopsis/sloggly",
+    "stargazers_count": 21,
+    "forks_count": 6,
+    "watchers_count": 21,
+    "open_issues_count": 3,
+    "language": "Apex",
+    "created_at": "2012-11-09T14:15:44Z",
+    "pushed_at": "2017-06-23T18:16:33Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:17:41 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 14096585,
+    "full_name": "danieljpeter/AuditForce",
+    "html_url": "https://github.com/danieljpeter/AuditForce",
+    "stargazers_count": 16,
+    "forks_count": 7,
+    "watchers_count": 16,
+    "open_issues_count": 1,
+    "language": "Apex",
+    "created_at": "2013-11-04T00:14:31Z",
+    "pushed_at": "2018-10-31T20:09:21Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:18:15 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 304555540,
+    "full_name": "wimvelzeboer/fflib-training-sessions",
+    "html_url": "https://github.com/wimvelzeboer/fflib-training-sessions",
+    "stargazers_count": 15,
+    "forks_count": 3,
+    "watchers_count": 15,
+    "open_issues_count": 1,
+    "language": "Apex",
+    "created_at": "2020-10-16T07:42:46Z",
+    "pushed_at": "2021-09-17T12:51:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:15 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 122159819,
+    "full_name": "the1mattkaufman/salesforce-integration-on-a-budget",
+    "html_url": "https://github.com/the1mattkaufman/salesforce-integration-on-a-budget",
+    "stargazers_count": 14,
+    "forks_count": 15,
+    "watchers_count": 14,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-02-20T05:39:16Z",
+    "pushed_at": "2018-03-22T16:41:53Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 11:18:15 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 299045464,
+    "full_name": "vipul-goyal/Salesforce-Batch-To-Delete-Records",
+    "html_url": "https://github.com/vipul-goyal/Salesforce-Batch-To-Delete-Records",
+    "stargazers_count": 12,
+    "forks_count": 5,
+    "watchers_count": 12,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2020-09-27T14:06:19Z",
+    "pushed_at": "2023-10-04T15:31:48Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:15 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 119141301,
+    "full_name": "rruprai/sfdc-microsoft-azure-service-bus",
+    "html_url": "https://github.com/rruprai/sfdc-microsoft-azure-service-bus",
+    "stargazers_count": 10,
+    "forks_count": 3,
+    "watchers_count": 10,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-01-27T06:57:17Z",
+    "pushed_at": "2020-04-28T23:56:46Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:15 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 272765098,
+    "full_name": "BobHatcher/QueueableUtilities",
+    "html_url": "https://github.com/BobHatcher/QueueableUtilities",
+    "stargazers_count": 9,
+    "forks_count": 1,
+    "watchers_count": 9,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2020-06-16T16:59:37Z",
+    "pushed_at": "2021-03-11T23:12:10Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:18:22 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 770699787,
+    "full_name": "jonathanmorris180/apex-fuzzy-finder",
+    "html_url": "https://github.com/jonathanmorris180/apex-fuzzy-finder",
+    "stargazers_count": 9,
+    "forks_count": 2,
+    "watchers_count": 9,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2024-03-12T02:08:08Z",
+    "pushed_at": "2024-03-26T02:23:57Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:22 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 60346637,
+    "full_name": "jturner1980/salesforce-helpers",
+    "html_url": "https://github.com/jturner1980/salesforce-helpers",
+    "stargazers_count": 7,
+    "forks_count": 1,
+    "watchers_count": 7,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2016-06-03T12:39:54Z",
+    "pushed_at": "2016-06-14T12:13:51Z",
+    "license": {
+      "key": "epl-1.0",
+      "name": "Eclipse Public License 1.0",
+      "spdx_id": "EPL-1.0",
+      "url": "https://api.github.com/licenses/epl-1.0",
+      "node_id": "MDc6TGljZW5zZTc="
+    },
+    "retrieval_date": "9/19/2024, 11:18:30 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 35422844,
+    "full_name": "CopadoSolutions/CopadoIntegrations",
+    "html_url": "https://github.com/CopadoSolutions/CopadoIntegrations",
+    "stargazers_count": 6,
+    "forks_count": 14,
+    "watchers_count": 6,
+    "open_issues_count": 3,
+    "language": "Apex",
+    "created_at": "2015-05-11T12:37:11Z",
+    "pushed_at": "2023-03-17T08:53:24Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:18:36 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 628755340,
+    "full_name": "jawills/QIME",
+    "html_url": "https://github.com/jawills/QIME",
+    "stargazers_count": 6,
+    "forks_count": 2,
+    "watchers_count": 6,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-04-16T22:47:21Z",
+    "pushed_at": "2024-09-03T16:28:38Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:36 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 324808194,
+    "full_name": "munawirrahman/FuzzyWuzzy",
+    "html_url": "https://github.com/munawirrahman/FuzzyWuzzy",
+    "stargazers_count": 5,
+    "forks_count": 0,
+    "watchers_count": 5,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2020-12-27T17:00:38Z",
+    "pushed_at": "2021-01-18T11:03:31Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:18:43 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 46085124,
+    "full_name": "MotivisOpenSource/unity",
+    "html_url": "https://github.com/MotivisOpenSource/unity",
+    "stargazers_count": 5,
+    "forks_count": 13,
+    "watchers_count": 5,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2015-11-12T22:34:57Z",
+    "pushed_at": "2016-09-12T21:43:42Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:43 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 78292734,
+    "full_name": "anyei/SFDC-ATARC",
+    "html_url": "https://github.com/anyei/SFDC-ATARC",
+    "stargazers_count": 5,
+    "forks_count": 4,
+    "watchers_count": 5,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2017-01-07T17:20:42Z",
+    "pushed_at": "2022-11-18T15:45:50Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:43 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 53688857,
+    "full_name": "Exygy/sf-dahlia-salesforce",
+    "html_url": "https://github.com/Exygy/sf-dahlia-salesforce",
+    "stargazers_count": 4,
+    "forks_count": 6,
+    "watchers_count": 4,
+    "open_issues_count": 3,
+    "language": "Apex",
+    "created_at": "2016-03-11T18:39:38Z",
+    "pushed_at": "2018-07-30T15:12:17Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:51 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 406093743,
+    "full_name": "docbill/Managed-Scheduled-Apex",
+    "html_url": "https://github.com/docbill/Managed-Scheduled-Apex",
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "watchers_count": 4,
+    "open_issues_count": 1,
+    "language": "Apex",
+    "created_at": "2021-09-13T18:56:26Z",
+    "pushed_at": "2021-09-21T13:44:00Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:51 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 224221202,
+    "full_name": "MinnPost/mailchimp-salesforce-sync",
+    "html_url": "https://github.com/MinnPost/mailchimp-salesforce-sync",
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "watchers_count": 4,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-11-26T15:12:05Z",
+    "pushed_at": "2020-01-16T16:53:50Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:18:51 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 177978483,
+    "full_name": "johnsfdemo/Followers",
+    "html_url": "https://github.com/johnsfdemo/Followers",
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "watchers_count": 4,
+    "open_issues_count": 2,
+    "language": "Apex",
+    "created_at": "2019-03-27T11:17:27Z",
+    "pushed_at": "2019-05-24T15:14:03Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:51 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 219045018,
+    "full_name": "shrutis22/yelp-assistant",
+    "html_url": "https://github.com/shrutis22/yelp-assistant",
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "watchers_count": 4,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-11-01T18:54:43Z",
+    "pushed_at": "2019-11-03T11:14:20Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:51 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 235719413,
+    "full_name": "alexed1/ItemsToApprove",
+    "html_url": "https://github.com/alexed1/ItemsToApprove",
+    "stargazers_count": 4,
+    "forks_count": 9,
+    "watchers_count": 4,
+    "open_issues_count": 4,
+    "language": "Apex",
+    "created_at": "2020-01-23T04:00:21Z",
+    "pushed_at": "2023-07-21T17:44:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:51 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 678613665,
+    "full_name": "10KAdvisors/SalesforceAIUtility",
+    "html_url": "https://github.com/10KAdvisors/SalesforceAIUtility",
+    "stargazers_count": 4,
+    "forks_count": 2,
+    "watchers_count": 4,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-08-15T00:55:15Z",
+    "pushed_at": "2024-06-25T16:30:50Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:51 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 228572336,
+    "full_name": "wimvelzeboer/fflib-force-di",
+    "html_url": "https://github.com/wimvelzeboer/fflib-force-di",
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "watchers_count": 4,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-12-17T08:45:19Z",
+    "pushed_at": "2020-06-18T08:40:44Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:51 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 40050420,
+    "full_name": "seanhharrison/DF15-microservices",
+    "html_url": "https://github.com/seanhharrison/DF15-microservices",
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "watchers_count": 4,
+    "open_issues_count": 1,
+    "language": "Apex",
+    "created_at": "2015-08-01T15:14:17Z",
+    "pushed_at": "2015-09-16T16:35:07Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:18:51 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 20410828,
+    "full_name": "cloudanswers/pivotaltracker-salesforce-integration",
+    "html_url": "https://github.com/cloudanswers/pivotaltracker-salesforce-integration",
+    "stargazers_count": 4,
+    "forks_count": 2,
+    "watchers_count": 4,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2014-06-02T16:22:29Z",
+    "pushed_at": "2014-09-23T21:09:16Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 11:18:51 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 615443431,
+    "full_name": "nick10k/sfdc-gpt-action-demo",
+    "html_url": "https://github.com/nick10k/sfdc-gpt-action-demo",
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "watchers_count": 4,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-03-17T17:52:09Z",
+    "pushed_at": "2023-03-21T14:13:21Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:51 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 446433749,
+    "full_name": "namsor/salesforce-addon",
+    "html_url": "https://github.com/namsor/salesforce-addon",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-01-10T13:25:58Z",
+    "pushed_at": "2022-11-01T09:58:21Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/19/2024, 11:18:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 391173208,
+    "full_name": "dannysummerlin/BigHistory",
+    "html_url": "https://github.com/dannysummerlin/BigHistory",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "open_issues_count": 3,
+    "language": "Apex",
+    "created_at": "2021-07-30T19:43:39Z",
+    "pushed_at": "2021-11-03T20:07:24Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 7470673,
+    "full_name": "nbigaouette/uottawa_thesis",
+    "html_url": "https://github.com/nbigaouette/uottawa_thesis",
+    "stargazers_count": 3,
+    "forks_count": 3,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2013-01-06T17:54:12Z",
+    "pushed_at": "2013-10-08T21:38:51Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 235739271,
+    "full_name": "MayTheSForceBeWithYou/Salesforce-Deployment-Manager",
+    "html_url": "https://github.com/MayTheSForceBeWithYou/Salesforce-Deployment-Manager",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 2,
+    "language": "Apex",
+    "created_at": "2020-01-23T06:47:14Z",
+    "pushed_at": "2020-01-29T05:48:21Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 24514264,
+    "full_name": "aldoforce/apex-db-manager",
+    "html_url": "https://github.com/aldoforce/apex-db-manager",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2014-09-26T20:25:27Z",
+    "pushed_at": "2015-06-24T20:41:37Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:18:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 38380913,
+    "full_name": "milindhg/RestaurantManagement",
+    "html_url": "https://github.com/milindhg/RestaurantManagement",
+    "stargazers_count": 3,
+    "forks_count": 8,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2015-07-01T16:06:08Z",
+    "pushed_at": "2016-03-15T16:04:04Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:18:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 119131850,
+    "full_name": "rruprai/sfdc-aws-sign4",
+    "html_url": "https://github.com/rruprai/sfdc-aws-sign4",
+    "stargazers_count": 3,
+    "forks_count": 2,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-01-27T04:19:12Z",
+    "pushed_at": "2020-04-28T23:58:48Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 654612611,
+    "full_name": "Jared-Loosely-Canon/OpenAI-Salesforce-Integration",
+    "html_url": "https://github.com/Jared-Loosely-Canon/OpenAI-Salesforce-Integration",
+    "stargazers_count": 3,
+    "forks_count": 2,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-06-16T14:10:56Z",
+    "pushed_at": "2023-07-25T12:04:15Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 359557043,
+    "full_name": "dschach/duplicatehandling",
+    "html_url": "https://github.com/dschach/duplicatehandling",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "open_issues_count": 1,
+    "language": "Apex",
+    "created_at": "2021-04-19T18:17:51Z",
+    "pushed_at": "2024-09-12T18:43:32Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 80070964,
+    "full_name": "kashiahmed/DeliveryManagementApp",
+    "html_url": "https://github.com/kashiahmed/DeliveryManagementApp",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2017-01-26T00:09:07Z",
+    "pushed_at": "2020-08-27T17:55:52Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 306952037,
+    "full_name": "TheRickParker/SFDX-Framework",
+    "html_url": "https://github.com/TheRickParker/SFDX-Framework",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2020-10-24T19:02:13Z",
+    "pushed_at": "2020-12-07T14:08:42Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 51014331,
+    "full_name": "albarivas/foodaffinity",
+    "html_url": "https://github.com/albarivas/foodaffinity",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2016-02-03T16:46:36Z",
+    "pushed_at": "2016-04-17T15:46:17Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 259007389,
+    "full_name": "DavidSmithnz/sosl_flow_component",
+    "html_url": "https://github.com/DavidSmithnz/sosl_flow_component",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "watchers_count": 3,
+    "open_issues_count": 1,
+    "language": "Apex",
+    "created_at": "2020-04-26T10:56:37Z",
+    "pushed_at": "2020-04-26T23:28:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:18:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 433232265,
+    "full_name": "dschach/record-types",
+    "html_url": "https://github.com/dschach/record-types",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-11-29T23:47:12Z",
+    "pushed_at": "2024-09-12T21:49:56Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:05 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 548053174,
+    "full_name": "seanpm2001/SNU_2D_ProgrammingTools_IDE_Apex",
+    "html_url": "https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Apex",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-10-08T20:53:27Z",
+    "pushed_at": "2022-10-09T06:38:02Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:05 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 254389436,
+    "full_name": "kgalant/ApexInvocableSetRecordType",
+    "html_url": "https://github.com/kgalant/ApexInvocableSetRecordType",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2020-04-09T14:11:01Z",
+    "pushed_at": "2020-06-13T06:07:00Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:05 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 184154073,
+    "full_name": "johnsfdemo/Google-Voice-to-Case",
+    "html_url": "https://github.com/johnsfdemo/Google-Voice-to-Case",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-04-29T22:40:04Z",
+    "pushed_at": "2019-05-02T15:25:00Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:05 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 811993787,
+    "full_name": "Coalfire-Research/paas-cloud-goat",
+    "html_url": "https://github.com/Coalfire-Research/paas-cloud-goat",
+    "stargazers_count": 2,
+    "forks_count": 2,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2024-06-07T18:14:17Z",
+    "pushed_at": "2024-08-02T15:25:26Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 11:19:05 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 820543667,
+    "full_name": "factorwise/sf-logger",
+    "html_url": "https://github.com/factorwise/sf-logger",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2024-06-26T17:21:26Z",
+    "pushed_at": "2024-06-26T17:25:45Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:05 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 44967920,
+    "full_name": "MotivisOpenSource/unity_beta",
+    "html_url": "https://github.com/MotivisOpenSource/unity_beta",
+    "stargazers_count": 2,
+    "forks_count": 3,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2015-10-26T12:49:26Z",
+    "pushed_at": "2015-10-26T18:27:14Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:05 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 630621255,
+    "full_name": "Eggy115/Apex",
+    "html_url": "https://github.com/Eggy115/Apex",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-04-20T19:23:00Z",
+    "pushed_at": "2023-04-20T19:23:10Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:05 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 25821659,
+    "full_name": "brian-chambers/Scheduled-Report-Attachements",
+    "html_url": "https://github.com/brian-chambers/Scheduled-Report-Attachements",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 1,
+    "language": "Apex",
+    "created_at": "2014-10-27T13:59:49Z",
+    "pushed_at": "2014-10-27T15:06:27Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:05 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 24543595,
+    "full_name": "manuerwin/salesforce-mass-stay-in-touch",
+    "html_url": "https://github.com/manuerwin/salesforce-mass-stay-in-touch",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 14,
+    "language": "Apex",
+    "created_at": "2014-09-27T21:51:08Z",
+    "pushed_at": "2016-09-01T21:22:13Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:05 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 548052375,
+    "full_name": "seanpm2001/Learn-Apex",
+    "html_url": "https://github.com/seanpm2001/Learn-Apex",
+    "stargazers_count": 2,
+    "forks_count": 2,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-10-08T20:51:00Z",
+    "pushed_at": "2022-10-09T06:35:01Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:05 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 24475335,
+    "full_name": "britishboyindc/DF14PowerofChatterinApex",
+    "html_url": "https://github.com/britishboyindc/DF14PowerofChatterinApex",
+    "stargazers_count": 1,
+    "forks_count": 3,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2014-09-25T21:09:07Z",
+    "pushed_at": "2014-09-29T22:45:44Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 166784236,
+    "full_name": "patrick-fischer/salesforce-density",
+    "html_url": "https://github.com/patrick-fischer/salesforce-density",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-01-21T09:20:04Z",
+    "pushed_at": "2019-01-21T11:28:30Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 706197242,
+    "full_name": "psagredo99/CSVtoContactsVFP",
+    "html_url": "https://github.com/psagredo99/CSVtoContactsVFP",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-10-17T13:41:09Z",
+    "pushed_at": "2023-10-18T10:39:53Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 506681542,
+    "full_name": "frmarcio/CustomTreeView",
+    "html_url": "https://github.com/frmarcio/CustomTreeView",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-06-23T14:50:50Z",
+    "pushed_at": "2022-07-01T18:26:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 177256279,
+    "full_name": "ibirds-github/Quick-Change-Set",
+    "html_url": "https://github.com/ibirds-github/Quick-Change-Set",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 1,
+    "language": "Apex",
+    "created_at": "2019-03-23T07:05:56Z",
+    "pushed_at": "2019-03-25T11:59:13Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 253546740,
+    "full_name": "commonvoyage/autocampaignmemberstatus",
+    "html_url": "https://github.com/commonvoyage/autocampaignmemberstatus",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2020-04-06T15:57:27Z",
+    "pushed_at": "2021-04-15T18:04:58Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 501863400,
+    "full_name": "MJ12358/sf-calendar",
+    "html_url": "https://github.com/MJ12358/sf-calendar",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-06-10T01:39:09Z",
+    "pushed_at": "2024-01-17T12:44:42Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 64249353,
+    "full_name": "shingenko/SF-Apex-Portfolio",
+    "html_url": "https://github.com/shingenko/SF-Apex-Portfolio",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2016-07-26T19:42:27Z",
+    "pushed_at": "2020-01-17T18:27:01Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 88260596,
+    "full_name": "sofiasalesforce/training",
+    "html_url": "https://github.com/sofiasalesforce/training",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2017-04-14T10:59:44Z",
+    "pushed_at": "2017-07-26T11:33:13Z",
+    "license": {
+      "key": "epl-1.0",
+      "name": "Eclipse Public License 1.0",
+      "spdx_id": "EPL-1.0",
+      "url": "https://api.github.com/licenses/epl-1.0",
+      "node_id": "MDc6TGljZW5zZTc="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 427784791,
+    "full_name": "MJ12358/apex-http-utils",
+    "html_url": "https://github.com/MJ12358/apex-http-utils",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 2,
+    "language": "Apex",
+    "created_at": "2021-11-13T22:20:24Z",
+    "pushed_at": "2024-01-17T12:52:06Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 180523741,
+    "full_name": "Ebury/notifications-engine-dreamole-19",
+    "html_url": "https://github.com/Ebury/notifications-engine-dreamole-19",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-04-10T07:11:03Z",
+    "pushed_at": "2019-04-10T11:27:03Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 499947683,
+    "full_name": "MJ12358/apex-sobject-utils",
+    "html_url": "https://github.com/MJ12358/apex-sobject-utils",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-06-04T22:15:58Z",
+    "pushed_at": "2024-01-17T12:56:40Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 11833085,
+    "full_name": "cloudanswers/salesforce-freshbooks-sync",
+    "html_url": "https://github.com/cloudanswers/salesforce-freshbooks-sync",
+    "stargazers_count": 1,
+    "forks_count": 9,
+    "watchers_count": 1,
+    "open_issues_count": 2,
+    "language": "Apex",
+    "created_at": "2013-08-02T02:27:23Z",
+    "pushed_at": "2022-06-28T08:18:42Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 644722200,
+    "full_name": "manuerwin/salesforce-merge-contacts-batch",
+    "html_url": "https://github.com/manuerwin/salesforce-merge-contacts-batch",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-05-24T05:57:06Z",
+    "pushed_at": "2024-08-24T10:41:15Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 315459524,
+    "full_name": "ashforce/sfdx-packaging-quickstart",
+    "html_url": "https://github.com/ashforce/sfdx-packaging-quickstart",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2020-11-23T22:48:47Z",
+    "pushed_at": "2020-11-23T23:44:42Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 13320522,
+    "full_name": "magardner/Pirate",
+    "html_url": "https://github.com/magardner/Pirate",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2013-10-04T09:17:41Z",
+    "pushed_at": "2013-10-04T10:06:09Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 126612189,
+    "full_name": "keirbowden/bbtrnremote",
+    "html_url": "https://github.com/keirbowden/bbtrnremote",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-03-24T15:20:23Z",
+    "pushed_at": "2019-04-09T13:13:51Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 792380585,
+    "full_name": "SWhalen-gh/ApexSudoku",
+    "html_url": "https://github.com/SWhalen-gh/ApexSudoku",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2024-04-26T14:51:30Z",
+    "pushed_at": "2024-08-18T19:06:24Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 815000697,
+    "full_name": "IntutivemindsTechnologies/DynamicDataTable",
+    "html_url": "https://github.com/IntutivemindsTechnologies/DynamicDataTable",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2024-06-14T06:27:28Z",
+    "pushed_at": "2024-07-26T07:29:44Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 438038075,
+    "full_name": "MJ12358/apex-core-utils",
+    "html_url": "https://github.com/MJ12358/apex-core-utils",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-12-13T22:02:02Z",
+    "pushed_at": "2024-01-17T12:49:38Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 648260654,
+    "full_name": "BobHatcher/StringUtilities",
+    "html_url": "https://github.com/BobHatcher/StringUtilities",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-06-01T15:00:53Z",
+    "pushed_at": "2023-06-01T15:50:43Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 497135163,
+    "full_name": "markgarg/salesforce-api-for-prometheus",
+    "html_url": "https://github.com/markgarg/salesforce-api-for-prometheus",
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-05-27T20:51:54Z",
+    "pushed_at": "2022-06-05T21:13:42Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 463006286,
+    "full_name": "catalandres/floq",
+    "html_url": "https://github.com/catalandres/floq",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-02-24T04:21:33Z",
+    "pushed_at": "2022-02-24T05:01:09Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 30377006,
+    "full_name": "aldoforce/apex-notification-services",
+    "html_url": "https://github.com/aldoforce/apex-notification-services",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2015-02-05T20:34:32Z",
+    "pushed_at": "2015-02-05T20:53:36Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 196662891,
+    "full_name": "cooperfellows/targetx-summit-2019",
+    "html_url": "https://github.com/cooperfellows/targetx-summit-2019",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 1,
+    "language": "Apex",
+    "created_at": "2019-07-13T00:59:44Z",
+    "pushed_at": "2019-07-14T16:47:53Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 141749072,
+    "full_name": "zobrown/salesforce-csvreader",
+    "html_url": "https://github.com/zobrown/salesforce-csvreader",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-07-20T19:14:26Z",
+    "pushed_at": "2018-08-07T18:42:16Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 234192602,
+    "full_name": "dschach/duplicates",
+    "html_url": "https://github.com/dschach/duplicates",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2020-01-15T23:19:24Z",
+    "pushed_at": "2021-07-08T17:22:01Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 731142347,
+    "full_name": "off-nadir-insight/Salesforce-Homework",
+    "html_url": "https://github.com/off-nadir-insight/Salesforce-Homework",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 1,
+    "language": "Apex",
+    "created_at": "2023-12-13T12:55:56Z",
+    "pushed_at": "2023-12-27T19:17:02Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 597229221,
+    "full_name": "MG-RX93/salesforce-public",
+    "html_url": "https://github.com/MG-RX93/salesforce-public",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 6,
+    "language": "Apex",
+    "created_at": "2023-02-03T23:15:12Z",
+    "pushed_at": "2024-08-13T20:16:34Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 323406135,
+    "full_name": "flistergod/PDF_OCR_Salesforce",
+    "html_url": "https://github.com/flistergod/PDF_OCR_Salesforce",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2020-12-21T17:37:32Z",
+    "pushed_at": "2020-12-29T15:55:53Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 11:19:13 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 18311420,
+    "full_name": "troysellers/salesConsole",
+    "html_url": "https://github.com/troysellers/salesConsole",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2014-03-31T23:27:32Z",
+    "pushed_at": "2014-03-31T23:35:14Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 39889361,
+    "full_name": "tvalimaki/tut-thesis",
+    "html_url": "https://github.com/tvalimaki/tut-thesis",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2015-07-29T11:12:58Z",
+    "pushed_at": "2016-09-05T07:27:29Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 107884444,
+    "full_name": "Oleg-Krinochkin/jenkins_ci",
+    "html_url": "https://github.com/Oleg-Krinochkin/jenkins_ci",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2017-10-22T16:48:15Z",
+    "pushed_at": "2017-11-04T17:49:00Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 125538373,
+    "full_name": "keirbowden/bbtrn",
+    "html_url": "https://github.com/keirbowden/bbtrn",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-03-16T15:54:24Z",
+    "pushed_at": "2019-04-09T13:09:31Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 193766357,
+    "full_name": "joegaBonito/Superbadge-AdvancedApexSpecialist",
+    "html_url": "https://github.com/joegaBonito/Superbadge-AdvancedApexSpecialist",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-06-25T18:56:40Z",
+    "pushed_at": "2018-06-12T11:56:50Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 167038819,
+    "full_name": "doppiomacchiatto/superbadge-DataIntegrationSpecialist",
+    "html_url": "https://github.com/doppiomacchiatto/superbadge-DataIntegrationSpecialist",
+    "stargazers_count": 0,
+    "forks_count": 7,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-01-22T17:42:50Z",
+    "pushed_at": "2018-06-08T11:44:18Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 249009093,
+    "full_name": "raffaeledesimone/Prova-repository",
+    "html_url": "https://github.com/raffaeledesimone/Prova-repository",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2020-03-21T15:53:11Z",
+    "pushed_at": "2020-05-09T16:04:01Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 706202858,
+    "full_name": "catalandres/triage",
+    "html_url": "https://github.com/catalandres/triage",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-10-17T13:52:42Z",
+    "pushed_at": "2023-10-17T14:50:09Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 723634473,
+    "full_name": "Robypower/Daily-Challenge",
+    "html_url": "https://github.com/Robypower/Daily-Challenge",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-11-26T09:48:25Z",
+    "pushed_at": "2023-12-09T09:11:47Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 822758364,
+    "full_name": "runicfox/profile2permset",
+    "html_url": "https://github.com/runicfox/profile2permset",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2024-07-01T19:00:09Z",
+    "pushed_at": "2024-07-02T15:32:25Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 814189362,
+    "full_name": "miguellangel/salesforcechallenges",
+    "html_url": "https://github.com/miguellangel/salesforcechallenges",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2024-06-12T14:06:45Z",
+    "pushed_at": "2024-07-05T21:12:50Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 785402572,
+    "full_name": "TruSummit-Solutions/TSSMaps",
+    "html_url": "https://github.com/TruSummit-Solutions/TSSMaps",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2024-04-11T20:25:16Z",
+    "pushed_at": "2024-04-11T23:02:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 94786369,
+    "full_name": "messageagency/merged-contacts",
+    "html_url": "https://github.com/messageagency/merged-contacts",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2017-06-19T14:34:58Z",
+    "pushed_at": "2017-06-19T14:41:26Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 79763502,
+    "full_name": "Lanzruiz/salesforce",
+    "html_url": "https://github.com/Lanzruiz/salesforce",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2017-01-23T02:43:08Z",
+    "pushed_at": "2017-01-23T02:47:57Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 120678658,
+    "full_name": "alandm7/Thailhead-Solutions",
+    "html_url": "https://github.com/alandm7/Thailhead-Solutions",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-02-07T22:16:20Z",
+    "pushed_at": "2017-12-01T13:58:10Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 195268678,
+    "full_name": "borislavsfdc/TriggerUtility",
+    "html_url": "https://github.com/borislavsfdc/TriggerUtility",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-07-04T15:52:37Z",
+    "pushed_at": "2019-07-31T08:59:24Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 297270718,
+    "full_name": "gauravtiwari0205/WSDL2Apex",
+    "html_url": "https://github.com/gauravtiwari0205/WSDL2Apex",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 1,
+    "language": "Apex",
+    "created_at": "2020-09-21T08:06:16Z",
+    "pushed_at": "2020-10-14T00:31:51Z",
+    "license": {
+      "key": "epl-1.0",
+      "name": "Eclipse Public License 1.0",
+      "spdx_id": "EPL-1.0",
+      "url": "https://api.github.com/licenses/epl-1.0",
+      "node_id": "MDc6TGljZW5zZTc="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 302646811,
+    "full_name": "askelia/apex_snippets",
+    "html_url": "https://github.com/askelia/apex_snippets",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2020-10-09T13:18:47Z",
+    "pushed_at": "2020-11-19T16:33:24Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 425335346,
+    "full_name": "markledden/salesforce-pdf",
+    "html_url": "https://github.com/markledden/salesforce-pdf",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-11-06T19:53:30Z",
+    "pushed_at": "2021-11-06T20:06:58Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 517214567,
+    "full_name": "khanwebguru/RestCalloutFramework",
+    "html_url": "https://github.com/khanwebguru/RestCalloutFramework",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-07-24T03:09:29Z",
+    "pushed_at": "2022-07-24T04:07:08Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 471680577,
+    "full_name": "igapyon/javabase4apex",
+    "html_url": "https://github.com/igapyon/javabase4apex",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-03-19T11:51:01Z",
+    "pushed_at": "2022-03-21T23:18:41Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 811485336,
+    "full_name": "amitmajumdar10/sfdx-github-workflow-template",
+    "html_url": "https://github.com/amitmajumdar10/sfdx-github-workflow-template",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2024-06-06T17:28:19Z",
+    "pushed_at": "2024-06-07T06:49:57Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 23263657,
+    "full_name": "pcon/bulkhandson",
+    "html_url": "https://github.com/pcon/bulkhandson",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2014-08-23T18:53:17Z",
+    "pushed_at": "2015-01-06T19:28:18Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 17686825,
+    "full_name": "BlastarIndia/Crapmail",
+    "html_url": "https://github.com/BlastarIndia/Crapmail",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2014-03-12T22:46:49Z",
+    "pushed_at": "2014-03-12T22:57:04Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 72930250,
+    "full_name": "StrideforceHub/alumni",
+    "html_url": "https://github.com/StrideforceHub/alumni",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2016-11-05T14:12:05Z",
+    "pushed_at": "2016-12-28T19:32:34Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 90465777,
+    "full_name": "sfofthings/Find-FieldName-in-Reports",
+    "html_url": "https://github.com/sfofthings/Find-FieldName-in-Reports",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2017-05-06T13:44:10Z",
+    "pushed_at": "2017-05-10T12:19:50Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 167849195,
+    "full_name": "SFDCSunday/TrainingCode",
+    "html_url": "https://github.com/SFDCSunday/TrainingCode",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-01-27T19:26:58Z",
+    "pushed_at": "2019-02-19T17:21:08Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 227936436,
+    "full_name": "raspisdojo/trigger-handler-framework",
+    "html_url": "https://github.com/raspisdojo/trigger-handler-framework",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-12-13T23:05:37Z",
+    "pushed_at": "2019-12-21T00:52:15Z",
+    "license": {
+      "key": "mpl-2.0",
+      "name": "Mozilla Public License 2.0",
+      "spdx_id": "MPL-2.0",
+      "url": "https://api.github.com/licenses/mpl-2.0",
+      "node_id": "MDc6TGljZW5zZTE0"
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 191811743,
+    "full_name": "rahulgawale/SLDS-Autocomplete-Lookup-in-Visualforce-Page",
+    "html_url": "https://github.com/rahulgawale/SLDS-Autocomplete-Lookup-in-Visualforce-Page",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-06-13T18:10:04Z",
+    "pushed_at": "2019-06-14T10:11:40Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 192796268,
+    "full_name": "CopadoSolutions/Trail-EbikeApp",
+    "html_url": "https://github.com/CopadoSolutions/Trail-EbikeApp",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-06-19T19:58:19Z",
+    "pushed_at": "2021-01-20T15:43:43Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 351604154,
+    "full_name": "anas-rashid/sfdx-project",
+    "html_url": "https://github.com/anas-rashid/sfdx-project",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-03-25T23:29:29Z",
+    "pushed_at": "2021-03-25T23:37:08Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 427344614,
+    "full_name": "markledden/salesforce-testing",
+    "html_url": "https://github.com/markledden/salesforce-testing",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-11-12T12:01:15Z",
+    "pushed_at": "2021-11-12T12:31:29Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 424992397,
+    "full_name": "markledden/salesforce-sso-mfa",
+    "html_url": "https://github.com/markledden/salesforce-sso-mfa",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-11-05T15:16:13Z",
+    "pushed_at": "2021-11-05T15:41:32Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 427778396,
+    "full_name": "stohn777/ApexUtilities",
+    "html_url": "https://github.com/stohn777/ApexUtilities",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-11-13T21:41:24Z",
+    "pushed_at": "2022-05-04T17:45:30Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 702003234,
+    "full_name": "rover1312/Salesforce_TexttoLookupMigrator",
+    "html_url": "https://github.com/rover1312/Salesforce_TexttoLookupMigrator",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-10-08T07:59:26Z",
+    "pushed_at": "2023-10-19T06:15:26Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 691535752,
+    "full_name": "patirroyo/SGE",
+    "html_url": "https://github.com/patirroyo/SGE",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-09-14T11:31:54Z",
+    "pushed_at": "2024-03-10T22:38:38Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 815313530,
+    "full_name": "YovaniSFDX/DreanHsRepo",
+    "html_url": "https://github.com/YovaniSFDX/DreanHsRepo",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2024-06-14T20:45:33Z",
+    "pushed_at": "2024-06-14T21:53:16Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 520550435,
+    "full_name": "mfullmore/gatekeeper",
+    "html_url": "https://github.com/mfullmore/gatekeeper",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-08-02T15:22:36Z",
+    "pushed_at": "2024-09-09T23:24:08Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 26768970,
+    "full_name": "salk31/RedGiving",
+    "html_url": "https://github.com/salk31/RedGiving",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 7,
+    "language": "Apex",
+    "created_at": "2014-11-17T17:48:24Z",
+    "pushed_at": "2014-12-09T17:56:23Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 38351625,
+    "full_name": "jacky1999cn2000/Kombucha",
+    "html_url": "https://github.com/jacky1999cn2000/Kombucha",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2015-07-01T05:31:14Z",
+    "pushed_at": "2015-10-24T07:18:50Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 46588979,
+    "full_name": "CComa/ApexRest",
+    "html_url": "https://github.com/CComa/ApexRest",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2015-11-20T21:56:16Z",
+    "pushed_at": "2015-11-20T21:57:10Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 106991510,
+    "full_name": "gedeef/Ip",
+    "html_url": "https://github.com/gedeef/Ip",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2017-10-15T07:11:49Z",
+    "pushed_at": "2017-10-16T15:22:06Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 82152764,
+    "full_name": "AnjaliPatel/WSDLtoApex",
+    "html_url": "https://github.com/AnjaliPatel/WSDLtoApex",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2017-02-16T07:32:41Z",
+    "pushed_at": "2017-02-16T07:32:54Z",
+    "license": {
+      "key": "epl-1.0",
+      "name": "Eclipse Public License 1.0",
+      "spdx_id": "EPL-1.0",
+      "url": "https://api.github.com/licenses/epl-1.0",
+      "node_id": "MDc6TGljZW5zZTc="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 78686873,
+    "full_name": "mkpartners/force-com-templates",
+    "html_url": "https://github.com/mkpartners/force-com-templates",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2017-01-11T22:46:48Z",
+    "pushed_at": "2017-02-21T18:44:31Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 180416629,
+    "full_name": "johnsfdemo/Milestone-Utilities",
+    "html_url": "https://github.com/johnsfdemo/Milestone-Utilities",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-04-09T17:23:48Z",
+    "pushed_at": "2019-05-24T15:17:58Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 573894788,
+    "full_name": "akshayk97/LWC-sObjects-Operation",
+    "html_url": "https://github.com/akshayk97/LWC-sObjects-Operation",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-12-03T19:12:14Z",
+    "pushed_at": "2022-12-03T19:15:10Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 644567800,
+    "full_name": "Keromon2k19/E-learning-Platform",
+    "html_url": "https://github.com/Keromon2k19/E-learning-Platform",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-05-23T19:46:22Z",
+    "pushed_at": "2023-05-23T20:38:04Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 791530588,
+    "full_name": "barmstrong99/OrgSetupAuditMonitor",
+    "html_url": "https://github.com/barmstrong99/OrgSetupAuditMonitor",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2024-04-24T22:08:40Z",
+    "pushed_at": "2024-04-24T22:09:43Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 147170642,
+    "full_name": "CIOIL/GuideStar",
+    "html_url": "https://github.com/CIOIL/GuideStar",
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "watchers_count": 0,
+    "open_issues_count": 2,
+    "language": "Apex",
+    "created_at": "2018-09-03T07:54:59Z",
+    "pushed_at": "2019-03-03T08:00:39Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 149635848,
+    "full_name": "EndritSino/sfdc-apex-templates",
+    "html_url": "https://github.com/EndritSino/sfdc-apex-templates",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-09-20T16:05:12Z",
+    "pushed_at": "2018-09-24T10:38:42Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 12937606,
+    "full_name": "MayTheSForceBeWithYou/MobileMetadataViewer",
+    "html_url": "https://github.com/MayTheSForceBeWithYou/MobileMetadataViewer",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2013-09-19T00:21:30Z",
+    "pushed_at": "2015-12-31T00:47:30Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 362528762,
+    "full_name": "dmgerow/sfdc-event-logging",
+    "html_url": "https://github.com/dmgerow/sfdc-event-logging",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-04-28T16:00:21Z",
+    "pushed_at": "2021-10-29T17:30:22Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 431549245,
+    "full_name": "Guiii-Sama/snicker_project",
+    "html_url": "https://github.com/Guiii-Sama/snicker_project",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-11-24T16:08:58Z",
+    "pushed_at": "2021-11-24T16:14:41Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 644426681,
+    "full_name": "snlucas/poc-github-docs",
+    "html_url": "https://github.com/snlucas/poc-github-docs",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-05-23T13:47:09Z",
+    "pushed_at": "2023-05-23T14:24:49Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 673696054,
+    "full_name": "asharmacopado/RestroMgmtV1",
+    "html_url": "https://github.com/asharmacopado/RestroMgmtV1",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-08-02T08:07:16Z",
+    "pushed_at": "2023-08-02T08:07:34Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 55061747,
+    "full_name": "alokotosh/mm-master",
+    "html_url": "https://github.com/alokotosh/mm-master",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2016-03-30T12:38:09Z",
+    "pushed_at": "2016-04-25T08:51:36Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 24520510,
+    "full_name": "soaksash/fieldsetofdreams",
+    "html_url": "https://github.com/soaksash/fieldsetofdreams",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2014-09-27T01:33:22Z",
+    "pushed_at": "2014-10-07T16:21:19Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 107271652,
+    "full_name": "yoshidablink/wsdltest",
+    "html_url": "https://github.com/yoshidablink/wsdltest",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2017-10-17T13:22:26Z",
+    "pushed_at": "2017-10-17T13:26:39Z",
+    "license": {
+      "key": "epl-1.0",
+      "name": "Eclipse Public License 1.0",
+      "spdx_id": "EPL-1.0",
+      "url": "https://api.github.com/licenses/epl-1.0",
+      "node_id": "MDc6TGljZW5zZTc="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 142916792,
+    "full_name": "alansf/grax-salesforce",
+    "html_url": "https://github.com/alansf/grax-salesforce",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-07-30T19:03:30Z",
+    "pushed_at": "2018-07-24T18:28:36Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 142865636,
+    "full_name": "dineshcopado/test",
+    "html_url": "https://github.com/dineshcopado/test",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 1,
+    "language": "Apex",
+    "created_at": "2018-07-30T11:19:50Z",
+    "pushed_at": "2018-08-22T22:22:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 161751284,
+    "full_name": "piyu1804/Copado",
+    "html_url": "https://github.com/piyu1804/Copado",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 2,
+    "language": "Apex",
+    "created_at": "2018-12-14T07:59:04Z",
+    "pushed_at": "2019-12-02T15:12:07Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 384215815,
+    "full_name": "majedali117/HomeTask",
+    "html_url": "https://github.com/majedali117/HomeTask",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-07-08T18:29:16Z",
+    "pushed_at": "2021-07-09T04:59:17Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 429307517,
+    "full_name": "balasurendrav/Story-Board",
+    "html_url": "https://github.com/balasurendrav/Story-Board",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-11-18T05:26:56Z",
+    "pushed_at": "2021-11-18T05:49:34Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 424924855,
+    "full_name": "markledden/salesforce-flow",
+    "html_url": "https://github.com/markledden/salesforce-flow",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-11-05T11:30:01Z",
+    "pushed_at": "2021-11-11T17:36:50Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 471309505,
+    "full_name": "McCubo/lwc_dev",
+    "html_url": "https://github.com/McCubo/lwc_dev",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-03-18T09:36:33Z",
+    "pushed_at": "2022-04-19T19:51:16Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 499340112,
+    "full_name": "sojman007/SfApexEasyCronBuilder",
+    "html_url": "https://github.com/sojman007/SfApexEasyCronBuilder",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-06-03T01:11:03Z",
+    "pushed_at": "2022-06-03T01:27:07Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 668273204,
+    "full_name": "saikumarbachu/Restaurant-Management-application-on-salesforce-platform",
+    "html_url": "https://github.com/saikumarbachu/Restaurant-Management-application-on-salesforce-platform",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-07-19T12:24:05Z",
+    "pushed_at": "2023-07-19T13:27:08Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 746602491,
+    "full_name": "Saci-Tech/ApexFramework",
+    "html_url": "https://github.com/Saci-Tech/ApexFramework",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2024-01-22T10:40:00Z",
+    "pushed_at": "2024-01-27T05:38:30Z",
+    "license": {
+      "key": "lgpl-2.1",
+      "name": "GNU Lesser General Public License v2.1",
+      "spdx_id": "LGPL-2.1",
+      "url": "https://api.github.com/licenses/lgpl-2.1",
+      "node_id": "MDc6TGljZW5zZTEx"
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 501798930,
+    "full_name": "MJ12358/apex-visualeditor-utils",
+    "html_url": "https://github.com/MJ12358/apex-visualeditor-utils",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-06-09T20:26:21Z",
+    "pushed_at": "2024-01-17T13:00:00Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 808795648,
+    "full_name": "davehahn/multireport-2-xlsx",
+    "html_url": "https://github.com/davehahn/multireport-2-xlsx",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2024-05-31T20:50:43Z",
+    "pushed_at": "2024-05-31T21:25:48Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 45342265,
+    "full_name": "powlo/RandomContactMe",
+    "html_url": "https://github.com/powlo/RandomContactMe",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2015-11-01T13:52:55Z",
+    "pushed_at": "2015-11-01T13:56:47Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 17395750,
+    "full_name": "Amit-Tripathi/Job-Orchestrator",
+    "html_url": "https://github.com/Amit-Tripathi/Job-Orchestrator",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2014-03-04T08:48:12Z",
+    "pushed_at": "2014-03-04T09:27:45Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 120172516,
+    "full_name": "thhsfdc/fv_dev",
+    "html_url": "https://github.com/thhsfdc/fv_dev",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-02-04T09:49:24Z",
+    "pushed_at": "2018-02-04T22:52:42Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 92445213,
+    "full_name": "pramodht/SFDCExperiments",
+    "html_url": "https://github.com/pramodht/SFDCExperiments",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2017-05-25T21:16:53Z",
+    "pushed_at": "2017-02-09T22:10:16Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 215786728,
+    "full_name": "johnsfdemo/Create-Case-Team-Member",
+    "html_url": "https://github.com/johnsfdemo/Create-Case-Team-Member",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-10-17T12:26:59Z",
+    "pushed_at": "2020-05-20T20:14:13Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 354868056,
+    "full_name": "seanrussell/blood-donor",
+    "html_url": "https://github.com/seanrussell/blood-donor",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-04-05T14:48:33Z",
+    "pushed_at": "2021-04-06T07:58:48Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 333736516,
+    "full_name": "rameen-loughlin-pwc/rps-boot",
+    "html_url": "https://github.com/rameen-loughlin-pwc/rps-boot",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-01-28T11:22:42Z",
+    "pushed_at": "2021-01-28T17:10:58Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 718540904,
+    "full_name": "damianostrano/Bulk-import-a-custom-labels-from-a-CSV",
+    "html_url": "https://github.com/damianostrano/Bulk-import-a-custom-labels-from-a-CSV",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-11-14T09:48:22Z",
+    "pushed_at": "2023-11-14T11:23:40Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 632088334,
+    "full_name": "beAGoodQE/test-utils-shared",
+    "html_url": "https://github.com/beAGoodQE/test-utils-shared",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-04-24T17:25:44Z",
+    "pushed_at": "2023-10-28T18:00:26Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 790965737,
+    "full_name": "barmstrong99/OrgEmailEvent",
+    "html_url": "https://github.com/barmstrong99/OrgEmailEvent",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2024-04-23T21:08:02Z",
+    "pushed_at": "2024-04-24T01:13:06Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 164204508,
+    "full_name": "nileshndethe/nilesh.ndethe-tbfw-force.com",
+    "html_url": "https://github.com/nileshndethe/nilesh.ndethe-tbfw-force.com",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-01-05T10:25:56Z",
+    "pushed_at": "2024-07-11T07:59:35Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 46285622,
+    "full_name": "standpoint/sfdc-playground",
+    "html_url": "https://github.com/standpoint/sfdc-playground",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2015-11-16T16:01:49Z",
+    "pushed_at": "2016-05-11T16:30:23Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 183827665,
+    "full_name": "vanglirajan/TrailheadChallenges",
+    "html_url": "https://github.com/vanglirajan/TrailheadChallenges",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-04-27T22:33:45Z",
+    "pushed_at": "2019-04-28T20:55:00Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 272474766,
+    "full_name": "cmerrill-adobe/AdobeSignSalesforceCustomLightningComponent",
+    "html_url": "https://github.com/cmerrill-adobe/AdobeSignSalesforceCustomLightningComponent",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2020-06-15T15:25:15Z",
+    "pushed_at": "2021-03-17T00:43:56Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 496819082,
+    "full_name": "Los-Angeles-Salesforce-Developer-Group/lwc-basics",
+    "html_url": "https://github.com/Los-Angeles-Salesforce-Developer-Group/lwc-basics",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-05-27T01:02:42Z",
+    "pushed_at": "2022-07-03T15:49:31Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 617207890,
+    "full_name": "VictorDegano/GenericApexRest",
+    "html_url": "https://github.com/VictorDegano/GenericApexRest",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-03-21T22:54:39Z",
+    "pushed_at": "2024-06-13T00:03:13Z",
+    "license": {
+      "key": "lgpl-2.1",
+      "name": "GNU Lesser General Public License v2.1",
+      "spdx_id": "LGPL-2.1",
+      "url": "https://api.github.com/licenses/lgpl-2.1",
+      "node_id": "MDc6TGljZW5zZTEx"
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 790963594,
+    "full_name": "barmstrong99/OrgCodeSetting",
+    "html_url": "https://github.com/barmstrong99/OrgCodeSetting",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2024-04-23T21:01:26Z",
+    "pushed_at": "2024-04-23T21:04:57Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 99732540,
+    "full_name": "justicenation/slashclock",
+    "html_url": "https://github.com/justicenation/slashclock",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 12,
+    "language": "Apex",
+    "created_at": "2017-08-08T20:17:10Z",
+    "pushed_at": "2019-06-26T00:33:43Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 116904866,
+    "full_name": "KrishnaB10/RestAPI",
+    "html_url": "https://github.com/KrishnaB10/RestAPI",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-01-10T03:47:11Z",
+    "pushed_at": "2018-01-10T03:47:28Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 209036689,
+    "full_name": "upraku/Salesforce-lightning-cloning-with-related-objects",
+    "html_url": "https://github.com/upraku/Salesforce-lightning-cloning-with-related-objects",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-09-17T11:33:48Z",
+    "pushed_at": "2022-09-20T03:08:37Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 184127338,
+    "full_name": "bdovhan/SimpleDataTableApp",
+    "html_url": "https://github.com/bdovhan/SimpleDataTableApp",
+    "stargazers_count": 0,
+    "forks_count": 14,
+    "watchers_count": 0,
+    "open_issues_count": 3,
+    "language": "Apex",
+    "created_at": "2019-04-29T19:00:59Z",
+    "pushed_at": "2021-01-29T12:39:40Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 195204861,
+    "full_name": "arunmenon2006/LWCDatatable",
+    "html_url": "https://github.com/arunmenon2006/LWCDatatable",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-07-04T08:51:29Z",
+    "pushed_at": "2019-07-08T06:32:05Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 312405720,
+    "full_name": "ankitdixit08/powerLoader",
+    "html_url": "https://github.com/ankitdixit08/powerLoader",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2020-11-12T21:58:09Z",
+    "pushed_at": "2020-12-01T19:34:53Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 429167372,
+    "full_name": "runicfox/DomainHandlerFramework",
+    "html_url": "https://github.com/runicfox/DomainHandlerFramework",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-11-17T19:02:51Z",
+    "pushed_at": "2021-11-18T02:52:25Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 420334392,
+    "full_name": "RonitSFDC/LWC-Superbadge-Repo",
+    "html_url": "https://github.com/RonitSFDC/LWC-Superbadge-Repo",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-10-23T06:35:27Z",
+    "pushed_at": "2021-12-29T13:11:59Z",
+    "license": {
+      "key": "mpl-2.0",
+      "name": "Mozilla Public License 2.0",
+      "spdx_id": "MPL-2.0",
+      "url": "https://api.github.com/licenses/mpl-2.0",
+      "node_id": "MDc6TGljZW5zZTE0"
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 458934945,
+    "full_name": "chandanrjit/productInfo-lwc-component",
+    "html_url": "https://github.com/chandanrjit/productInfo-lwc-component",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-02-13T21:20:55Z",
+    "pushed_at": "2022-02-14T00:27:16Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 633196211,
+    "full_name": "cmerrill-adobe/AdobeAcrobatSignSalesforceLWC",
+    "html_url": "https://github.com/cmerrill-adobe/AdobeAcrobatSignSalesforceLWC",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-04-27T01:43:15Z",
+    "pushed_at": "2023-05-11T17:04:13Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 146303133,
+    "full_name": "mriduldhar/Salesforce_Package_Consolidator",
+    "html_url": "https://github.com/mriduldhar/Salesforce_Package_Consolidator",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-08-27T13:42:39Z",
+    "pushed_at": "2018-08-27T13:43:51Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 119820437,
+    "full_name": "rkutaragi/test",
+    "html_url": "https://github.com/rkutaragi/test",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-02-01T10:28:42Z",
+    "pushed_at": "2018-02-01T10:29:52Z",
+    "license": {
+      "key": "epl-1.0",
+      "name": "Eclipse Public License 1.0",
+      "spdx_id": "EPL-1.0",
+      "url": "https://api.github.com/licenses/epl-1.0",
+      "node_id": "MDc6TGljZW5zZTc="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 201122965,
+    "full_name": "icodeforbeer/salesforce-utils",
+    "html_url": "https://github.com/icodeforbeer/salesforce-utils",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-08-07T20:27:33Z",
+    "pushed_at": "2020-04-15T15:56:07Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 329170495,
+    "full_name": "danico2104/SalesforceTriggerFramework",
+    "html_url": "https://github.com/danico2104/SalesforceTriggerFramework",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-01-13T02:27:21Z",
+    "pushed_at": "2021-03-12T15:44:26Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 455985610,
+    "full_name": "SBhoomika/sf-platform-events-example",
+    "html_url": "https://github.com/SBhoomika/sf-platform-events-example",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-02-05T21:06:14Z",
+    "pushed_at": "2022-02-05T23:55:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 425328489,
+    "full_name": "markledden/salesforce-email-services",
+    "html_url": "https://github.com/markledden/salesforce-email-services",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-11-06T19:17:20Z",
+    "pushed_at": "2021-11-06T19:40:48Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 510164725,
+    "full_name": "HappyY19/CustomizedQueriesForThomsonReutersIndia",
+    "html_url": "https://github.com/HappyY19/CustomizedQueriesForThomsonReutersIndia",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-07-04T00:20:52Z",
+    "pushed_at": "2023-05-22T11:59:08Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 654207546,
+    "full_name": "greg512/flow2lwc",
+    "html_url": "https://github.com/greg512/flow2lwc",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-06-15T15:58:53Z",
+    "pushed_at": "2023-06-20T16:26:34Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 742655791,
+    "full_name": "ildiavolorosso/FlosumDevopsSamples",
+    "html_url": "https://github.com/ildiavolorosso/FlosumDevopsSamples",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2024-01-13T01:13:09Z",
+    "pushed_at": "2024-01-13T01:30:35Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 52478706,
+    "full_name": "microsumol/ApexRest",
+    "html_url": "https://github.com/microsumol/ApexRest",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2016-02-24T22:22:35Z",
+    "pushed_at": "2016-02-24T22:23:26Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 116783391,
+    "full_name": "udayvannarathCognizant/SFDC-SOAP-Basic",
+    "html_url": "https://github.com/udayvannarathCognizant/SFDC-SOAP-Basic",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-01-09T07:45:51Z",
+    "pushed_at": "2018-01-11T11:50:01Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 93178900,
+    "full_name": "phuongtran2k/Copado-Manual",
+    "html_url": "https://github.com/phuongtran2k/Copado-Manual",
+    "stargazers_count": 0,
+    "forks_count": 168,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2017-06-02T15:24:56Z",
+    "pushed_at": "2017-05-09T10:18:45Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 173798747,
+    "full_name": "MarkHMorrison/ApprovalOverride",
+    "html_url": "https://github.com/MarkHMorrison/ApprovalOverride",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-03-04T18:26:39Z",
+    "pushed_at": "2019-03-11T18:03:07Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 198313256,
+    "full_name": "jesperklang/Salesforce-Connected-Arduino",
+    "html_url": "https://github.com/jesperklang/Salesforce-Connected-Arduino",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-07-22T22:54:52Z",
+    "pushed_at": "2019-11-16T21:11:27Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 439556344,
+    "full_name": "PrafullJain/Object-Viewer---Lightning-Web-Component",
+    "html_url": "https://github.com/PrafullJain/Object-Viewer---Lightning-Web-Component",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-12-18T07:37:31Z",
+    "pushed_at": "2021-12-18T08:17:51Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 421526773,
+    "full_name": "zzerr0/APEX_TRIGGERS",
+    "html_url": "https://github.com/zzerr0/APEX_TRIGGERS",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-10-26T17:44:35Z",
+    "pushed_at": "2021-12-23T18:04:36Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 401617330,
+    "full_name": "nfunky/salesforce-survey-invitation-generator",
+    "html_url": "https://github.com/nfunky/salesforce-survey-invitation-generator",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-08-31T07:47:17Z",
+    "pushed_at": "2021-08-31T12:51:26Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 564611445,
+    "full_name": "AnudeepPasupuleti/Prod",
+    "html_url": "https://github.com/AnudeepPasupuleti/Prod",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 5,
+    "language": "Apex",
+    "created_at": "2022-11-11T04:41:39Z",
+    "pushed_at": "2024-08-21T13:09:16Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 643466667,
+    "full_name": "ravnoc/silverstate",
+    "html_url": "https://github.com/ravnoc/silverstate",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-05-21T08:54:14Z",
+    "pushed_at": "2023-12-02T16:51:54Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 51709124,
+    "full_name": "Sidharth-Panda/ApexRest",
+    "html_url": "https://github.com/Sidharth-Panda/ApexRest",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2016-02-14T19:14:49Z",
+    "pushed_at": "2019-08-09T13:06:57Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 24935135,
+    "full_name": "swapnilshrikhande/design-patterns",
+    "html_url": "https://github.com/swapnilshrikhande/design-patterns",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2014-10-08T10:10:20Z",
+    "pushed_at": "2014-11-14T09:13:21Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 101075663,
+    "full_name": "progresscreator/salesforce-apex-trigger_notify",
+    "html_url": "https://github.com/progresscreator/salesforce-apex-trigger_notify",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2017-08-22T15:04:36Z",
+    "pushed_at": "2017-08-22T15:05:55Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 120958330,
+    "full_name": "mkpartners/delegated-authentication-sso",
+    "html_url": "https://github.com/mkpartners/delegated-authentication-sso",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-02-09T21:36:48Z",
+    "pushed_at": "2018-02-09T21:49:37Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 160260073,
+    "full_name": "softwaresubscription/SFDC",
+    "html_url": "https://github.com/softwaresubscription/SFDC",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-12-03T22:05:19Z",
+    "pushed_at": "2018-12-03T22:06:01Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 180582024,
+    "full_name": "johnsfdemo/Attach-File",
+    "html_url": "https://github.com/johnsfdemo/Attach-File",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-04-10T12:56:31Z",
+    "pushed_at": "2020-05-28T00:09:37Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 221973655,
+    "full_name": "rbutus/salesforce_pkg",
+    "html_url": "https://github.com/rbutus/salesforce_pkg",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-11-15T17:37:08Z",
+    "pushed_at": "2019-11-15T17:40:58Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 718533513,
+    "full_name": "damianostrano/Formula-Formatter",
+    "html_url": "https://github.com/damianostrano/Formula-Formatter",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-11-14T09:28:27Z",
+    "pushed_at": "2023-11-14T11:22:48Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 706002303,
+    "full_name": "kiliogene/motdujour",
+    "html_url": "https://github.com/kiliogene/motdujour",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-10-17T05:49:11Z",
+    "pushed_at": "2023-10-17T06:08:39Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 62509362,
+    "full_name": "RJPalombo/force-bulk-touch",
+    "html_url": "https://github.com/RJPalombo/force-bulk-touch",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2016-07-03T18:17:24Z",
+    "pushed_at": "2016-07-03T19:04:45Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 50744738,
+    "full_name": "csrforce/repo_01302016_1558",
+    "html_url": "https://github.com/csrforce/repo_01302016_1558",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2016-01-30T21:00:49Z",
+    "pushed_at": "2019-07-16T17:54:10Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 101941515,
+    "full_name": "adesotamn/Apex-BooleanStringProcessor",
+    "html_url": "https://github.com/adesotamn/Apex-BooleanStringProcessor",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2017-08-31T00:30:51Z",
+    "pushed_at": "2017-09-01T01:36:53Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 96920968,
+    "full_name": "phani467/DF13ApexRest",
+    "html_url": "https://github.com/phani467/DF13ApexRest",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2017-07-11T17:49:44Z",
+    "pushed_at": "2017-07-11T17:49:58Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 102792477,
+    "full_name": "jeesparza2/TechDevGuide-AdvancedLearning",
+    "html_url": "https://github.com/jeesparza2/TechDevGuide-AdvancedLearning",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2017-09-07T22:41:59Z",
+    "pushed_at": "2017-09-07T22:42:02Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 164204460,
+    "full_name": "nileshndethe/nilesh.ndethe-hotmail.com",
+    "html_url": "https://github.com/nileshndethe/nilesh.ndethe-hotmail.com",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-01-05T10:25:14Z",
+    "pushed_at": "2019-04-29T07:15:48Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 131835944,
+    "full_name": "Patlatus/ApexDataGeneration",
+    "html_url": "https://github.com/Patlatus/ApexDataGeneration",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-05-02T10:35:14Z",
+    "pushed_at": "2019-05-11T19:26:11Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 141781312,
+    "full_name": "rajeevjainsfdc/SalesforceOrgConnector-Salesforce",
+    "html_url": "https://github.com/rajeevjainsfdc/SalesforceOrgConnector-Salesforce",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-07-21T04:33:05Z",
+    "pushed_at": "2018-07-21T04:53:15Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 165903012,
+    "full_name": "wspringe/ApexServiceLayerPattern",
+    "html_url": "https://github.com/wspringe/ApexServiceLayerPattern",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-01-15T18:33:30Z",
+    "pushed_at": "2019-01-15T18:52:55Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 336355938,
+    "full_name": "stb-kslater3/ApexDataInterface",
+    "html_url": "https://github.com/stb-kslater3/ApexDataInterface",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-02-05T18:28:31Z",
+    "pushed_at": "2021-04-27T16:11:33Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 389819722,
+    "full_name": "AndreaFernandezAguilar/globant-git-workshop",
+    "html_url": "https://github.com/AndreaFernandezAguilar/globant-git-workshop",
+    "stargazers_count": 0,
+    "forks_count": 8,
+    "watchers_count": 0,
+    "open_issues_count": 2,
+    "language": "Apex",
+    "created_at": "2021-07-27T02:00:11Z",
+    "pushed_at": "2021-07-30T22:22:32Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 448067779,
+    "full_name": "joselaurindoferreira/Class-of-Apex",
+    "html_url": "https://github.com/joselaurindoferreira/Class-of-Apex",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-01-14T18:23:43Z",
+    "pushed_at": "2022-02-11T16:27:38Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 437076114,
+    "full_name": "Apoorv18/apexcode-practise",
+    "html_url": "https://github.com/Apoorv18/apexcode-practise",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-12-10T18:24:45Z",
+    "pushed_at": "2021-12-21T18:03:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 23554696,
+    "full_name": "capeterson/MassEdit",
+    "html_url": "https://github.com/capeterson/MassEdit",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2014-09-01T20:20:18Z",
+    "pushed_at": "2014-09-01T22:28:58Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 24902090,
+    "full_name": "soaksash/thefieldsetofdreams",
+    "html_url": "https://github.com/soaksash/thefieldsetofdreams",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2014-10-07T17:22:45Z",
+    "pushed_at": "2014-10-07T17:30:46Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 39407855,
+    "full_name": "mkpartners/forcedotcom-pardot-integration",
+    "html_url": "https://github.com/mkpartners/forcedotcom-pardot-integration",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2015-07-20T20:52:30Z",
+    "pushed_at": "2022-03-23T20:26:15Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 116904800,
+    "full_name": "naathcrm/RestAPI-",
+    "html_url": "https://github.com/naathcrm/RestAPI-",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-01-10T03:46:30Z",
+    "pushed_at": "2018-01-10T03:46:46Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 152552687,
+    "full_name": "pokimica/SF",
+    "html_url": "https://github.com/pokimica/SF",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-10-11T07:52:32Z",
+    "pushed_at": "2018-10-21T21:37:07Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 205405240,
+    "full_name": "Rickvlaar/Salesforce-Utils",
+    "html_url": "https://github.com/Rickvlaar/Salesforce-Utils",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-08-30T15:07:17Z",
+    "pushed_at": "2019-08-30T15:12:24Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 188680217,
+    "full_name": "AbhijitStack/OfficeDistanceMatrix",
+    "html_url": "https://github.com/AbhijitStack/OfficeDistanceMatrix",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 2,
+    "language": "Apex",
+    "created_at": "2019-05-26T12:30:20Z",
+    "pushed_at": "2023-04-19T19:11:31Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 295412436,
+    "full_name": "SirBruno/JSONPlaceholderUnsplashPjk",
+    "html_url": "https://github.com/SirBruno/JSONPlaceholderUnsplashPjk",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2020-09-14T12:40:55Z",
+    "pushed_at": "2020-09-14T20:18:10Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 320326335,
+    "full_name": "catalandres/ugarte",
+    "html_url": "https://github.com/catalandres/ugarte",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2020-12-10T16:20:44Z",
+    "pushed_at": "2020-12-10T16:48:19Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 337433092,
+    "full_name": "MorganMarchese/demo",
+    "html_url": "https://github.com/MorganMarchese/demo",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2021-02-09T14:35:26Z",
+    "pushed_at": "2021-05-24T16:13:40Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 542176304,
+    "full_name": "issing86/User-Tracking",
+    "html_url": "https://github.com/issing86/User-Tracking",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-09-27T16:10:51Z",
+    "pushed_at": "2022-10-17T04:43:14Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 169415615,
+    "full_name": "ministe2003/cloneOppWithProducts",
+    "html_url": "https://github.com/ministe2003/cloneOppWithProducts",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-02-06T14:06:10Z",
+    "pushed_at": "2019-02-20T16:50:11Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 118798529,
+    "full_name": "PrashantGuptaSFD/AppDev",
+    "html_url": "https://github.com/PrashantGuptaSFD/AppDev",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-01-24T17:30:30Z",
+    "pushed_at": "2018-05-09T09:20:11Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 120065450,
+    "full_name": "SameerPrasonn/SampleCode",
+    "html_url": "https://github.com/SameerPrasonn/SampleCode",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-02-03T06:21:13Z",
+    "pushed_at": "2018-02-03T06:23:52Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 89961565,
+    "full_name": "MWCamp/SFSetupAuditTrail",
+    "html_url": "https://github.com/MWCamp/SFSetupAuditTrail",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 1,
+    "language": "Apex",
+    "created_at": "2017-05-01T20:46:19Z",
+    "pushed_at": "2022-09-29T15:50:00Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 128061054,
+    "full_name": "agentgill/Logging",
+    "html_url": "https://github.com/agentgill/Logging",
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-04-04T12:47:19Z",
+    "pushed_at": "2020-08-11T09:06:29Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 149381850,
+    "full_name": "GaelicDogX/cdl_default",
+    "html_url": "https://github.com/GaelicDogX/cdl_default",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-09-19T02:39:44Z",
+    "pushed_at": "2018-09-19T22:48:06Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 162275168,
+    "full_name": "cloudcyborg/environment-api",
+    "html_url": "https://github.com/cloudcyborg/environment-api",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2018-12-18T11:05:05Z",
+    "pushed_at": "2018-12-19T11:30:43Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 272517979,
+    "full_name": "cmerrill-adobe/AdobeSignSalesforceApiV6",
+    "html_url": "https://github.com/cmerrill-adobe/AdobeSignSalesforceApiV6",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2020-06-15T18:46:16Z",
+    "pushed_at": "2022-03-03T17:17:45Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 479535409,
+    "full_name": "AsociacionZeta/sf-app",
+    "html_url": "https://github.com/AsociacionZeta/sf-app",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-04-08T20:53:12Z",
+    "pushed_at": "2022-06-04T13:33:52Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 555301132,
+    "full_name": "MJ12358/apex-trigger-framework",
+    "html_url": "https://github.com/MJ12358/apex-trigger-framework",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-10-21T10:07:21Z",
+    "pushed_at": "2024-01-17T12:58:31Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 55587987,
+    "full_name": "hiamitbhardwaj/rest",
+    "html_url": "https://github.com/hiamitbhardwaj/rest",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2016-04-06T08:17:33Z",
+    "pushed_at": "2016-04-06T08:17:42Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 54386246,
+    "full_name": "syemialy/meexle-sf",
+    "html_url": "https://github.com/syemialy/meexle-sf",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2016-03-21T12:18:33Z",
+    "pushed_at": "2016-08-07T23:33:28Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 65340879,
+    "full_name": "kiran-machhewar/SFChangeSetTool",
+    "html_url": "https://github.com/kiran-machhewar/SFChangeSetTool",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 8,
+    "language": "Apex",
+    "created_at": "2016-08-10T01:40:21Z",
+    "pushed_at": "2016-10-28T13:27:11Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 218069524,
+    "full_name": "ivaylo-iliev/salesforce_helpers",
+    "html_url": "https://github.com/ivaylo-iliev/salesforce_helpers",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2019-10-28T14:45:14Z",
+    "pushed_at": "2021-11-26T14:05:06Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 455802673,
+    "full_name": "navalkulkarni/BlogContent",
+    "html_url": "https://github.com/navalkulkarni/BlogContent",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2022-02-05T07:15:07Z",
+    "pushed_at": "2022-02-05T07:24:02Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 593299514,
+    "full_name": "kazuyabr/salesforce-practice",
+    "html_url": "https://github.com/kazuyabr/salesforce-practice",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-01-25T17:35:15Z",
+    "pushed_at": "2023-01-25T17:47:15Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 625682816,
+    "full_name": "nicolasbiscotti/PPP-habifi-CG-2023",
+    "html_url": "https://github.com/nicolasbiscotti/PPP-habifi-CG-2023",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-04-09T21:24:05Z",
+    "pushed_at": "2023-04-14T16:58:41Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 617578026,
+    "full_name": "JohanGio92/lwc",
+    "html_url": "https://github.com/JohanGio92/lwc",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2023-03-22T17:16:24Z",
+    "pushed_at": "2023-04-09T12:36:51Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 791507851,
+    "full_name": "barmstrong99/OrgSandboxPostCopy",
+    "html_url": "https://github.com/barmstrong99/OrgSandboxPostCopy",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2024-04-24T20:58:27Z",
+    "pushed_at": "2024-04-24T21:01:08Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 791513688,
+    "full_name": "barmstrong99/OrgUtilities",
+    "html_url": "https://github.com/barmstrong99/OrgUtilities",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "Apex",
+    "created_at": "2024-04-24T21:13:34Z",
+    "pushed_at": "2024-04-24T23:24:02Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 11:19:29 AM (Europe/Amsterdam)"
+  }
+]

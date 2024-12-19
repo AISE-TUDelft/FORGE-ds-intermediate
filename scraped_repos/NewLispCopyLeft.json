@@ -1,0 +1,702 @@
+[
+  {
+    "id": 50688806,
+    "full_name": "TellinaTool/nl2bash",
+    "html_url": "https://github.com/TellinaTool/nl2bash",
+    "stargazers_count": 448,
+    "forks_count": 60,
+    "watchers_count": 448,
+    "open_issues_count": 12,
+    "language": "NewLisp",
+    "created_at": "2016-01-29T20:19:25Z",
+    "pushed_at": "2024-08-20T16:13:45Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:55:26 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 26671073,
+    "full_name": "nikki-and-the-robots/nikki",
+    "html_url": "https://github.com/nikki-and-the-robots/nikki",
+    "stargazers_count": 115,
+    "forks_count": 11,
+    "watchers_count": 115,
+    "open_issues_count": 3,
+    "language": "NewLisp",
+    "created_at": "2014-11-15T06:02:59Z",
+    "pushed_at": "2022-06-19T02:17:09Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/21/2024, 9:55:35 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 788509490,
+    "full_name": "JettChenT/earthkit",
+    "html_url": "https://github.com/JettChenT/earthkit",
+    "stargazers_count": 45,
+    "forks_count": 6,
+    "watchers_count": 45,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2024-04-18T14:55:41Z",
+    "pushed_at": "2024-09-19T14:48:37Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:55:44 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 23921022,
+    "full_name": "dwolter/SparQ",
+    "html_url": "https://github.com/dwolter/SparQ",
+    "stargazers_count": 21,
+    "forks_count": 4,
+    "watchers_count": 21,
+    "open_issues_count": 7,
+    "language": "NewLisp",
+    "created_at": "2014-09-11T14:11:49Z",
+    "pushed_at": "2023-11-29T11:44:31Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:55:51 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 103040374,
+    "full_name": "danya02/undertale-clone",
+    "html_url": "https://github.com/danya02/undertale-clone",
+    "stargazers_count": 11,
+    "forks_count": 9,
+    "watchers_count": 11,
+    "open_issues_count": 1,
+    "language": "NewLisp",
+    "created_at": "2017-09-10T15:31:51Z",
+    "pushed_at": "2020-08-29T18:44:54Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:27 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 62034837,
+    "full_name": "cbaggers/topology-notes",
+    "html_url": "https://github.com/cbaggers/topology-notes",
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "watchers_count": 4,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2016-06-27T07:32:36Z",
+    "pushed_at": "2016-06-27T07:33:26Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:36 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 658912533,
+    "full_name": "yuriy-chumak/rcm-101",
+    "html_url": "https://github.com/yuriy-chumak/rcm-101",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2023-06-26T18:48:46Z",
+    "pushed_at": "2023-07-04T22:26:35Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:44 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 239976808,
+    "full_name": "matteo-grella/Lege",
+    "html_url": "https://github.com/matteo-grella/Lege",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2020-02-12T09:45:13Z",
+    "pushed_at": "2020-02-12T09:48:29Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:44 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 121637675,
+    "full_name": "MiloShaw/nlinl",
+    "html_url": "https://github.com/MiloShaw/nlinl",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "open_issues_count": 1,
+    "language": "NewLisp",
+    "created_at": "2018-02-15T14:15:46Z",
+    "pushed_at": "2018-02-20T13:24:04Z",
+    "license": {
+      "key": "lgpl-2.1",
+      "name": "GNU Lesser General Public License v2.1",
+      "spdx_id": "LGPL-2.1",
+      "url": "https://api.github.com/licenses/lgpl-2.1",
+      "node_id": "MDc6TGljZW5zZTEx"
+    },
+    "retrieval_date": "9/21/2024, 9:56:44 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 177946406,
+    "full_name": "DexterLagan/newstrap",
+    "html_url": "https://github.com/DexterLagan/newstrap",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2019-03-27T08:02:03Z",
+    "pushed_at": "2021-08-05T20:23:22Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:44 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 537920772,
+    "full_name": "seanpm2001/SNU_2D_ProgrammingTools_IDE_NewLisp",
+    "html_url": "https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_NewLisp",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2022-09-17T20:17:18Z",
+    "pushed_at": "2022-09-19T00:24:07Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:44 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 537920502,
+    "full_name": "seanpm2001/Learn-NewLisp",
+    "html_url": "https://github.com/seanpm2001/Learn-NewLisp",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2022-09-17T20:16:03Z",
+    "pushed_at": "2022-09-19T00:18:14Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:44 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 100380292,
+    "full_name": "SemRoCo/giskard_pr2",
+    "html_url": "https://github.com/SemRoCo/giskard_pr2",
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2017-08-15T13:30:22Z",
+    "pushed_at": "2018-06-05T12:47:11Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/21/2024, 9:56:51 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 98689401,
+    "full_name": "jjhoo/sudoku-newlisp",
+    "html_url": "https://github.com/jjhoo/sudoku-newlisp",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2017-07-28T21:25:28Z",
+    "pushed_at": "2022-07-10T01:56:10Z",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "retrieval_date": "9/21/2024, 9:56:51 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 194418396,
+    "full_name": "yuriy-chumak/naruto",
+    "html_url": "https://github.com/yuriy-chumak/naruto",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2019-06-29T15:08:06Z",
+    "pushed_at": "2019-12-28T20:11:52Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:51 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 177964917,
+    "full_name": "ashimko/XLM",
+    "html_url": "https://github.com/ashimko/XLM",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2019-03-27T09:50:46Z",
+    "pushed_at": "2019-03-27T09:59:34Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:51 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 43107488,
+    "full_name": "evilactually/nikki",
+    "html_url": "https://github.com/evilactually/nikki",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2015-09-25T03:28:12Z",
+    "pushed_at": "2015-09-25T03:36:01Z",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "retrieval_date": "9/21/2024, 9:56:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 205224460,
+    "full_name": "pepdiz/newlisp",
+    "html_url": "https://github.com/pepdiz/newlisp",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2019-08-29T18:16:53Z",
+    "pushed_at": "2020-05-30T23:28:48Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 241136098,
+    "full_name": "stagedml/nl2bash_essence",
+    "html_url": "https://github.com/stagedml/nl2bash_essence",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2020-02-17T15:04:55Z",
+    "pushed_at": "2020-03-06T20:11:47Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 467012606,
+    "full_name": "napoleonm/pourquoi",
+    "html_url": "https://github.com/napoleonm/pourquoi",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2022-03-07T08:47:07Z",
+    "pushed_at": "2022-04-02T01:51:04Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 176248105,
+    "full_name": "unsigned-nerd/misc-lisp-scripts",
+    "html_url": "https://github.com/unsigned-nerd/misc-lisp-scripts",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2019-03-18T09:33:44Z",
+    "pushed_at": "2020-05-13T15:32:25Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 87265308,
+    "full_name": "neelfirst/sicp",
+    "html_url": "https://github.com/neelfirst/sicp",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2017-04-05T04:18:05Z",
+    "pushed_at": "2017-04-17T05:47:22Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 647969418,
+    "full_name": "tatrapikao/OSCueLight",
+    "html_url": "https://github.com/tatrapikao/OSCueLight",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2023-05-31T23:28:43Z",
+    "pushed_at": "2023-07-26T02:14:43Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/21/2024, 9:56:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 802515320,
+    "full_name": "bebalo/newLISP-Tk",
+    "html_url": "https://github.com/bebalo/newLISP-Tk",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2024-05-18T14:07:43Z",
+    "pushed_at": "2024-06-23T15:20:08Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 611644300,
+    "full_name": "thecoachingonline/hello-Lisp",
+    "html_url": "https://github.com/thecoachingonline/hello-Lisp",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2023-03-09T08:51:03Z",
+    "pushed_at": "2023-12-09T05:22:48Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 360112258,
+    "full_name": "SonnyJim/SuperSpikeVballDISASY",
+    "html_url": "https://github.com/SonnyJim/SuperSpikeVballDISASY",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2021-04-21T09:37:00Z",
+    "pushed_at": "2021-05-05T09:44:21Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 594315568,
+    "full_name": "RshNk73/Sparq",
+    "html_url": "https://github.com/RshNk73/Sparq",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2023-01-28T06:34:30Z",
+    "pushed_at": "2023-01-28T06:35:26Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 104228926,
+    "full_name": "tuxedodude/99-lisp-problems",
+    "html_url": "https://github.com/tuxedodude/99-lisp-problems",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2017-09-20T14:50:31Z",
+    "pushed_at": "2017-09-21T04:38:09Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 783610688,
+    "full_name": "lambdacogito/sconekb-data",
+    "html_url": "https://github.com/lambdacogito/sconekb-data",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2024-04-08T08:24:28Z",
+    "pushed_at": "2024-04-08T08:26:11Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 92286222,
+    "full_name": "smart-pucrs/floods-domain",
+    "html_url": "https://github.com/smart-pucrs/floods-domain",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2017-05-24T11:45:09Z",
+    "pushed_at": "2020-08-29T11:11:49Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 453135802,
+    "full_name": "adam-grofe/Photon-Echo-Analysis",
+    "html_url": "https://github.com/adam-grofe/Photon-Echo-Analysis",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2022-01-28T16:20:36Z",
+    "pushed_at": "2022-01-31T16:42:08Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 309268507,
+    "full_name": "SonnyJim/BomberKingDISASY",
+    "html_url": "https://github.com/SonnyJim/BomberKingDISASY",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2020-11-02T05:34:55Z",
+    "pushed_at": "2020-11-09T11:57:11Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 738244115,
+    "full_name": "Max-Y-Ma/VLSI-Placer-Router",
+    "html_url": "https://github.com/Max-Y-Ma/VLSI-Placer-Router",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2024-01-02T19:18:26Z",
+    "pushed_at": "2024-01-06T05:13:49Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 32979387,
+    "full_name": "Daniel-Nikpayuk/SICP-Solutions",
+    "html_url": "https://github.com/Daniel-Nikpayuk/SICP-Solutions",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2015-03-27T10:06:40Z",
+    "pushed_at": "2015-03-27T10:08:10Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/21/2024, 9:56:58 AM (Europe/Amsterdam)"
+  },
+  {
+    "id": 240254371,
+    "full_name": "yuriy-chumak/hotrs",
+    "html_url": "https://github.com/yuriy-chumak/hotrs",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": "NewLisp",
+    "created_at": "2020-02-13T12:24:30Z",
+    "pushed_at": "2023-02-17T20:27:39Z",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "retrieval_date": "9/21/2024, 9:56:58 AM (Europe/Amsterdam)"
+  }
+]

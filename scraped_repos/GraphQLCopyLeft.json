@@ -1,0 +1,42 @@
+[
+  {
+    "id": 536292152,
+    "full_name": "seanpm2001/Learn-GraphQL",
+    "html_url": "https://github.com/seanpm2001/Learn-GraphQL",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "GraphQL",
+    "created_at": "2022-09-13T20:07:50Z",
+    "pushed_at": "2022-09-13T23:54:32Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 2:05:22 PM (Europe/Amsterdam)"
+  },
+  {
+    "id": 536292571,
+    "full_name": "seanpm2001/SNU_2D_ProgrammingTools_IDE_GraphQL",
+    "html_url": "https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GraphQL",
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "watchers_count": 2,
+    "open_issues_count": 0,
+    "language": "GraphQL",
+    "created_at": "2022-09-13T20:09:17Z",
+    "pushed_at": "2022-09-14T00:02:01Z",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "retrieval_date": "9/19/2024, 2:05:22 PM (Europe/Amsterdam)"
+  }
+]
