@@ -16,3 +16,22 @@ To run the exact deduplication we make use of unix (ubuntu) tools, the naming/av
 
 
 ## Using the dataset
+In order to have the most data available for each dataset, we do not filter duplicates from the dataset. Instead we add a boolean mask to The Heap that allows for filtering for unique files in each dataset.
+
+Using the Datasets API, our dataset can be used as follows:
+
+```
+from datasets import load_dataset
+
+dataset_name = 'RedPajama'
+language = 'Java'
+
+ds = load_dataset(
+    "/The_Heap",
+    f"{language}Near",
+    split="train",
+    num_proc=16
+)
+
+ds = ds.filter(lambda x: not x[f'exact_dupe_{dataset_name}'] and not x[f'near_dups_{dataset_name}'])
+```
