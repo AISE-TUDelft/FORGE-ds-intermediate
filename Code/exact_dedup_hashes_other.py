@@ -2,7 +2,7 @@ import subprocess
 import os
 from tqdm import tqdm
 
-files = os.popen("ls ../ours").read().split("\n")
+files = os.popen("ls ../dataset_name").read().split("\n")
 files = [f for f in files if "uniq" in f]
 
 for f in tqdm(files):
