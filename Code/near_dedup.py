@@ -8,10 +8,10 @@ import ast
 import json
 import regex as re
 
-login("key")
+login("HUGGINGFACE KEY")
 
 """Load your LSH object globally to avoid sharing it across processes"""
-with open("/lshFolder/lsh_haskell_fin.pkl", "rb") as file:
+with open("/lshFolder/lsh_haskell.pkl", "rb") as file:
     LSH = pickle.load(file)
 
 
@@ -381,14 +381,14 @@ def near_dedup(elements, near_dict):
 if __name__ == "__main__":
 
     stackv2 = load_dataset(
-        "AISE-TUDelft/the-stack-v2",
+        "<Anonymized>/the-stack-v2",
         "HaskellFiles",
         split="train",
         cache_dir="/huggingfaceCache",
     )
 
     own_dataset = load_dataset(
-        "AISE-TUDelft/MSR_Intermediate",
+        "<Anonymized>/The_Heap",
         "HaskellFiles",
         split="train",
         cache_dir="/huggingfaceCache",
@@ -407,7 +407,7 @@ if __name__ == "__main__":
     values_array = list(near_files.values())
     near_ds = own_dataset.add_column("near_dups_stkv2", values_array)
     near_ds.push_to_hub(
-        "AISE-TUDelft/newRepo",
+        "<Anonymized>/newRepo",
         "HaskellNear",
         data_dir="data/Haskell_Near",
     )
