@@ -10,23 +10,8 @@ from datasets import Dataset
 import datasets
 import subprocess
 import chardet
-#datasets.builder.has_sufficient_disk_space = lambda needed_bytes, directory='.': True
 
-login("key")
-
-# let's leave it here for now
-# def get_latest_commit_hash(repo_path, file_path):
-#     repo = git.Repo(repo_path)
-#     repo_root = repo.working_tree_dir
-#     file_rel_path = os.path.relpath(file_path, start=repo_root)
-#     file_abs_path = os.path.join(repo_root, file_rel_path)
-#     commits = list(repo.iter_commits(paths=file_abs_path))
-
-#     if commits:
-#         return commits[0].hexsha
-#     else:
-#         return None
-
+login("HUGGINGFACE KEY")
 
 def extract_repo_files(language, n_proj_min, n_proj_max):
     n_proj_min = int(n_proj_min)
@@ -120,7 +105,6 @@ def extract_repo_files(language, n_proj_min, n_proj_max):
                                         data["repo_license"] = j["license"]["spdx_id"]
                                         data["repo_extraction_date"] = j["retrieval_date"]
                                         counter = counter + 1
-                                        # os.remove(basepath + "/" + f1)
                                         yield data
                                     else:
                                         continue
@@ -128,8 +112,6 @@ def extract_repo_files(language, n_proj_min, n_proj_max):
                                     continue
                                 except Exception as _:
                                     continue
-
-                            # os.remove(basepath + "/" + f1)
                         else:
                             continue
             shutil.rmtree(folder + "/" + name)
@@ -147,5 +129,4 @@ if __name__ == "__main__":
     min_repos = sys.argv[2] # This should always be 0 when given as input
     max_repos = sys.argv[3] # This should be the total no. of repos scraped, e.g. 51000 for Java
     dataset = Dataset.from_generator(lambda: extract_repo_files(language, min_repos, max_repos))
-    dataset.push_to_hub("AISE-TUDelft/Repo_Files_Stackless", config_name="PerlFiles", data_dir="data/Perl_Files")
-    # Use the same config and data dir names as we did before
+    dataset.push_to_hub("HUGGINGFACE DATASET", config_name="PerlFiles", data_dir="data/Perl_Files")
