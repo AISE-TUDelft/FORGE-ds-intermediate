@@ -42,6 +42,6 @@ ds = load_dataset(
 ds = ds.filter(lambda x: not x[f'exact_dupe_{dataset_name}'] and not x[f'near_dups_{dataset_name}'])
 ```
 
-## acknowledgements
-We extended the collection of file endings and programming languages from ... in the file ...
-We added the languages ...
+## Acknowledgements
+We extended the collection of programming language extensions used for [https://gist.github.com/ppisarczyk/43962d06686722d26d176fad46879d41](The Stack) in the file _langs_extension.json_
+We added the EJS, Raku, Starlark, and WebAssembly languages. 
